@@ -13,4 +13,5 @@
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust  |
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
-|  121  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
+|  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
+|  121  |  Triangle  |  ✅  |  Rust  |
