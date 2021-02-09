@@ -15,3 +15,4 @@
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
 |  121  |  Triangle  |  ✅  |  Rust  |
+|  279  |  Perfect Squares  |  ✅  |  Rust  |
