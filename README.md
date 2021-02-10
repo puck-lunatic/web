@@ -12,6 +12,7 @@
 |  18  |  4Sum  |  ✅  |  Rust  |
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust  |
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust  |
+|  22  |  Generate Parentheses  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
 |  121  |  Triangle  |  ✅  |  Rust  |
