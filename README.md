@@ -16,4 +16,6 @@
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
 |  121  |  Triangle  |  ✅  |  Rust  |
+|  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
+|  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |

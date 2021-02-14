@@ -22,12 +22,12 @@ impl Solution {
         let mut current = head;
         
         while let Some(mut tmp) = current.take() {
-	        let next = tmp.next.take();
-	        tmp.next = prev.take();
-	        prev = Some(tmp);
-	        current = next;
-	    }
+            let next = tmp.next.take();
+            tmp.next = prev.take();
+            prev = Some(tmp);
+            current = next;
+        }
 
-	    prev
+        prev
     }
 }

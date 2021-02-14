@@ -1,6 +1,6 @@
 impl Solution {
     pub fn combination_sum(candidates: Vec<i32>, target: i32) -> Vec<Vec<i32>> {
-         let mut candidates = candidates;
+        let mut candidates = candidates;
         candidates.sort();
         let mut result = Vec::new();
         let mut path = Vec::new();
