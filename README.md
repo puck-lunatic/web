@@ -6,9 +6,12 @@
 |  7  |  Reverse Integer  |  ✅  |  Javascript  |
 |  9  |  Palindrome Number  |  ✅  |  Javascript  |
 |  11  |  Container With Most Water  |  ✅  |  Javascript  |
+|  12  |  Integer to Roman  |  ✅  |  Rust  |
+|  13  |  Roman to Integer  |  ✅  |  Javascript  |
 |  14  |  Longest Common Prefix  |  ✅  |  Javascript  |
 |  15  |  3Sum  |  ✅  |  Rust  |
 |  16  |  3Sum Closest  |  ✅  |  Javascript  |
+|  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust  |
 |  18  |  4Sum  |  ✅  |  Rust  |
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust  |
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust  |
