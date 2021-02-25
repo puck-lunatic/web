@@ -24,6 +24,7 @@
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
+|  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
