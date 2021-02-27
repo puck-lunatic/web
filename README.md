@@ -21,6 +21,7 @@
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
 |  121  |  Triangle  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
+|  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
