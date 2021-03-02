@@ -28,6 +28,7 @@
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
+|  645  |  Set Mismatch  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
