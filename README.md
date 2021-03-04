@@ -22,7 +22,9 @@
 |  121  |  Triangle  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
+|  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
+|  268  |  Missing Number  |  ✅  |  Rust  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
