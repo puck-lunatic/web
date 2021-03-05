@@ -23,6 +23,7 @@
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
+|  238  |  Product of Array Except Self  |  ✅  |  Rust  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
 |  268  |  Missing Number  |  ✅  |  Rust  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
@@ -30,6 +31,7 @@
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
+|  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
