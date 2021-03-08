@@ -35,4 +35,6 @@
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
+|  820  |  Short Encoding of Words  |  ✅  |  Rust  |
+|  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
