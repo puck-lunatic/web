@@ -29,6 +29,7 @@
 |  268  |  Missing Number  |  ✅  |  Rust  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
+|  332  |  Coin Change  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
