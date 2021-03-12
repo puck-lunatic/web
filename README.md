@@ -41,3 +41,4 @@
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
+|  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
