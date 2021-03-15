@@ -31,6 +31,7 @@
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
 |  332  |  Coin Change  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
+|  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  623  |  Add One Row to Tree  |  ✅  |  Rust  |
