@@ -38,6 +38,7 @@
 |  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
+|  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
