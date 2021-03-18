@@ -30,6 +30,7 @@
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
 |  332  |  Coin Change  |  ✅  |  Rust  |
+|  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
