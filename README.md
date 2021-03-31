@@ -46,6 +46,7 @@
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
+|  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
