@@ -24,6 +24,7 @@
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
+|  234  |  Palindrome Linked List  |  ✅  |  Rust  |
 |  238  |  Product of Array Except Self  |  ✅  |  Rust  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
 |  268  |  Missing Number  |  ✅  |  Rust  |
