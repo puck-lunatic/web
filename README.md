@@ -17,6 +17,7 @@
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust  |
 |  22  |  Generate Parentheses  |  ✅  |  Rust  |
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
+|  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
