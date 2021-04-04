@@ -40,6 +40,7 @@
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
+|  622  |  Design Circular Queue  |  ✅  |  Rust  |
 |  623  |  Add One Row to Tree  |  ✅  |  Rust  |
 |  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
