@@ -57,4 +57,5 @@
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
 |  1396  |  Design Underground System  |  ✅  |  Rust  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
+|  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
