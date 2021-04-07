@@ -58,4 +58,5 @@
 |  1396  |  Design Underground System  |  ✅  |  Rust  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
+|  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
