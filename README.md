@@ -31,6 +31,7 @@
 |  268  |  Missing Number  |  ✅  |  Rust  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
+|  329  |  Longest Increasing Path in a Matrix  |  ✅  |  Rust  |
 |  332  |  Coin Change  |  ✅  |  Rust  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
