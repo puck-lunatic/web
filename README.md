@@ -33,6 +33,7 @@
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
 |  329  |  Longest Increasing Path in a Matrix  |  ✅  |  Rust  |
 |  332  |  Coin Change  |  ✅  |  Rust  |
+|  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
