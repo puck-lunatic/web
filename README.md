@@ -38,6 +38,7 @@
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
+|  509  |  Fibonacci Number  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
