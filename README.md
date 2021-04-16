@@ -59,6 +59,7 @@
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
+|  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
 |  1221  |  Split a String in Balanced Strings  |  ✅  |  Rust  |
 |  1302  |  Deepest Leaves Sum  |  ✅  |  Rust  |
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
