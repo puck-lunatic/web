@@ -69,3 +69,4 @@
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
+|  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
