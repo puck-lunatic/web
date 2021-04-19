@@ -36,6 +36,7 @@
 |  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
+|  377  |  Combination Sum IV  |  ✅  |  Rust  |
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
 |  509  |  Fibonacci Number  |  ✅  |  Rust  |
