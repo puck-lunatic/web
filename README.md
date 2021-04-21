@@ -45,6 +45,7 @@
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript  |
+|  595  |  Big Countries  |  ✅  |  SQL  |
 |  622  |  Design Circular Queue  |  ✅  |  Rust  |
 |  623  |  Add One Row to Tree  |  ✅  |  Rust  |
 |  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
