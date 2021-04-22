@@ -42,6 +42,7 @@
 |  509  |  Fibonacci Number  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
+|  554  |  Brick Wall  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript  |
