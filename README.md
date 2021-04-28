@@ -19,6 +19,7 @@
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
 |  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
+|  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
