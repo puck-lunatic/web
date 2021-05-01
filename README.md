@@ -67,6 +67,7 @@
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
+|  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
 |  1192  |  Critical Connections in a Network  |  ✅  |  Rust  |
