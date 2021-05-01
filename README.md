@@ -59,6 +59,7 @@
 |  700  |  Search in a Binary Search Tree  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
+|  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
