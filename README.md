@@ -18,6 +18,7 @@
 |  22  |  Generate Parentheses  |  ✅  |  Rust  |
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
 |  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
+|  45  |  Jump Game II  |  ✅  |  Rust  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
