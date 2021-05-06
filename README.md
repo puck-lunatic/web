@@ -41,6 +41,7 @@
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  377  |  Combination Sum IV  |  ✅  |  Rust  |
+|  461  |  Hamming Distance  |  ✅  |  Rust  |
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
 |  509  |  Fibonacci Number  |  ✅  |  Rust  |
