@@ -49,6 +49,7 @@
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
+|  583  |  Delete Operation for Two Strings  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript  |
 |  595  |  Big Countries  |  ✅  |  SQL  |
