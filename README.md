@@ -48,6 +48,7 @@
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
+|  561  |  Array Partition I  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  583  |  Delete Operation for Two Strings  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
@@ -71,6 +72,7 @@
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
+|  906  |  Super Palindromes  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
