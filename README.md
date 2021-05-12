@@ -35,6 +35,7 @@
 |  268  |  Missing Number  |  ✅  |  Rust  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
+|  304  |  Range Sum Query 2D - Immutable  |  ✅  |  Rust  |
 |  326  |  Power of Three  |  ✅  |  Rust  |
 |  329  |  Longest Increasing Path in a Matrix  |  ✅  |  Rust  |
 |  332  |  Coin Change  |  ✅  |  Rust  |
