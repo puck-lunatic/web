@@ -23,6 +23,7 @@
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
+|  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
 |  121  |  Triangle  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
