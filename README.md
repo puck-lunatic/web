@@ -21,6 +21,7 @@
 |  45  |  Jump Game II  |  ✅  |  Rust  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
+|  65  |  Valid Number  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
