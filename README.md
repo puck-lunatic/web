@@ -80,6 +80,7 @@
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
+|  968  |  Binary Tree Cameras  |  ✅  |  Rust  |
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
