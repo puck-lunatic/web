@@ -83,6 +83,7 @@
 |  968  |  Binary Tree Cameras  |  ✅  |  Rust  |
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
+|  1048  |  Longest String Chain  |  ✅  |  Rust  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
 |  1192  |  Critical Connections in a Network  |  ✅  |  Rust  |
 |  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
