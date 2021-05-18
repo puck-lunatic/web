@@ -58,6 +58,7 @@
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript  |
 |  595  |  Big Countries  |  ✅  |  SQL  |
+|  609  |  Find Duplicate File in System  |  ✅  |  Rust  |
 |  622  |  Design Circular Queue  |  ✅  |  Rust  |
 |  623  |  Add One Row to Tree  |  ✅  |  Rust  |
 |  630  |  Course Schedule III  |  ✅  |  Rust  |
