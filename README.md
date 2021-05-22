@@ -20,6 +20,7 @@
 |  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
 |  45  |  Jump Game II  |  ✅  |  Rust  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
+|  51  |  N-Queens  |  ✅  |  Rust  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
