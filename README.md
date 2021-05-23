@@ -84,6 +84,7 @@
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
+|  943  |  Find the Shortest Superstring  |  ✅  |  Java  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
 |  968  |  Binary Tree Cameras  |  ✅  |  Rust  |
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
