@@ -98,6 +98,7 @@
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
 |  1354  |  Construct Target Array With Multiple Sums  |  ✅  |  Rust  |
+|  1395  |  Count Number of Teams  |  ✅  |  Rust  |
 |  1396  |  Design Underground System  |  ✅  |  Rust  |
 |  1423  |  Maximum Points You Can Obtain from Cards  |  ✅  |  Rust  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
