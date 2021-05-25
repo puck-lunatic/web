@@ -31,6 +31,7 @@
 |  121  |  Triangle  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
+|  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust  |
