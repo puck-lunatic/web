@@ -108,6 +108,7 @@
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
 |  1689  |  Partitioning Into Minimum Number Of Deci-Binary Numbers  |  ✅  |  Rust  |
+|  1695  |  Maximum Erasure Value  |  ✅  |  Rust  |
 |  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
