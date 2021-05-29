@@ -21,6 +21,7 @@
 |  45  |  Jump Game II  |  ✅  |  Rust  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
 |  51  |  N-Queens  |  ✅  |  Rust  |
+|  52  |  N-Queens II  |  ✅  |  Rust  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
