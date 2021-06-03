@@ -109,6 +109,7 @@
 |  1396  |  Design Underground System  |  ✅  |  Rust  |
 |  1423  |  Maximum Points You Can Obtain from Cards  |  ✅  |  Rust  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
+|  1465  |  Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts  |  ✅  |  Rust  |
 |  1480  |  Running Sum of 1d Array  |  ✅  |  Rust  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
