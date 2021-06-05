@@ -106,6 +106,7 @@
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
 |  1354  |  Construct Target Array With Multiple Sums  |  ✅  |  Rust  |
+|  1383  |  Maximum Performance of a Team  |  ✅  |  Rust  |
 |  1395  |  Count Number of Teams  |  ✅  |  Rust  |
 |  1396  |  Design Underground System  |  ✅  |  Rust  |
 |  1423  |  Maximum Points You Can Obtain from Cards  |  ✅  |  Rust  |
