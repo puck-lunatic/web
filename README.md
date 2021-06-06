@@ -31,6 +31,7 @@
 |  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
 |  121  |  Triangle  |  ✅  |  Rust  |
+|  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
