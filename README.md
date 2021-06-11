@@ -81,6 +81,7 @@
 |  700  |  Search in a Binary Search Tree  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
+|  729  |  My Calendar I  |  ✅  |  Rust  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust  |
 |  752  |  Open the Lock  |  ✅  |  Rust  |
@@ -120,6 +121,7 @@
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
 |  1689  |  Partitioning Into Minimum Number Of Deci-Binary Numbers  |  ✅  |  Rust  |
+|  1690  |  Stone Game VII  |  ✅  |  Rust  |
 |  1695  |  Maximum Erasure Value  |  ✅  |  Rust  |
 |  1696  |  Jump Game VI  |  ✅  |  Rust  |
 |  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust  |
