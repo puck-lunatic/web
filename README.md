@@ -127,5 +127,6 @@
 |  1695  |  Maximum Erasure Value  |  ✅  |  Rust  |
 |  1696  |  Jump Game VI  |  ✅  |  Rust  |
 |  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust  |
+|  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
