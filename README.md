@@ -89,6 +89,7 @@
 |  752  |  Open the Lock  |  ✅  |  Rust  |
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
+|  795  |  Number of Subarrays with Bounded Maximum  |  ✅  |  Rust  |
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
 |  816  |  Ambiguous Coordinates  |  ✅  |  Rust  |
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
