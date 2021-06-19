@@ -74,6 +74,7 @@
 |  609  |  Find Duplicate File in System  |  ✅  |  Rust  |
 |  622  |  Design Circular Queue  |  ✅  |  Rust  |
 |  623  |  Add One Row to Tree  |  ✅  |  Rust  |
+|  629  |  K Inverse Pairs Array  |  ✅  |  Rust  |
 |  630  |  Course Schedule III  |  ✅  |  Rust  |
 |  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
