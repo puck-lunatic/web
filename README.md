@@ -90,6 +90,7 @@
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust  |
 |  752  |  Open the Lock  |  ✅  |  Rust  |
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
+|  778  |  Swim in Rising Water  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
 |  795  |  Number of Subarrays with Bounded Maximum  |  ✅  |  Rust  |
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
