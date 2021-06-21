@@ -30,6 +30,7 @@
 |  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust  |
 |  105  |  Construct Binary Tree from Preorder and Inorder Traversal  |  ✅  |  Rust  |
 |  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
+|  118  |  Pascal's Triangle  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
 |  121  |  Triangle  |  ✅  |  Rust  |
 |  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
