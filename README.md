@@ -25,6 +25,7 @@
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
+|  92  |  Reverse Linked List II  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust  |
 |  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust  |
