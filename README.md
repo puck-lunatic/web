@@ -69,6 +69,7 @@
 |  554  |  Brick Wall  |  ✅  |  Rust  |
 |  561  |  Array Partition I  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
+|  576  |  Out of Boundary Paths  |  ✅  |  Rust  |
 |  583  |  Delete Operation for Two Strings  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript  |
