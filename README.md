@@ -83,6 +83,7 @@
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
 |  665  |  Non-decreasing Array  |  ✅  |  Rust  |
 |  667  |  Beautiful Arrangement II  |  ✅  |  Rust  |
+|  684  |  Redundant Connection  |  ✅  |  Rust  |
 |  695  |  Max Area of Island  |  ✅  |  Rust  |
 |  696  |  Count Binary Substrings  |  ✅  |  Rust  |
 |  700  |  Search in a Binary Search Tree  |  ✅  |  Rust  |
