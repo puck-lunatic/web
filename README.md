@@ -36,6 +36,7 @@
 |  121  |  Triangle  |  ✅  |  Rust  |
 |  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
+|  135  |  Candy  |  ✅  |  Rust  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
