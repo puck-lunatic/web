@@ -43,6 +43,7 @@
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust  |
+|  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
 |  238  |  Product of Array Except Self  |  ✅  |  Rust  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
 |  268  |  Missing Number  |  ✅  |  Rust  |
