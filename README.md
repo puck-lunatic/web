@@ -85,6 +85,7 @@
 |  630  |  Course Schedule III  |  ✅  |  Rust  |
 |  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
+|  658  |  Find K Closest Elements  |  ✅  |  Rust  |
 |  665  |  Non-decreasing Array  |  ✅  |  Rust  |
 |  667  |  Beautiful Arrangement II  |  ✅  |  Rust  |
 |  684  |  Redundant Connection  |  ✅  |  Rust  |
