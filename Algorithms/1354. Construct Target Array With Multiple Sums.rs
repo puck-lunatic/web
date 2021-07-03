@@ -9,13 +9,13 @@ impl Solution {
             heap.push(x);
             sum += x as i64;
         }
-        
+
         while let Some(mut x) = heap.pop() {
             sum -= x as i64;
             if x == 1 || sum == 1 {
                 return true;
             }
-            
+
             if (x as i64) < sum || sum == 0 || (x as i64) % sum == 0 {
                 return false;
             }
@@ -23,7 +23,7 @@ impl Solution {
             sum += x as i64;
             heap.push(x);
         }
-        
+
         false
     }
 }

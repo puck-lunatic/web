@@ -60,6 +60,7 @@
 |  336  |  Palindrome Pairs  |  ✅  |  Rust  |
 |  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
+|  363  |  Max Sum of Rectangle No Larger Than K  |  ✅  |  Rust  |
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  377  |  Combination Sum IV  |  ✅  |  Rust  |
 |  461  |  Hamming Distance  |  ✅  |  Rust  |
