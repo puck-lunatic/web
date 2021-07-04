@@ -124,6 +124,7 @@
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
 |  1192  |  Critical Connections in a Network  |  ✅  |  Rust  |
 |  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
+|  1220  |  Count Vowels Permutation  |  ✅  |  Rust  |
 |  1221  |  Split a String in Balanced Strings  |  ✅  |  Rust  |
 |  1268  |  Search Suggestions System  |  ✅  |  Rust  |
 |  1302  |  Deepest Leaves Sum  |  ✅  |  Rust  |
