@@ -73,6 +73,7 @@
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
 |  561  |  Array Partition I  |  ✅  |  Rust  |
+|  566  |  Reshape the Matrix  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  576  |  Out of Boundary Paths  |  ✅  |  Rust  |
 |  583  |  Delete Operation for Two Strings  |  ✅  |  Rust  |
