@@ -63,6 +63,7 @@
 |  363  |  Max Sum of Rectangle No Larger Than K  |  ✅  |  Rust  |
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  377  |  Combination Sum IV  |  ✅  |  Rust  |
+|  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
 |  461  |  Hamming Distance  |  ✅  |  Rust  |
 |  462  |  Minimum Moves to Equal Array Elements II  |  ✅  |  Rust  |
 |  473  |  Matchsticks to Square  |  ✅  |  Rust  |
