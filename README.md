@@ -97,6 +97,7 @@
 |  700  |  Search in a Binary Search Tree  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
+|  718  |  Maximum Length of Repeated Subarray  |  ✅  |  Rust  |
 |  729  |  My Calendar I  |  ✅  |  Rust  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust  |
