@@ -88,6 +88,7 @@
 |  629  |  K Inverse Pairs Array  |  ✅  |  Rust  |
 |  630  |  Course Schedule III  |  ✅  |  Rust  |
 |  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
+|  639  |  Decode Ways II  |  ✅  |  Rust  |
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
 |  658  |  Find K Closest Elements  |  ✅  |  Rust  |
 |  665  |  Non-decreasing Array  |  ✅  |  Rust  |
