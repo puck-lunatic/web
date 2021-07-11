@@ -49,6 +49,7 @@
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
 |  268  |  Missing Number  |  ✅  |  Rust  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
+|  295  |  Find Median from Data Stream  |  ✅  |  Rust  |
 |  300  |  Longest Increasing Subsequence  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
 |  304  |  Range Sum Query 2D - Immutable  |  ✅  |  Rust  |
