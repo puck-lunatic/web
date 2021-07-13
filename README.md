@@ -41,6 +41,7 @@
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
+|  162  |  Find Peak Element  |  ✅  |  Javascript  |
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust  |
