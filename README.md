@@ -110,6 +110,7 @@
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
 |  778  |  Swim in Rising Water  |  ✅  |  Rust  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
+|  791  |  Custom Sort String  |  ✅  |  Rust  |
 |  792  |  Number of Matching Subsequences  |  ✅  |  Rust  |
 |  795  |  Number of Subarrays with Bounded Maximum  |  ✅  |  Rust  |
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
