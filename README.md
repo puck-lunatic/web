@@ -122,6 +122,7 @@
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
+|  927  |  Three Equal Parts  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  943  |  Find the Shortest Superstring  |  ✅  |  Java  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
