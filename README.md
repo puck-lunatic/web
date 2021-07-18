@@ -16,6 +16,7 @@
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust  |
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust  |
 |  22  |  Generate Parentheses  |  ✅  |  Rust  |
+|  25  |  Reverse Nodes in k-Group  |  ✅  |  Rust  |
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
 |  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
 |  45  |  Jump Game II  |  ✅  |  Rust  |
