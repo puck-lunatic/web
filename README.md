@@ -47,6 +47,7 @@
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust  |
+|  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust  |
 |  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
 |  238  |  Product of Array Except Self  |  ✅  |  Rust  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
