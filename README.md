@@ -70,6 +70,7 @@
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  377  |  Combination Sum IV  |  ✅  |  Rust  |
 |  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
+|  384  |  Shuffle an Array  |  ✅  |  Rust  |
 |  461  |  Hamming Distance  |  ✅  |  Rust  |
 |  462  |  Minimum Moves to Equal Array Elements II  |  ✅  |  Rust  |
 |  473  |  Matchsticks to Square  |  ✅  |  Rust  |
