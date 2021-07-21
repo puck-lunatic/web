@@ -121,6 +121,7 @@
 |  816  |  Ambiguous Coordinates  |  ✅  |  Rust  |
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
+|  838  |  Push Dominoes  |  ✅  |  Rust  |
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
