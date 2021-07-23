@@ -118,6 +118,7 @@
 |  792  |  Number of Matching Subsequences  |  ✅  |  Rust  |
 |  795  |  Number of Subarrays with Bounded Maximum  |  ✅  |  Rust  |
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
+|  814  |  Binary Tree Pruning  |  ✅  |  Rust  |
 |  816  |  Ambiguous Coordinates  |  ✅  |  Rust  |
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
