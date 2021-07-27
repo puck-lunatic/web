@@ -10,7 +10,7 @@
 |  13  |  Roman to Integer  |  ✅  |  Javascript  |
 |  14  |  Longest Common Prefix  |  ✅  |  Javascript  |
 |  15  |  3Sum  |  ✅  |  Rust  |
-|  16  |  3Sum Closest  |  ✅  |  Javascript  |
+|  16  |  3Sum Closest  |  ✅  |  Javascript, Rust  |
 |  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust  |
 |  18  |  4Sum  |  ✅  |  Rust  |
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust  |
