@@ -131,6 +131,7 @@
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
 |  915  |  Partition Array into Disjoint Intervals  |  ✅  |  Rust  |
 |  927  |  Three Equal Parts  |  ✅  |  Rust  |
+|  932  |  Beautiful Array  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  943  |  Find the Shortest Superstring  |  ✅  |  Java  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
