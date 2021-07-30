@@ -103,6 +103,7 @@
 |  658  |  Find K Closest Elements  |  ✅  |  Rust  |
 |  665  |  Non-decreasing Array  |  ✅  |  Rust  |
 |  667  |  Beautiful Arrangement II  |  ✅  |  Rust  |
+|  677  |  Map Sum Pairs  |  ✅  |  Rust  |
 |  684  |  Redundant Connection  |  ✅  |  Rust  |
 |  695  |  Max Area of Island  |  ✅  |  Rust  |
 |  696  |  Count Binary Substrings  |  ✅  |  Rust  |
