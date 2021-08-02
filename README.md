@@ -1,6 +1,6 @@
 |  No  |  Title  |  Status  |  Programming Languages  |
 | ---- | ---- | ---- | ---- |
-|  1  |  Two Sum  |  ✅  |  Java  |
+|  1  |  Two Sum  |  ✅  |  Java, Rust  |
 |  2  |  Add Two Numbers  |  ✅  |  Javascript  |
 |  4  |  Median of Two Sorted Arrays  |  ✅  |  Rust  |
 |  7  |  Reverse Integer  |  ✅  |  Javascript  |
