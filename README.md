@@ -27,6 +27,7 @@
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
+|  90  |  Subsets II  |  ✅  |  Rust  |
 |  92  |  Reverse Linked List II  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust  |
