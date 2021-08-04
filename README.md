@@ -35,6 +35,7 @@
 |  105  |  Construct Binary Tree from Preorder and Inorder Traversal  |  ✅  |  Rust  |
 |  108  |  Convert Sorted Array to Binary Search Tree  |  ✅  |  Rust  |
 |  109  |  Convert Sorted List to Binary Search Tree  |  ✅  |  Rust  |
+|  113  |  Path Sum II  |  ✅  |  Rust  |
 |  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
 |  118  |  Pascal's Triangle  |  ✅  |  Rust  |
 |  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
