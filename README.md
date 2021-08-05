@@ -131,6 +131,7 @@
 |  838  |  Push Dominoes  |  ✅  |  Rust  |
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
+|  877  |  Stone Game  |  ✅  |  Rust  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
 |  915  |  Partition Array into Disjoint Intervals  |  ✅  |  Rust  |
