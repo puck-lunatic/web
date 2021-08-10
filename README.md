@@ -137,6 +137,7 @@
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
 |  915  |  Partition Array into Disjoint Intervals  |  ✅  |  Rust  |
+|  926  |  Flip String to Monotone Increasing  |  ✅  |  Rust  |
 |  927  |  Three Equal Parts  |  ✅  |  Rust  |
 |  932  |  Beautiful Array  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
