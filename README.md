@@ -143,6 +143,7 @@
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  943  |  Find the Shortest Superstring  |  ✅  |  Java  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
+|  954  |  Array of Doubled Pairs  |  ✅  |  Rust  |
 |  968  |  Binary Tree Cameras  |  ✅  |  Rust  |
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
