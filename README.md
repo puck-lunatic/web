@@ -26,6 +26,7 @@
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
+|  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
 |  90  |  Subsets II  |  ✅  |  Rust  |
 |  92  |  Reverse Linked List II  |  ✅  |  Rust  |
