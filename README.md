@@ -87,6 +87,7 @@
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  542  |  01 Matrix  |  ✅  |  Rust  |
+|  546  |  Remove Boxes  |  ✅  |  Rust  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
 |  561  |  Array Partition I  |  ✅  |  Rust  |
 |  566  |  Reshape the Matrix  |  ✅  |  Rust  |
