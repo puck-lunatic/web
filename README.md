@@ -29,6 +29,7 @@
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
 |  90  |  Subsets II  |  ✅  |  Rust  |
+|  91  |  Decode Ways  |  ✅  |  Rust  |
 |  92  |  Reverse Linked List II  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust  |
