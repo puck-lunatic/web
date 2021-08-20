@@ -19,6 +19,7 @@
 |  25  |  Reverse Nodes in k-Group  |  ✅  |  Rust  |
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
 |  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
+|  36  |  Valid Sudoku  |  ✅  |  Rust  |
 |  45  |  Jump Game II  |  ✅  |  Rust  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
 |  51  |  N-Queens  |  ✅  |  Rust  |
