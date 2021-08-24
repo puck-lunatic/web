@@ -88,6 +88,7 @@
 |  509  |  Fibonacci Number  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
+|  537  |  Complex Number Multiplication  |  ✅  |  Rust  |
 |  542  |  01 Matrix  |  ✅  |  Rust  |
 |  546  |  Remove Boxes  |  ✅  |  Rust  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
