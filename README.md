@@ -69,6 +69,7 @@
 |  318  |  Maximum Product of Word Lengths  |  ✅  |  Rust  |
 |  326  |  Power of Three  |  ✅  |  Rust  |
 |  329  |  Longest Increasing Path in a Matrix  |  ✅  |  Rust  |
+|  331  |  Verify Preorder Serialization of a Binary Tree  |  ✅  |  Rust  |
 |  332  |  Coin Change  |  ✅  |  Rust  |
 |  336  |  Palindrome Pairs  |  ✅  |  Rust  |
 |  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
