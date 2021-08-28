@@ -87,6 +87,7 @@
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
 |  509  |  Fibonacci Number  |  ✅  |  Rust  |
+|  522  |  Longest Uncommon Subsequence II  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  537  |  Complex Number Multiplication  |  ✅  |  Rust  |
