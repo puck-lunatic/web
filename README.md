@@ -102,6 +102,7 @@
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript  |
 |  595  |  Big Countries  |  ✅  |  SQL  |
+|  598  |  Range Addition II  |  ✅  |  Rust  |
 |  609  |  Find Duplicate File in System  |  ✅  |  Rust  |
 |  611  |  Valid Triangle Number  |  ✅  |  Rust  |
 |  622  |  Design Circular Queue  |  ✅  |  Rust  |
