@@ -48,6 +48,7 @@
 |  135  |  Candy  |  ✅  |  Rust  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
+|  153  |  Find Minimum in Rotated Sorted Array  |  ✅  |  Rust  |
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
 |  162  |  Find Peak Element  |  ✅  |  Javascript  |
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
