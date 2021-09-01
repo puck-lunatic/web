@@ -96,6 +96,7 @@
 |  546  |  Remove Boxes  |  ✅  |  Rust  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
 |  561  |  Array Partition I  |  ✅  |  Rust  |
+|  565  |  Array Nesting  |  ✅  |  Rust  |
 |  566  |  Reshape the Matrix  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
 |  576  |  Out of Boundary Paths  |  ✅  |  Rust  |
