@@ -32,6 +32,7 @@
 |  90  |  Subsets II  |  ✅  |  Rust  |
 |  91  |  Decode Ways  |  ✅  |  Rust  |
 |  92  |  Reverse Linked List II  |  ✅  |  Rust  |
+|  95  |  Unique Binary Search Trees II  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust  |
 |  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust  |
