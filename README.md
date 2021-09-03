@@ -103,6 +103,7 @@
 |  576  |  Out of Boundary Paths  |  ✅  |  Rust  |
 |  583  |  Delete Operation for Two Strings  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
+|  587  |  Erect the Fence  |  ✅  |  Rust  |
 |  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript  |
 |  595  |  Big Countries  |  ✅  |  SQL  |
 |  598  |  Range Addition II  |  ✅  |  Rust  |
