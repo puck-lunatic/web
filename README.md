@@ -186,6 +186,7 @@
 |  1465  |  Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts  |  ✅  |  Rust  |
 |  1480  |  Running Sum of 1d Array  |  ✅  |  Rust  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
+|  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
 |  1689  |  Partitioning Into Minimum Number Of Deci-Binary Numbers  |  ✅  |  Rust  |
 |  1690  |  Stone Game VII  |  ✅  |  Rust  |
