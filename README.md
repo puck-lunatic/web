@@ -146,6 +146,7 @@
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
 |  838  |  Push Dominoes  |  ✅  |  Rust  |
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
+|  848  |  Shifting Letters  |  ✅  |  Rust  |
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
 |  877  |  Stone Game  |  ✅  |  Rust  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
