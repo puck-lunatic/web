@@ -83,6 +83,7 @@
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
+|  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Typescript  |
 |  461  |  Hamming Distance  |  ✅  |  Rust  |
 |  462  |  Minimum Moves to Equal Array Elements II  |  ✅  |  Rust  |
 |  473  |  Matchsticks to Square  |  ✅  |  Rust  |
