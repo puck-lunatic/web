@@ -165,6 +165,7 @@
 |  968  |  Binary Tree Cameras  |  ✅  |  Rust  |
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
+|  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
 |  1004  |  Max Consecutive Ones III  |  ✅  |  Rust  |
 |  1047  |  Remove All Adjacent Duplicates In String  |  ✅  |  Rust  |
 |  1048  |  Longest String Chain  |  ✅  |  Rust  |
