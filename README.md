@@ -76,6 +76,7 @@
 |  332  |  Coin Change  |  ✅  |  Rust  |
 |  336  |  Palindrome Pairs  |  ✅  |  Rust  |
 |  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
+|  350  |  Intersection of Two Arrays II  |  ✅  |  Rust  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
 |  363  |  Max Sum of Rectangle No Larger Than K  |  ✅  |  Rust  |
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
