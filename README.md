@@ -91,6 +91,7 @@
 |  473  |  Matchsticks to Square  |  ✅  |  Rust  |
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
+|  485  |  Max Consecutive Ones  |  ✅  |  Rust  |
 |  509  |  Fibonacci Number  |  ✅  |  Rust  |
 |  522  |  Longest Uncommon Subsequence II  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
