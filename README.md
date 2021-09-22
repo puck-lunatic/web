@@ -178,6 +178,7 @@
 |  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
 |  1220  |  Count Vowels Permutation  |  ✅  |  Rust  |
 |  1221  |  Split a String in Balanced Strings  |  ✅  |  Rust  |
+|  1239  |  Maximum Length of a Concatenated String with Unique Characters  |  ✅  |  Rust  |
 |  1268  |  Search Suggestions System  |  ✅  |  Rust  |
 |  1275  |  Find Winner on a Tic Tac Toe Game  |  ✅  |  Rust  |
 |  1302  |  Deepest Leaves Sum  |  ✅  |  Rust  |
