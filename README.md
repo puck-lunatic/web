@@ -182,6 +182,7 @@
 |  1239  |  Maximum Length of a Concatenated String with Unique Characters  |  ✅  |  Rust  |
 |  1268  |  Search Suggestions System  |  ✅  |  Rust  |
 |  1275  |  Find Winner on a Tic Tac Toe Game  |  ✅  |  Rust  |
+|  1293  |  Shortest Path in a Grid with Obstacles Elimination  |  ✅  |  Rust  |
 |  1302  |  Deepest Leaves Sum  |  ✅  |  Rust  |
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
