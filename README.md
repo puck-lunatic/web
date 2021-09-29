@@ -133,6 +133,7 @@
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
 |  718  |  Maximum Length of Repeated Subarray  |  ✅  |  Rust  |
+|  725  |  Split Linked List in Parts  |  ✅  |  Rust  |
 |  729  |  My Calendar I  |  ✅  |  Rust  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust  |
