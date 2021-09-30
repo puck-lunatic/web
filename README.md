@@ -129,6 +129,7 @@
 |  684  |  Redundant Connection  |  ✅  |  Rust  |
 |  695  |  Max Area of Island  |  ✅  |  Rust  |
 |  696  |  Count Binary Substrings  |  ✅  |  Rust  |
+|  698  |  Partition to K Equal Sum Subsets  |  ✅  |  Rust  |
 |  700  |  Search in a Binary Search Tree  |  ✅  |  Rust  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
