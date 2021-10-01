@@ -177,6 +177,7 @@
 |  1048  |  Longest String Chain  |  ✅  |  Rust  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
 |  1137  |  N-th Tribonacci Number  |  ✅  |  Rust  |
+|  1143  |  Longest Common Subsequence  |  ✅  |  Rust  |
 |  1189  |  Maximum Number of Balloons  |  ✅  |  Rust  |
 |  1192  |  Critical Connections in a Network  |  ✅  |  Rust  |
 |  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
