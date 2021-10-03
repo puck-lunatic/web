@@ -54,6 +54,7 @@
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
 |  162  |  Find Peak Element  |  ✅  |  Javascript  |
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
+|  174  |  Dungeon Game  |  ✅  |  Rust  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust  |
