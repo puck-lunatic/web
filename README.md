@@ -49,6 +49,7 @@
 |  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  135  |  Candy  |  ✅  |  Rust  |
+|  135  |  Single Number  |  ✅  |  Rust  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
 |  153  |  Find Minimum in Rotated Sorted Array  |  ✅  |  Rust  |
