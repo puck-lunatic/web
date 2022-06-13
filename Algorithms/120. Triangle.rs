@@ -28,3 +28,32 @@ impl Solution {
         *result[length - 1].iter().min().unwrap()
     }
 }
+
+// By using Backtrack way, we'll get "Time Limit Exceeded"
+impl Solution2 {
+    pub fn minimum_total(triangle: Vec<Vec<i32>>) -> i32 {
+        if triangle.len() == 1 {
+            return triangle[0][0];
+        }
+
+        Solution::left_or_right(&triangle, 0, 0, triangle[0][0])
+    }
+
+    fn left_or_right(triangle: &Vec<Vec<i32>>, index: usize, layer: usize, acc: i32) -> i32 {
+        if triangle.len() == layer + 2 {
+            return cmp::min(
+                acc + triangle[layer + 1][index],
+                acc + triangle[layer + 1][index + 1],
+            );
+        }
+        cmp::min(
+            Solution::left_or_right(triangle, index, layer + 1, acc + triangle[layer + 1][index]),
+            Solution::left_or_right(
+                triangle,
+                index + 1,
+                layer + 1,
+                acc + triangle[layer + 1][index + 1],
+            ),
+        )
+    }
+}
