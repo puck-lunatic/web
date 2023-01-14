@@ -137,6 +137,7 @@
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
 |  718  |  Maximum Length of Repeated Subarray  |  ✅  |  Rust  |
+|  724  |  Find Pivot Index  |  ✅  |  Typescript  |
 |  725  |  Split Linked List in Parts  |  ✅  |  Rust  |
 |  729  |  My Calendar I  |  ✅  |  Rust  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
@@ -204,7 +205,7 @@
 |  1448  |  Count Good Nodes in Binary Tree  |  ✅  |  Rust  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
 |  1465  |  Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts  |  ✅  |  Rust  |
-|  1480  |  Running Sum of 1d Array  |  ✅  |  Rust  |
+|  1480  |  Running Sum of 1d Array  |  ✅  |  Rust, Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
