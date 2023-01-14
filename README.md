@@ -1,3 +1,7 @@
+#### Daily Exercise on [LeetCode](https://leetcode.com/problemset/all/) to Crush Coding Interview and Get Offer from Foreign Company (Damn Japanese Company).
+
+
+#### Records
 |  No  |  Title  |  Status  |  Programming Languages  |
 | ---- | ---- | ---- | ---- |
 |  1  |  Two Sum  |  ✅  |  Java, Rust  |
