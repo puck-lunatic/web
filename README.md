@@ -62,7 +62,7 @@
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
 |  174  |  Dungeon Game  |  ✅  |  Rust  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
-|  205  |  Isomorphic Strings  |  ✅  |  Rust  |
+|  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust  |
 |  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust  |
 |  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
@@ -90,6 +90,7 @@
 |  377  |  Combination Sum IV  |  ✅  |  Rust  |
 |  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
+|  392  |  Is Subsequence  |  ✅  |  Typescript  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
 |  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Typescript  |
