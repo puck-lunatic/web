@@ -18,7 +18,7 @@
 |  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust  |
 |  18  |  4Sum  |  ✅  |  Rust  |
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust  |
-|  21  |  Merge Two Sorted Lists  |  ✅  |  Rust  |
+|  21  |  Merge Two Sorted Lists  |  ✅  |  Rust, Typescript  |
 |  22  |  Generate Parentheses  |  ✅  |  Rust  |
 |  25  |  Reverse Nodes in k-Group  |  ✅  |  Rust  |
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
@@ -63,6 +63,7 @@
 |  174  |  Dungeon Game  |  ✅  |  Rust  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
+|  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust  |
 |  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust  |
 |  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
