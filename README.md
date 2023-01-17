@@ -54,6 +54,7 @@
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  135  |  Candy  |  ✅  |  Rust  |
 |  135  |  Single Number  |  ✅  |  Rust  |
+|  142  |  Linked List Cycle II  |  ✅  |  Typescript  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
 |  153  |  Find Minimum in Rotated Sorted Array  |  ✅  |  Rust  |
@@ -165,6 +166,7 @@
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
 |  848  |  Shifting Letters  |  ✅  |  Rust  |
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
+|  876  |  Middle of the Linked List  |  ✅  |  Rust, Typescript  |
 |  877  |  Stone Game  |  ✅  |  Rust  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
