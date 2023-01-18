@@ -48,8 +48,8 @@
 |  113  |  Path Sum II  |  ✅  |  Rust  |
 |  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
 |  118  |  Pascal's Triangle  |  ✅  |  Rust  |
-|  120  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust  |
-|  121  |  Triangle  |  ✅  |  Rust  |
+|  120  |  Triangle  |  ✅  |  Rust  |
+|  121  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust, Typescript  |
 |  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  135  |  Candy  |  ✅  |  Rust  |
@@ -93,6 +93,7 @@
 |  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
 |  392  |  Is Subsequence  |  ✅  |  Typescript  |
+|  409  |  Longest Palindrome  |  ✅  |  Typescript  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
 |  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Typescript  |
