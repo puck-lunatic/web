@@ -41,7 +41,7 @@
 |  95  |  Unique Binary Search Trees II  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust  |
-|  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust  |
+|  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust, Typescript  |
 |  105  |  Construct Binary Tree from Preorder and Inorder Traversal  |  ✅  |  Rust  |
 |  108  |  Convert Sorted Array to Binary Search Tree  |  ✅  |  Rust  |
 |  109  |  Convert Sorted List to Binary Search Tree  |  ✅  |  Rust  |
@@ -119,7 +119,7 @@
 |  583  |  Delete Operation for Two Strings  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  587  |  Erect the Fence  |  ✅  |  Rust  |
-|  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript  |
+|  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript, Typescript  |
 |  595  |  Big Countries  |  ✅  |  SQL  |
 |  598  |  Range Addition II  |  ✅  |  Rust  |
 |  609  |  Find Duplicate File in System  |  ✅  |  Rust  |
