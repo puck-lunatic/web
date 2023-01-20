@@ -71,6 +71,7 @@
 |  238  |  Product of Array Except Self  |  ✅  |  Rust  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
 |  268  |  Missing Number  |  ✅  |  Rust  |
+|  278  |  First Bad Version  |  ✅  |  Typescript  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  295  |  Find Median from Data Stream  |  ✅  |  Rust  |
 |  300  |  Longest Increasing Subsequence  |  ✅  |  Rust  |
@@ -142,6 +143,7 @@
 |  696  |  Count Binary Substrings  |  ✅  |  Rust  |
 |  698  |  Partition to K Equal Sum Subsets  |  ✅  |  Rust  |
 |  700  |  Search in a Binary Search Tree  |  ✅  |  Rust  |
+|  704  |  Binary Search  |  ✅  |  Typescript  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
 |  718  |  Maximum Length of Repeated Subarray  |  ✅  |  Rust  |
