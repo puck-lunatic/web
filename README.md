@@ -41,6 +41,7 @@
 |  95  |  Unique Binary Search Trees II  |  ✅  |  Rust  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust  |
+|  98  |  Validate Binary Search Tree  |  ✅  |  Typescript  |
 |  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust, Typescript  |
 |  105  |  Construct Binary Tree from Preorder and Inorder Traversal  |  ✅  |  Rust  |
 |  108  |  Convert Sorted Array to Binary Search Tree  |  ✅  |  Rust  |
@@ -66,7 +67,7 @@
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust  |
-|  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust  |
+|  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
 |  238  |  Product of Array Except Self  |  ✅  |  Rust  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
