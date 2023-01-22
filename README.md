@@ -63,6 +63,7 @@
 |  162  |  Find Peak Element  |  ✅  |  Javascript  |
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
 |  174  |  Dungeon Game  |  ✅  |  Rust  |
+|  200  |  Number of Islands  |  ✅  |  Typescript  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
@@ -151,6 +152,7 @@
 |  724  |  Find Pivot Index  |  ✅  |  Typescript  |
 |  725  |  Split Linked List in Parts  |  ✅  |  Rust  |
 |  729  |  My Calendar I  |  ✅  |  Rust  |
+|  733  |  Flood Fill  |  ✅  |  Typescript  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust  |
 |  752  |  Open the Lock  |  ✅  |  Rust  |
