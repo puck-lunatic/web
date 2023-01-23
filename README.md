@@ -32,6 +32,7 @@
 |  55  |  Jump Game  |  ✅  |  Rust  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
+|  70  |  Climbing Stairs  |  ✅  |  Rust, Typescript  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
@@ -106,7 +107,7 @@
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
 |  485  |  Max Consecutive Ones  |  ✅  |  Rust  |
-|  509  |  Fibonacci Number  |  ✅  |  Rust  |
+|  509  |  Fibonacci Number  |  ✅  |  Rust, Typescript  |
 |  522  |  Longest Uncommon Subsequence II  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
