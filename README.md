@@ -30,6 +30,7 @@
 |  52  |  N-Queens II  |  ✅  |  Rust  |
 |  54  |  Spiral Matrix  |  ✅  |  Rust  |
 |  55  |  Jump Game  |  ✅  |  Rust  |
+|  62  |  Unique Paths  |  ✅  |  Rust, Typescript  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  70  |  Climbing Stairs  |  ✅  |  Rust, Typescript  |
@@ -155,7 +156,7 @@
 |  729  |  My Calendar I  |  ✅  |  Rust  |
 |  733  |  Flood Fill  |  ✅  |  Typescript  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
-|  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust  |
+|  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust, Typescript  |
 |  752  |  Open the Lock  |  ✅  |  Rust  |
 |  764  |  Largest Plus Sign  |  ✅  |  Rust  |
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
