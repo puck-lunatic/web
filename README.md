@@ -4,7 +4,7 @@
 #### Records
 |  No  |  Title  |  Status  |  Programming Languages  |
 | ---- | ---- | ---- | ---- |
-|  1  |  Two Sum  |  ✅  |  Java, Rust  |
+|  1  |  Two Sum  |  ✅  |  Java, Rust, Typescript  |
 |  2  |  Add Two Numbers  |  ✅  |  Javascript  |
 |  4  |  Median of Two Sorted Arrays  |  ✅  |  Rust  |
 |  7  |  Reverse Integer  |  ✅  |  Javascript  |
@@ -78,6 +78,7 @@
 |  278  |  First Bad Version  |  ✅  |  Typescript  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  295  |  Find Median from Data Stream  |  ✅  |  Rust  |
+|  299  |  Bulls and Cows  |  ✅  |  Typescript  |
 |  300  |  Longest Increasing Subsequence  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
 |  304  |  Range Sum Query 2D - Immutable  |  ✅  |  Rust  |
