@@ -99,6 +99,7 @@
 |  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
 |  392  |  Is Subsequence  |  ✅  |  Typescript  |
+|  394  |  Decode String  |  ✅  |  Typescript  |
 |  409  |  Longest Palindrome  |  ✅  |  Typescript  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
 |  424  |  Longest Repeating Character Replacement  |  ✅  |  Typescript  |
@@ -175,6 +176,7 @@
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
 |  838  |  Push Dominoes  |  ✅  |  Rust  |
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
+|  844  |  Backspace String Compare  |  ✅  |  Typescript  |
 |  848  |  Shifting Letters  |  ✅  |  Rust  |
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
 |  876  |  Middle of the Linked List  |  ✅  |  Rust, Typescript  |
