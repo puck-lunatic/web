@@ -147,6 +147,7 @@
 |  667  |  Beautiful Arrangement II  |  ✅  |  Rust  |
 |  677  |  Map Sum Pairs  |  ✅  |  Rust  |
 |  684  |  Redundant Connection  |  ✅  |  Rust  |
+|  692  |  Top K Frequent Words  |  ✅  |  Typescript  |
 |  695  |  Max Area of Island  |  ✅  |  Rust  |
 |  696  |  Count Binary Substrings  |  ✅  |  Rust  |
 |  698  |  Partition to K Equal Sum Subsets  |  ✅  |  Rust  |
@@ -198,6 +199,7 @@
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
 |  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
 |  1004  |  Max Consecutive Ones III  |  ✅  |  Rust  |
+|  1046  |  Last Stone Weight  |  ✅  |  Typescript  |
 |  1047  |  Remove All Adjacent Duplicates In String  |  ✅  |  Rust  |
 |  1048  |  Longest String Chain  |  ✅  |  Rust  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
