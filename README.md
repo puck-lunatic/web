@@ -28,7 +28,7 @@
 |  48  |  Rotate Image  |  ✅  |  Rust  |
 |  51  |  N-Queens  |  ✅  |  Rust  |
 |  52  |  N-Queens II  |  ✅  |  Rust  |
-|  54  |  Spiral Matrix  |  ✅  |  Rust  |
+|  54  |  Spiral Matrix  |  ✅  |  Rust, Typescript  |
 |  55  |  Jump Game  |  ✅  |  Rust  |
 |  62  |  Unique Paths  |  ✅  |  Rust, Typescript  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
@@ -66,6 +66,7 @@
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
 |  174  |  Dungeon Game  |  ✅  |  Rust  |
 |  200  |  Number of Islands  |  ✅  |  Typescript  |
+|  202  |  Happy Number  |  ✅  |  Typescript  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
@@ -237,6 +238,7 @@
 |  1695  |  Maximum Erasure Value  |  ✅  |  Rust  |
 |  1696  |  Jump Game VI  |  ✅  |  Rust  |
 |  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust  |
+|  1706  |  Where Will the Ball Fall  |  ✅  |  Typescript  |
 |  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
