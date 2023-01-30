@@ -12,7 +12,7 @@
 |  11  |  Container With Most Water  |  ✅  |  Javascript  |
 |  12  |  Integer to Roman  |  ✅  |  Rust  |
 |  13  |  Roman to Integer  |  ✅  |  Javascript  |
-|  14  |  Longest Common Prefix  |  ✅  |  Javascript  |
+|  14  |  Longest Common Prefix  |  ✅  |  Javascript, Typescript  |
 |  15  |  3Sum  |  ✅  |  Rust  |
 |  16  |  3Sum Closest  |  ✅  |  Javascript, Rust  |
 |  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust  |
