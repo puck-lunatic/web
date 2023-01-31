@@ -17,7 +17,7 @@
 |  16  |  3Sum Closest  |  ✅  |  Javascript, Rust  |
 |  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust  |
 |  18  |  4Sum  |  ✅  |  Rust  |
-|  19  |  Remove Nth Node From End of List  |  ✅  |  Rust  |
+|  19  |  Remove Nth Node From End of List  |  ✅  |  Rust, Typescript  |
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust, Typescript  |
 |  22  |  Generate Parentheses  |  ✅  |  Rust  |
 |  25  |  Reverse Nodes in k-Group  |  ✅  |  Rust  |
@@ -70,7 +70,7 @@
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
-|  234  |  Palindrome Linked List  |  ✅  |  Rust  |
+|  234  |  Palindrome Linked List  |  ✅  |  Rust, Typescript  |
 |  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
 |  238  |  Product of Array Except Self  |  ✅  |  Rust  |
