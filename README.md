@@ -136,6 +136,7 @@
 |  598  |  Range Addition II  |  ✅  |  Rust  |
 |  609  |  Find Duplicate File in System  |  ✅  |  Rust  |
 |  611  |  Valid Triangle Number  |  ✅  |  Rust  |
+|  621  |  Task Scheduler  |  ✅  |  Typescript  |
 |  622  |  Design Circular Queue  |  ✅  |  Rust  |
 |  623  |  Add One Row to Tree  |  ✅  |  Rust  |
 |  629  |  K Inverse Pairs Array  |  ✅  |  Rust  |
@@ -244,3 +245,4 @@
 |  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
+|  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
