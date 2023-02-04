@@ -109,6 +109,7 @@
 |  415  |  Add Strings  |  ✅  |  Rust  |
 |  424  |  Longest Repeating Character Replacement  |  ✅  |  Typescript  |
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
+|  437  |  Path Sum III  |  ✅  |  Typescript  |
 |  438  |  Find All Anagrams in a String  |  ✅  |  Typescript  |
 |  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Typescript  |
 |  461  |  Hamming Distance  |  ✅  |  Rust  |
@@ -123,6 +124,7 @@
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  537  |  Complex Number Multiplication  |  ✅  |  Rust  |
 |  542  |  01 Matrix  |  ✅  |  Rust  |
+|  543  |  Diameter of Binary Tree  |  ✅  |  Typescript  |
 |  546  |  Remove Boxes  |  ✅  |  Rust  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
 |  561  |  Array Partition I  |  ✅  |  Rust  |
