@@ -23,6 +23,7 @@
 |  25  |  Reverse Nodes in k-Group  |  ✅  |  Rust  |
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
 |  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
+|  33  |  Search in Rotated Sorted Array  |  ✅  |  Rust, Typescript  |
 |  36  |  Valid Sudoku  |  ✅  |  Rust  |
 |  45  |  Jump Game II  |  ✅  |  Rust  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
@@ -36,6 +37,7 @@
 |  70  |  Climbing Stairs  |  ✅  |  Rust, Typescript  |
 |  72  |  Edit Distance  |  ✅  |  Rust  |
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
+|  74  |  Search a 2D Matrix  |  ✅  |  Rust  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
 |  90  |  Subsets II  |  ✅  |  Rust  |
 |  91  |  Decode Ways  |  ✅  |  Rust  |
