@@ -111,6 +111,7 @@
 |  394  |  Decode String  |  ✅  |  Typescript  |
 |  409  |  Longest Palindrome  |  ✅  |  Typescript  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
+|  417  |  Pacific Atlantic Water Flow  |  ✅  |  Typescript  |
 |  424  |  Longest Repeating Character Replacement  |  ✅  |  Typescript  |
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
 |  437  |  Path Sum III  |  ✅  |  Typescript  |
@@ -210,6 +211,7 @@
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
 |  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
+|  994  |  Rotting Oranges  |  ✅  |  Typescript  |
 |  1004  |  Max Consecutive Ones III  |  ✅  |  Rust  |
 |  1046  |  Last Stone Weight  |  ✅  |  Typescript  |
 |  1047  |  Remove All Adjacent Duplicates In String  |  ✅  |  Rust  |
