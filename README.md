@@ -75,6 +75,7 @@
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
+|  215  |  Course Schedule II  |  ✅  |  Typescript  |
 |  226  |  Invert Binary Tree  |  ✅  |  Typescript  |
 |  230  |  Kth Smallest Element in a BST  |  ✅  |  Typescript  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust, Typescript  |
@@ -185,6 +186,7 @@
 |  795  |  Number of Subarrays with Bounded Maximum  |  ✅  |  Rust  |
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
 |  814  |  Binary Tree Pruning  |  ✅  |  Rust  |
+|  815  |  Bus Routes  |  ✅  |  Typescript  |
 |  816  |  Ambiguous Coordinates  |  ✅  |  Rust  |
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
