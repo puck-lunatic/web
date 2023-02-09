@@ -70,6 +70,7 @@
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
 |  173  |  Binary Search Tree Iterator  |  ✅  |  Typescript  |
 |  174  |  Dungeon Game  |  ✅  |  Rust  |
+|  198  |  House Robber  |  ✅  |  Typescript  |
 |  200  |  Number of Islands  |  ✅  |  Typescript  |
 |  202  |  Happy Number  |  ✅  |  Typescript  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
@@ -98,7 +99,7 @@
 |  328  |  Odd Even Linked List  |  ✅  |  Typescript  |
 |  329  |  Longest Increasing Path in a Matrix  |  ✅  |  Rust  |
 |  331  |  Verify Preorder Serialization of a Binary Tree  |  ✅  |  Rust  |
-|  332  |  Coin Change  |  ✅  |  Rust  |
+|  332  |  Coin Change  |  ✅  |  Rust, Typescript  |
 |  336  |  Palindrome Pairs  |  ✅  |  Rust  |
 |  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
 |  350  |  Intersection of Two Arrays II  |  ✅  |  Rust  |
