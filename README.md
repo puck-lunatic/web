@@ -64,6 +64,7 @@
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  148  |  Sort List  |  ✅  |  Typescript  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
+|  152  |  Maximum Product Subarray  |  ✅  |  Typescript  |
 |  153  |  Find Minimum in Rotated Sorted Array  |  ✅  |  Rust  |
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
 |  162  |  Find Peak Element  |  ✅  |  Javascript  |
@@ -113,6 +114,7 @@
 |  394  |  Decode String  |  ✅  |  Typescript  |
 |  409  |  Longest Palindrome  |  ✅  |  Typescript  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
+|  416  |  Partition Equal Subset Sum  |  ✅  |  Typescript  |
 |  417  |  Pacific Atlantic Water Flow  |  ✅  |  Typescript  |
 |  424  |  Longest Repeating Character Replacement  |  ✅  |  Typescript  |
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
