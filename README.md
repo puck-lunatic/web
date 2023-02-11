@@ -6,6 +6,7 @@
 | ---- | ---- | ---- | ---- |
 |  1  |  Two Sum  |  ✅  |  Java, Rust, Typescript  |
 |  2  |  Add Two Numbers  |  ✅  |  Javascript  |
+|  3  |  Longest Substring Without Repeating Characters  |  ✅  |  Typescript  |
 |  4  |  Median of Two Sorted Arrays  |  ✅  |  Rust  |
 |  7  |  Reverse Integer  |  ✅  |  Javascript  |
 |  9  |  Palindrome Number  |  ✅  |  Javascript  |
@@ -14,7 +15,7 @@
 |  13  |  Roman to Integer  |  ✅  |  Javascript  |
 |  14  |  Longest Common Prefix  |  ✅  |  Javascript, Typescript  |
 |  15  |  3Sum  |  ✅  |  Rust  |
-|  16  |  3Sum Closest  |  ✅  |  Javascript, Rust  |
+|  16  |  3Sum Closest  |  ✅  |  Javascript, Rust, Typescript  |
 |  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust  |
 |  18  |  4Sum  |  ✅  |  Rust  |
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust, Typescript  |
@@ -38,6 +39,7 @@
 |  72  |  Edit Distance  |  ✅  |  Rust  |
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  74  |  Search a 2D Matrix  |  ✅  |  Rust  |
+|  76  |  Minimum Window Substring  |  ✅  |  Typescript  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
 |  90  |  Subsets II  |  ✅  |  Rust  |
 |  91  |  Decode Ways  |  ✅  |  Rust  |
