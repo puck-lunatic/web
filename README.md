@@ -48,6 +48,8 @@
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust  |
 |  98  |  Validate Binary Search Tree  |  ✅  |  Typescript  |
+|  100  |  Same Tree  |  ✅  |  Typescript  |
+|  101  |  Symmetric Tree  |  ✅  |  Typescript  |
 |  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust, Typescript  |
 |  105  |  Construct Binary Tree from Preorder and Inorder Traversal  |  ✅  |  Rust  |
 |  108  |  Convert Sorted Array to Binary Search Tree  |  ✅  |  Rust, Typescript  |
@@ -74,6 +76,7 @@
 |  173  |  Binary Search Tree Iterator  |  ✅  |  Typescript  |
 |  174  |  Dungeon Game  |  ✅  |  Rust  |
 |  198  |  House Robber  |  ✅  |  Typescript  |
+|  199  |  Binary Tree Right Side View  |  ✅  |  Typescript  |
 |  200  |  Number of Islands  |  ✅  |  Typescript  |
 |  202  |  Happy Number  |  ✅  |  Typescript  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
