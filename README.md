@@ -1,4 +1,4 @@
-#### Daily Exercise on [LeetCode](https://leetcode.com/problemset/all/) to Crush Coding Interview and Get Offer from Foreign Company (Damn Japanese Company).
+#### Daily Exercise on [LeetCode](https://leetcode.com/problemset/all/) to Crush Coding Interview and Get Offer from International Company.
 
 
 #### Records
@@ -68,6 +68,7 @@
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  148  |  Sort List  |  ✅  |  Typescript  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
+|  151  |  Min Stack  |  ✅  |  Typescript  |
 |  152  |  Maximum Product Subarray  |  ✅  |  Typescript  |
 |  153  |  Find Minimum in Rotated Sorted Array  |  ✅  |  Rust  |
 |  160  |  Intersection of Two Linked Lists  |  ✅  |  Javascript  |
@@ -82,9 +83,11 @@
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
+|  208  |  Implement Trie (Prefix Tree)  |  ✅  |  Typescript  |
 |  215  |  Course Schedule II  |  ✅  |  Typescript  |
 |  226  |  Invert Binary Tree  |  ✅  |  Typescript  |
 |  230  |  Kth Smallest Element in a BST  |  ✅  |  Typescript  |
+|  232  |  Implement Queue using Stacks  |  ✅  |  Typescript  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust, Typescript  |
 |  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
