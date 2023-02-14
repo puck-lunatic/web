@@ -32,6 +32,8 @@
 |  52  |  N-Queens II  |  ✅  |  Rust  |
 |  54  |  Spiral Matrix  |  ✅  |  Rust, Typescript  |
 |  55  |  Jump Game  |  ✅  |  Rust  |
+|  56  |  Merge Intervals  |  ✅  |  Typescript  |
+|  57  |  Insert Interval  |  ✅  |  Typescript  |
 |  62  |  Unique Paths  |  ✅  |  Rust, Typescript  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
