@@ -88,6 +88,7 @@
 |  208  |  Implement Trie (Prefix Tree)  |  ✅  |  Typescript  |
 |  215  |  Course Schedule II  |  ✅  |  Typescript  |
 |  226  |  Invert Binary Tree  |  ✅  |  Typescript  |
+|  227  |  Basic Calculator II  |  ✅  |  Typescript  |
 |  230  |  Kth Smallest Element in a BST  |  ✅  |  Typescript  |
 |  232  |  Implement Queue using Stacks  |  ✅  |  Typescript  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust, Typescript  |
@@ -187,6 +188,7 @@
 |  725  |  Split Linked List in Parts  |  ✅  |  Rust  |
 |  729  |  My Calendar I  |  ✅  |  Rust  |
 |  733  |  Flood Fill  |  ✅  |  Typescript  |
+|  735  |  Asteroid Collision  |  ✅  |  Typescript  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust, Typescript  |
 |  752  |  Open the Lock  |  ✅  |  Rust  |
