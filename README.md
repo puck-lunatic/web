@@ -146,6 +146,7 @@
 |  542  |  01 Matrix  |  ✅  |  Rust  |
 |  543  |  Diameter of Binary Tree  |  ✅  |  Typescript  |
 |  546  |  Remove Boxes  |  ✅  |  Rust  |
+|  547  |  Number of Provinces  |  ✅  |  Typescript  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
 |  561  |  Array Partition I  |  ✅  |  Rust  |
 |  565  |  Array Nesting  |  ✅  |  Rust  |
@@ -222,6 +223,7 @@
 |  932  |  Beautiful Array  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  943  |  Find the Shortest Superstring  |  ✅  |  Java  |
+|  947  |  Most Stones Removed with Same Row or Column  |  ✅  |  Typescript  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
 |  954  |  Array of Doubled Pairs  |  ✅  |  Rust  |
 |  968  |  Binary Tree Cameras  |  ✅  |  Rust  |
