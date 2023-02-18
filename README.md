@@ -198,6 +198,7 @@
 |  764  |  Largest Plus Sign  |  ✅  |  Rust  |
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
 |  778  |  Swim in Rising Water  |  ✅  |  Rust  |
+|  783  |  Minimum Distance Between BST Nodes  |  ✅  |  Typescript  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
 |  791  |  Custom Sort String  |  ✅  |  Rust  |
 |  792  |  Number of Matching Subsequences  |  ✅  |  Rust  |
