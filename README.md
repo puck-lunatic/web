@@ -55,6 +55,7 @@
 |  100  |  Same Tree  |  ✅  |  Typescript  |
 |  101  |  Symmetric Tree  |  ✅  |  Typescript  |
 |  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust, Typescript  |
+|  103  |  Binary Tree Zigzag Level Order Traversal  |  ✅  |  Rust, Typescript  |
 |  105  |  Construct Binary Tree from Preorder and Inorder Traversal  |  ✅  |  Rust  |
 |  108  |  Convert Sorted Array to Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  109  |  Convert Sorted List to Binary Search Tree  |  ✅  |  Rust  |
