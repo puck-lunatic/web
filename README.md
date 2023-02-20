@@ -25,6 +25,7 @@
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
 |  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
 |  33  |  Search in Rotated Sorted Array  |  ✅  |  Rust, Typescript  |
+|  35  |  Search Insert Position  |  ✅  |  Rust, Typescript  |
 |  36  |  Valid Sudoku  |  ✅  |  Rust  |
 |  39  |  Combination Sum  |  ✅  |  Rust, Typescript  |
 |  45  |  Jump Game II  |  ✅  |  Rust  |
