@@ -147,6 +147,7 @@
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  537  |  Complex Number Multiplication  |  ✅  |  Rust  |
+|  540  |  Single Element in a Sorted Array  |  ✅  |  Typescript  |
 |  542  |  01 Matrix  |  ✅  |  Rust  |
 |  543  |  Diameter of Binary Tree  |  ✅  |  Typescript  |
 |  546  |  Remove Boxes  |  ✅  |  Rust  |
