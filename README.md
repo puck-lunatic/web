@@ -238,6 +238,7 @@
 |  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
 |  994  |  Rotting Oranges  |  ✅  |  Typescript  |
 |  1004  |  Max Consecutive Ones III  |  ✅  |  Rust  |
+|  1011  |  Capacity To Ship Packages Within D Days  |  ✅  |  Typescript  |
 |  1046  |  Last Stone Weight  |  ✅  |  Typescript  |
 |  1047  |  Remove All Adjacent Duplicates In String  |  ✅  |  Rust  |
 |  1048  |  Longest String Chain  |  ✅  |  Rust  |
