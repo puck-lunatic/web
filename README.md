@@ -273,6 +273,7 @@
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
+|  1675  |  Minimize Deviation in Array  |  ✅  |  Typescript  |
 |  1689  |  Partitioning Into Minimum Number Of Deci-Binary Numbers  |  ✅  |  Rust  |
 |  1690  |  Stone Game VII  |  ✅  |  Rust  |
 |  1695  |  Maximum Erasure Value  |  ✅  |  Rust  |
