@@ -65,7 +65,7 @@
 |  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
 |  118  |  Pascal's Triangle  |  ✅  |  Rust  |
 |  120  |  Triangle  |  ✅  |  Rust  |
-|  121  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust, Typescript  |
+|  121  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust, Typescript, Dart  |
 |  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  135  |  Candy  |  ✅  |  Rust  |
