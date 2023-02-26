@@ -41,7 +41,7 @@
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  70  |  Climbing Stairs  |  ✅  |  Rust, Typescript  |
-|  72  |  Edit Distance  |  ✅  |  Rust  |
+|  72  |  Edit Distance  |  ✅  |  Rust, Typescript  |
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  74  |  Search a 2D Matrix  |  ✅  |  Rust  |
 |  76  |  Minimum Window Substring  |  ✅  |  Typescript  |
