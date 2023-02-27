@@ -132,6 +132,7 @@
 |  416  |  Partition Equal Subset Sum  |  ✅  |  Typescript  |
 |  417  |  Pacific Atlantic Water Flow  |  ✅  |  Typescript  |
 |  424  |  Longest Repeating Character Replacement  |  ✅  |  Typescript  |
+|  427  |  Construct Quad Tree  |  ✅  |  Typescript  |
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
 |  437  |  Path Sum III  |  ✅  |  Typescript  |
 |  438  |  Find All Anagrams in a String  |  ✅  |  Typescript  |
