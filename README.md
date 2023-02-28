@@ -177,6 +177,7 @@
 |  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
 |  639  |  Decode Ways II  |  ✅  |  Rust  |
 |  645  |  Set Mismatch  |  ✅  |  Rust  |
+|  652  |  Find Duplicate Subtrees  |  ✅  |  Typescript  |
 |  653  |  Two Sum IV - Input is a BST  |  ✅  |  Rust  |
 |  658  |  Find K Closest Elements  |  ✅  |  Rust  |
 |  665  |  Non-decreasing Array  |  ✅  |  Rust  |
