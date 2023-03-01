@@ -224,6 +224,7 @@
 |  877  |  Stone Game  |  ✅  |  Rust  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
+|  912  |  Sort an Array  |  ✅  |  Typescript  |
 |  915  |  Partition Array into Disjoint Intervals  |  ✅  |  Rust  |
 |  917  |  Reverse Only Letters  |  ✅  |  Rust  |
 |  926  |  Flip String to Monotone Increasing  |  ✅  |  Rust  |
