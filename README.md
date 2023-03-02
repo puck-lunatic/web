@@ -136,6 +136,7 @@
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
 |  437  |  Path Sum III  |  ✅  |  Typescript  |
 |  438  |  Find All Anagrams in a String  |  ✅  |  Typescript  |
+|  443  |  String Compression  |  ✅  |  Typescript  |
 |  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Typescript  |
 |  461  |  Hamming Distance  |  ✅  |  Rust  |
 |  462  |  Minimum Moves to Equal Array Elements II  |  ✅  |  Rust  |
