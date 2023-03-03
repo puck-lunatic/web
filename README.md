@@ -22,6 +22,7 @@
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust, Typescript  |
 |  22  |  Generate Parentheses  |  ✅  |  Rust  |
 |  25  |  Reverse Nodes in k-Group  |  ✅  |  Rust  |
+|  28  |  Find the Index of the First Occurrence in a String  |  ✅  |  Typescript  |
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
 |  32  |  Longest Valid Parentheses  |  ✅  |  Rust  |
 |  33  |  Search in Rotated Sorted Array  |  ✅  |  Rust, Typescript  |
