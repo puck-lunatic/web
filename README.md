@@ -289,3 +289,4 @@
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
 |  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
+|  2444  |  Count Subarrays With Fixed Bounds  |  ✅  |  Typescript  |
