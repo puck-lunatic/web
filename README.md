@@ -265,7 +265,7 @@
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
 |  1338  |  Reduce Array Size to The Half  |  ✅  |  Rust  |
 |  1339  |  Maximum Product of Splitted Binary Tree  |  ✅  |  Rust  |
-|  1345  |  Jump Game IV  |  ✅  |  Rust  |
+|  1345  |  Jump Game IV  |  ✅  |  Rust, Typescript  |
 |  1354  |  Construct Target Array With Multiple Sums  |  ✅  |  Rust  |
 |  1383  |  Maximum Performance of a Team  |  ✅  |  Rust  |
 |  1395  |  Count Number of Teams  |  ✅  |  Rust  |
