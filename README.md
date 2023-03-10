@@ -125,6 +125,7 @@
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  377  |  Combination Sum IV  |  ✅  |  Rust  |
 |  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
+|  382  |  Linked List Random Node  |  ✅  |  Typescript  |
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
 |  392  |  Is Subsequence  |  ✅  |  Typescript  |
 |  394  |  Decode String  |  ✅  |  Typescript  |
