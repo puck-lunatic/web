@@ -21,6 +21,7 @@
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust, Typescript  |
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust, Typescript  |
 |  22  |  Generate Parentheses  |  ✅  |  Rust  |
+|  23  |  Merge k Sorted Lists  |  ✅  |  Typescript  |
 |  25  |  Reverse Nodes in k-Group  |  ✅  |  Rust  |
 |  28  |  Find the Index of the First Occurrence in a String  |  ✅  |  Typescript  |
 |  29  |  Divide Two Integers  |  ✅  |  Rust  |
