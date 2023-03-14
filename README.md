@@ -8,6 +8,7 @@
 |  2  |  Add Two Numbers  |  ✅  |  Javascript  |
 |  3  |  Longest Substring Without Repeating Characters  |  ✅  |  Typescript  |
 |  4  |  Median of Two Sorted Arrays  |  ✅  |  Rust  |
+|  5  |  Longest Palindromic Substring  |  ✅  |  Typescript  |
 |  7  |  Reverse Integer  |  ✅  |  Javascript  |
 |  9  |  Palindrome Number  |  ✅  |  Javascript  |
 |  11  |  Container With Most Water  |  ✅  |  Javascript  |
@@ -69,6 +70,7 @@
 |  120  |  Triangle  |  ✅  |  Rust  |
 |  121  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust, Typescript, Dart  |
 |  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
+|  129  |  Sum Root to Leaf Numbers  |  ✅  |  Typescript  |
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  135  |  Candy  |  ✅  |  Rust  |
 |  135  |  Single Number  |  ✅  |  Rust  |
