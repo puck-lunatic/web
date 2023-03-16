@@ -61,6 +61,7 @@
 |  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust, Typescript  |
 |  103  |  Binary Tree Zigzag Level Order Traversal  |  ✅  |  Rust, Typescript  |
 |  105  |  Construct Binary Tree from Preorder and Inorder Traversal  |  ✅  |  Rust  |
+|  106  |  Construct Binary Tree from Inorder and Postorder Traversal  |  ✅  |  Rust  |
 |  108  |  Convert Sorted Array to Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  109  |  Convert Sorted List to Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  110  |  Balanced Binary Tree  |  ✅  |  Typescript  |
