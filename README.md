@@ -33,6 +33,7 @@
 |  39  |  Combination Sum  |  ✅  |  Rust, Typescript  |
 |  45  |  Jump Game II  |  ✅  |  Rust  |
 |  46  |  Permutations  |  ✅  |  Typescript  |
+|  46  |  Permutations II |  ✅  |  Typescript  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
 |  51  |  N-Queens  |  ✅  |  Rust  |
 |  52  |  N-Queens II  |  ✅  |  Rust  |
