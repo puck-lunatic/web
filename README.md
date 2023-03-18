@@ -282,6 +282,7 @@
 |  1448  |  Count Good Nodes in Binary Tree  |  ✅  |  Rust  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
 |  1465  |  Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts  |  ✅  |  Rust  |
+|  1472  |  Design Browser History  |  ✅  |  Typescript  |
 |  1480  |  Running Sum of 1d Array  |  ✅  |  Rust, Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
