@@ -96,6 +96,7 @@
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
 |  208  |  Implement Trie (Prefix Tree)  |  ✅  |  Typescript  |
+|  211  |  Design Add and Search Words Data Structure  |  ✅  |  Typescript  |
 |  215  |  Course Schedule II  |  ✅  |  Typescript  |
 |  226  |  Invert Binary Tree  |  ✅  |  Typescript  |
 |  227  |  Basic Calculator II  |  ✅  |  Typescript  |
