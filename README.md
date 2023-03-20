@@ -175,6 +175,7 @@
 |  589  |  N-ary Tree Preorder Traversal  |  ✅  |  Javascript, Typescript  |
 |  595  |  Big Countries  |  ✅  |  SQL  |
 |  598  |  Range Addition II  |  ✅  |  Rust  |
+|  605  |  Can Place Flowers  |  ✅  |  Typescript  |
 |  609  |  Find Duplicate File in System  |  ✅  |  Rust  |
 |  611  |  Valid Triangle Number  |  ✅  |  Rust  |
 |  621  |  Task Scheduler  |  ✅  |  Typescript  |
