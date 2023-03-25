@@ -304,6 +304,7 @@
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
 |  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
 |  2187  |  Minimum Time to Complete Trips  |  ✅  |  Typescript  |
+|  2316  |  Count Unreachable Pairs of Nodes in an Undirected Graph  |  ✅  |  Typescript  |
 |  2348  |  Number of Zero-Filled Subarrays  |  ✅  |  Typescript  |
 |  2444  |  Count Subarrays With Fixed Bounds  |  ✅  |  Typescript  |
 |  2492  |  Minimum Score of a Path Between Two Cities  |  ✅  |  Typescript  |
