@@ -253,6 +253,7 @@
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
 |  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
+|  983  |  Minimum Cost For Tickets  |  ✅  |  Typescript  |
 |  994  |  Rotting Oranges  |  ✅  |  Typescript  |
 |  1004  |  Max Consecutive Ones III  |  ✅  |  Rust  |
 |  1011  |  Capacity To Ship Packages Within D Days  |  ✅  |  Typescript  |
