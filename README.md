@@ -283,6 +283,7 @@
 |  1383  |  Maximum Performance of a Team  |  ✅  |  Rust  |
 |  1395  |  Count Number of Teams  |  ✅  |  Rust  |
 |  1396  |  Design Underground System  |  ✅  |  Rust  |
+|  1402  |  Reducing Dishes  |  ✅  |  Typescript  |
 |  1423  |  Maximum Points You Can Obtain from Cards  |  ✅  |  Rust  |
 |  1448  |  Count Good Nodes in Binary Tree  |  ✅  |  Rust  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
