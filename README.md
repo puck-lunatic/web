@@ -50,6 +50,7 @@
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  74  |  Search a 2D Matrix  |  ✅  |  Rust  |
 |  76  |  Minimum Window Substring  |  ✅  |  Typescript  |
+|  87  |  Scramble String  |  ✅  |  Typescript  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
 |  90  |  Subsets II  |  ✅  |  Rust  |
 |  91  |  Decode Ways  |  ✅  |  Rust  |
