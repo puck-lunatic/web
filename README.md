@@ -49,6 +49,7 @@
 |  72  |  Edit Distance  |  ✅  |  Rust, Typescript  |
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  74  |  Search a 2D Matrix  |  ✅  |  Rust  |
+|  75  |  Sort Colors  |  ✅  |  Typescript  |
 |  76  |  Minimum Window Substring  |  ✅  |  Typescript  |
 |  87  |  Scramble String  |  ✅  |  Typescript  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
