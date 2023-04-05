@@ -316,5 +316,6 @@
 |  2348  |  Number of Zero-Filled Subarrays  |  ✅  |  Typescript  |
 |  2360  |  Longest Cycle in a Graph  |  ✅  |  Typescript  |
 |  2405  |  Optimal Partition of String  |  ✅  |  Typescript  |
+|  2439  |  Minimize Maximum of Array  |  ✅  |  Typescript  |
 |  2444  |  Count Subarrays With Fixed Bounds  |  ✅  |  Typescript  |
 |  2492  |  Minimum Score of a Path Between Two Cities  |  ✅  |  Typescript  |
