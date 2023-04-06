@@ -272,6 +272,7 @@
 |  1220  |  Count Vowels Permutation  |  ✅  |  Rust  |
 |  1221  |  Split a String in Balanced Strings  |  ✅  |  Rust  |
 |  1239  |  Maximum Length of a Concatenated String with Unique Characters  |  ✅  |  Rust  |
+|  1254  |  Number of Closed Islands  |  ✅  |  Typescript  |
 |  1268  |  Search Suggestions System  |  ✅  |  Rust  |
 |  1275  |  Find Winner on a Tic Tac Toe Game  |  ✅  |  Rust  |
 |  1293  |  Shortest Path in a Grid with Obstacles Elimination  |  ✅  |  Rust  |
