@@ -312,6 +312,7 @@
 |  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
+|  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
 |  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
 |  2187  |  Minimum Time to Complete Trips  |  ✅  |  Typescript  |
 |  2300  |  Successful Pairs of Spells and Potions  |  ✅  |  Typescript  |
