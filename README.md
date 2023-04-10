@@ -20,6 +20,7 @@
 |  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust  |
 |  18  |  4Sum  |  ✅  |  Rust  |
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust, Typescript  |
+|  20  |  Valid Parentheses  |  ✅  |  Rust, Typescript  |
 |  21  |  Merge Two Sorted Lists  |  ✅  |  Rust, Typescript  |
 |  22  |  Generate Parentheses  |  ✅  |  Rust  |
 |  23  |  Merge k Sorted Lists  |  ✅  |  Typescript  |
