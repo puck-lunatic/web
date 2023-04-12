@@ -47,6 +47,7 @@
 |  64  |  Minimum Path Sum  |  ✅  |  Rust, Typescript  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  70  |  Climbing Stairs  |  ✅  |  Rust, Typescript  |
+|  71  |  Simplify Path  |  ✅  |  Typescript  |
 |  72  |  Edit Distance  |  ✅  |  Rust, Typescript  |
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  74  |  Search a 2D Matrix  |  ✅  |  Rust  |
