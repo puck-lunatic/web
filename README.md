@@ -251,6 +251,7 @@
 |  932  |  Beautiful Array  |  ✅  |  Rust  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  943  |  Find the Shortest Superstring  |  ✅  |  Java  |
+|  946  |  Validate Stack Sequences  |  ✅  |  Typescript  |
 |  947  |  Most Stones Removed with Same Row or Column  |  ✅  |  Typescript  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
 |  954  |  Array of Doubled Pairs  |  ✅  |  Rust  |
