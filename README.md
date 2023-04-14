@@ -160,6 +160,7 @@
 |  485  |  Max Consecutive Ones  |  ✅  |  Rust  |
 |  502  |  IPO  |  ✅  |  Typescript  |
 |  509  |  Fibonacci Number  |  ✅  |  Rust, Typescript  |
+|  516  |  Longest Palindromic Subsequence  |  ✅  |  Typescript  |
 |  522  |  Longest Uncommon Subsequence II  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
