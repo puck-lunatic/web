@@ -317,6 +317,7 @@
 |  1706  |  Where Will the Ball Fall  |  ✅  |  Typescript  |
 |  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
+|  1768  |  Merge Strings Alternately  |  ✅  |  Typescript  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
 |  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
