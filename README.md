@@ -290,6 +290,7 @@
 |  1339  |  Maximum Product of Splitted Binary Tree  |  ✅  |  Rust  |
 |  1345  |  Jump Game IV  |  ✅  |  Rust, Typescript  |
 |  1354  |  Construct Target Array With Multiple Sums  |  ✅  |  Rust  |
+|  1372  |  Longest ZigZag Path in a Binary Tree  |  ✅  |  Typescript  |
 |  1383  |  Maximum Performance of a Team  |  ✅  |  Rust  |
 |  1395  |  Count Number of Teams  |  ✅  |  Rust  |
 |  1396  |  Design Underground System  |  ✅  |  Rust  |
