@@ -241,6 +241,7 @@
 |  875  |  Koko Eating Bananas  |  ✅  |  Typescript  |
 |  876  |  Middle of the Linked List  |  ✅  |  Rust, Typescript  |
 |  877  |  Stone Game  |  ✅  |  Rust  |
+|  879  |  Profitable Schemes  |  ✅  |  Typescript  |
 |  881  |  Boats to Save People  |  ✅  |  Typescript  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
