@@ -244,6 +244,7 @@
 |  879  |  Profitable Schemes  |  ✅  |  Typescript  |
 |  881  |  Boats to Save People  |  ✅  |  Typescript  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
+|  893  |  Groups of Special-Equivalent Strings  |  ✅  |  Typescript  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
 |  912  |  Sort an Array  |  ✅  |  Typescript  |
 |  915  |  Partition Array into Disjoint Intervals  |  ✅  |  Rust  |
