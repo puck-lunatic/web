@@ -112,7 +112,8 @@
 |  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
 |  238  |  Product of Array Except Self  |  ✅  |  Rust  |
-|  240  |  Search a 2D Matrix II  |  ✅  |  Rust  |
+|  240  |  Search a 2D Matrix II  |  ✅  |  Typescript  |
+|  258  |  Add Digits  |  ✅  |  Rust  |
 |  268  |  Missing Number  |  ✅  |  Rust  |
 |  278  |  First Bad Version  |  ✅  |  Typescript  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
