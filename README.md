@@ -125,6 +125,7 @@
 |  307  |  Range Sum Query - Mutable  |  ✅  |  Rust  |
 |  315  |  Count of Smaller Numbers After Self  |  ✅  |  Rust  |
 |  318  |  Maximum Product of Word Lengths  |  ✅  |  Rust  |
+|  319  |  Bulb Switcher  |  ✅  |  Typescript  |
 |  326  |  Power of Three  |  ✅  |  Rust  |
 |  328  |  Odd Even Linked List  |  ✅  |  Typescript  |
 |  329  |  Longest Increasing Path in a Matrix  |  ✅  |  Rust  |
