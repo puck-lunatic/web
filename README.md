@@ -236,6 +236,7 @@
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
 |  838  |  Push Dominoes  |  ✅  |  Rust  |
+|  839  |  Similar String Groups  |  ✅  |  Typescript  |
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
 |  844  |  Backspace String Compare  |  ✅  |  Typescript  |
 |  848  |  Shifting Letters  |  ✅  |  Rust  |
