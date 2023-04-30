@@ -313,6 +313,7 @@
 |  1472  |  Design Browser History  |  ✅  |  Typescript  |
 |  1480  |  Running Sum of 1d Array  |  ✅  |  Rust, Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
+|  1579  |  Remove Max Number of Edges to Keep Graph Fully Traversable  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1639  |  Number of Ways to Form a Target String Given a Dictionary  |  ✅  |  Typescript  |
