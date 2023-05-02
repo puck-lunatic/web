@@ -331,6 +331,7 @@
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
 |  1768  |  Merge Strings Alternately  |  ✅  |  Typescript  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
+|  1822  |  Sign of the Product of an Array  |  ✅  |  Typescript  |
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
 |  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
 |  2187  |  Minimum Time to Complete Trips  |  ✅  |  Typescript  |
