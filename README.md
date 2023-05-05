@@ -308,6 +308,7 @@
 |  1431  |  Kids With the Greatest Number of Candies  |  ✅  |  Typescript  |
 |  1444  |  Number of Ways of Cutting a Pizza  |  ✅  |  Typescript  |
 |  1448  |  Count Good Nodes in Binary Tree  |  ✅  |  Rust  |
+|  1456  |  Maximum Number of Vowels in a Substring of Given Length  |  ✅  |  Typescript  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
 |  1465  |  Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts  |  ✅  |  Rust  |
 |  1466  |  Reorder Routes to Make All Paths Lead to the City Zero  |  ✅  |  Typescript  |
