@@ -315,6 +315,7 @@
 |  1472  |  Design Browser History  |  ✅  |  Typescript  |
 |  1480  |  Running Sum of 1d Array  |  ✅  |  Rust, Typescript  |
 |  1491  |  Average Salary Excluding the Minimum and Maximum Salary  |  ✅  |  Rust, Typescript  |
+|  1498  |  Number of Subsequences That Satisfy the Given Sum Condition  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
 |  1579  |  Remove Max Number of Edges to Keep Graph Fully Traversable  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
