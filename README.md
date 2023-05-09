@@ -81,7 +81,8 @@
 |  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
 |  133  |  Clone Graph  |  ✅  |  Typescript  |
 |  135  |  Candy  |  ✅  |  Rust  |
-|  135  |  Single Number  |  ✅  |  Rust  |
+|  136  |  Single Number  |  ✅  |  Rust  |
+|  137  |  Single Number II  |  ✅  |  Typescript  |
 |  142  |  Linked List Cycle II  |  ✅  |  Typescript  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  148  |  Sort List  |  ✅  |  Typescript  |
