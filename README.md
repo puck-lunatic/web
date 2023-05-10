@@ -42,6 +42,7 @@
 |  55  |  Jump Game  |  ✅  |  Rust  |
 |  56  |  Merge Intervals  |  ✅  |  Typescript  |
 |  57  |  Insert Interval  |  ✅  |  Typescript  |
+|  59  |  Spiral Matrix II  |  ✅  |  Typescript  |
 |  62  |  Unique Paths  |  ✅  |  Rust, Typescript  |
 |  63  |  Unique Paths II  |  ✅  |  Rust  |
 |  64  |  Minimum Path Sum  |  ✅  |  Rust, Typescript  |
