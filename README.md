@@ -342,6 +342,7 @@
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
 |  1964  |  Find the Longest Valid Obstacle Course at Each Position  |  ✅  |  Typescript  |
 |  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
+|  2140  |  Solving Questions With Brainpower  |  ✅  |  Typescript  |
 |  2187  |  Minimum Time to Complete Trips  |  ✅  |  Typescript  |
 |  2215  |  Find the Difference of Two Arrays  |  ✅  |  Typescript  |
 |  2218  |  Maximum Value of K Coins From Piles  |  ✅  |  Typescript  |
