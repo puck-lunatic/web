@@ -338,6 +338,7 @@
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
 |  1768  |  Merge Strings Alternately  |  ✅  |  Typescript  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
+|  1799  |  Maximize Score After N Operations  |  ✅  |  Typescript  |
 |  1822  |  Sign of the Product of an Array  |  ✅  |  Typescript  |
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
 |  1964  |  Find the Longest Valid Obstacle Course at Each Position  |  ✅  |  Typescript  |
