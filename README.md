@@ -335,7 +335,7 @@
 |  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust  |
 |  1706  |  Where Will the Ball Fall  |  ✅  |  Typescript  |
 |  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
-|  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust  |
+|  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust, Typescript  |
 |  1768  |  Merge Strings Alternately  |  ✅  |  Typescript  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
 |  1799  |  Maximize Score After N Operations  |  ✅  |  Typescript  |
