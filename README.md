@@ -322,6 +322,7 @@
 |  1498  |  Number of Subsequences That Satisfy the Given Sum Condition  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
 |  1572  |  Matrix Diagonal Sum  |  ✅  |  Typescript  |
+|  1577  |  Minimum Number of Vertices to Reach All Nodes  |  ✅  |  Typescript  |
 |  1579  |  Remove Max Number of Edges to Keep Graph Fully Traversable  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
