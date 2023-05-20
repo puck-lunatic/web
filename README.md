@@ -146,6 +146,7 @@
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
 |  392  |  Is Subsequence  |  ✅  |  Typescript  |
 |  394  |  Decode String  |  ✅  |  Typescript  |
+|  399  |  Evaluate Division  |  ✅  |  Typescript  |
 |  409  |  Longest Palindrome  |  ✅  |  Typescript  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
 |  416  |  Partition Equal Subset Sum  |  ✅  |  Typescript  |
