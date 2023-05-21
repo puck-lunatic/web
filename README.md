@@ -262,6 +262,7 @@
 |  927  |  Three Equal Parts  |  ✅  |  Rust  |
 |  929  |  Unique Email Addresses  |  ✅  |  Rust  |
 |  932  |  Beautiful Array  |  ✅  |  Rust  |
+|  934  |  Shortest Bridge  |  ✅  |  Typescript  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
 |  943  |  Find the Shortest Superstring  |  ✅  |  Java  |
 |  946  |  Validate Stack Sequences  |  ✅  |  Typescript  |
