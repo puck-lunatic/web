@@ -366,3 +366,4 @@
 |  2444  |  Count Subarrays With Fixed Bounds  |  ✅  |  Typescript  |
 |  2466  |  Count Ways To Build Good Strings  |  ✅  |  Typescript  |
 |  2492  |  Minimum Score of a Path Between Two Cities  |  ✅  |  Typescript  |
+|  2542  |  Maximum Subsequence Score  |  ✅  |  Typescript  |
