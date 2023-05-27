@@ -314,6 +314,7 @@
 |  1395  |  Count Number of Teams  |  ✅  |  Rust  |
 |  1396  |  Design Underground System  |  ✅  |  Rust  |
 |  1402  |  Reducing Dishes  |  ✅  |  Typescript  |
+|  1406  |  Stone Game III  |  ✅  |  Typescript  |
 |  1416  |  Restore The Array  |  ✅  |  Typescript  |
 |  1423  |  Maximum Points You Can Obtain from Cards  |  ✅  |  Rust  |
 |  1431  |  Kids With the Greatest Number of Candies  |  ✅  |  Typescript  |
