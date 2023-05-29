@@ -334,6 +334,7 @@
 |  1577  |  Minimum Number of Vertices to Reach All Nodes  |  ✅  |  Typescript  |
 |  1579  |  Remove Max Number of Edges to Keep Graph Fully Traversable  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
+|  1603  |  Design Parking System  |  ✅  |  Typescript  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1639  |  Number of Ways to Form a Target String Given a Dictionary  |  ✅  |  Typescript  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
