@@ -217,6 +217,7 @@
 |  700  |  Search in a Binary Search Tree  |  ✅  |  Rust  |
 |  703  |  Kth Largest Element in a Stream  |  ✅  |  Typescript  |
 |  704  |  Binary Search  |  ✅  |  Typescript  |
+|  705  |  Design HashSet  |  ✅  |  Typescript  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust  |
 |  718  |  Maximum Length of Repeated Subarray  |  ✅  |  Rust  |
@@ -312,7 +313,7 @@
 |  1372  |  Longest ZigZag Path in a Binary Tree  |  ✅  |  Typescript  |
 |  1383  |  Maximum Performance of a Team  |  ✅  |  Rust  |
 |  1395  |  Count Number of Teams  |  ✅  |  Rust  |
-|  1396  |  Design Underground System  |  ✅  |  Rust  |
+|  1396  |  Design Underground System  |  ✅  |  Rust, Typescript  |
 |  1402  |  Reducing Dishes  |  ✅  |  Typescript  |
 |  1406  |  Stone Game III  |  ✅  |  Typescript  |
 |  1416  |  Restore The Array  |  ✅  |  Typescript  |
