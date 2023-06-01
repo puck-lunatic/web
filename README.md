@@ -287,6 +287,7 @@
 |  1046  |  Last Stone Weight  |  ✅  |  Typescript  |
 |  1047  |  Remove All Adjacent Duplicates In String  |  ✅  |  Rust  |
 |  1048  |  Longest String Chain  |  ✅  |  Rust  |
+|  1091  |  Shortest Path in Binary Matrix  |  ✅  |  Typescript  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
 |  1137  |  N-th Tribonacci Number  |  ✅  |  Rust  |
 |  1140  |  Stone Game II  |  ✅  |  Typescript  |
