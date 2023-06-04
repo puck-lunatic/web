@@ -176,7 +176,7 @@
 |  542  |  01 Matrix  |  ✅  |  Rust  |
 |  543  |  Diameter of Binary Tree  |  ✅  |  Typescript  |
 |  546  |  Remove Boxes  |  ✅  |  Rust  |
-|  547  |  Number of Provinces  |  ✅  |  Typescript  |
+|  547  |  Number of Provinces  |  ✅  |  Rust, Typescript  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
 |  561  |  Array Partition I  |  ✅  |  Rust  |
 |  565  |  Array Nesting  |  ✅  |  Rust  |
