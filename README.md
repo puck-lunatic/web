@@ -332,6 +332,7 @@
 |  1480  |  Running Sum of 1d Array  |  ✅  |  Rust, Typescript  |
 |  1491  |  Average Salary Excluding the Minimum and Maximum Salary  |  ✅  |  Rust, Typescript  |
 |  1498  |  Number of Subsequences That Satisfy the Given Sum Condition  |  ✅  |  Typescript  |
+|  1502  |  Can Make Arithmetic Progression From Sequence  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
 |  1572  |  Matrix Diagonal Sum  |  ✅  |  Typescript  |
 |  1574  |  Minimum Cost to Cut a Stick  |  ✅  |  Typescript  |
