@@ -305,6 +305,7 @@
 |  1293  |  Shortest Path in a Grid with Obstacles Elimination  |  ✅  |  Rust  |
 |  1302  |  Deepest Leaves Sum  |  ✅  |  Rust  |
 |  1312  |  Minimum Insertion Steps to Make a String Palindrome  |  ✅  |  Typescript  |
+|  1318  |  Minimum Flips to Make a OR b Equal to c  |  ✅  |  Typescript  |
 |  1319  |  Number of Operations to Make Network Connected  |  ✅  |  Typescript  |
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
