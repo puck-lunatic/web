@@ -312,6 +312,7 @@
 |  1338  |  Reduce Array Size to The Half  |  ✅  |  Rust  |
 |  1339  |  Maximum Product of Splitted Binary Tree  |  ✅  |  Rust  |
 |  1345  |  Jump Game IV  |  ✅  |  Rust, Typescript  |
+|  1351  |  Count Negative Numbers in a Sorted Matrix  |  ✅  |  Typescript  |
 |  1354  |  Construct Target Array With Multiple Sums  |  ✅  |  Rust  |
 |  1372  |  Longest ZigZag Path in a Binary Tree  |  ✅  |  Typescript  |
 |  1376  |  Time Needed to Inform All Employees  |  ✅  |  Typescript  |
