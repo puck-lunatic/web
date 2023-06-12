@@ -109,6 +109,7 @@
 |  215  |  Course Schedule II  |  ✅  |  Typescript  |
 |  226  |  Invert Binary Tree  |  ✅  |  Typescript  |
 |  227  |  Basic Calculator II  |  ✅  |  Typescript  |
+|  228  |  Summary Ranges  |  ✅  |  Typescript  |
 |  230  |  Kth Smallest Element in a BST  |  ✅  |  Typescript  |
 |  232  |  Implement Queue using Stacks  |  ✅  |  Typescript  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust, Typescript  |
