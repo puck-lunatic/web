@@ -376,6 +376,7 @@
 |  2316  |  Count Unreachable Pairs of Nodes in an Undirected Graph  |  ✅  |  Typescript  |
 |  2336  |  Smallest Number in Infinite Set  |  ✅  |  Typescript  |
 |  2348  |  Number of Zero-Filled Subarrays  |  ✅  |  Typescript  |
+|  2352  |  Equal Row and Column Pairs  |  ✅  |  Typescript  |
 |  2360  |  Longest Cycle in a Graph  |  ✅  |  Typescript  |
 |  2390  |  Removing Stars From a String  |  ✅  |  Typescript  |
 |  2405  |  Optimal Partition of String  |  ✅  |  Typescript  |
