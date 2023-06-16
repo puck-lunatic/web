@@ -341,6 +341,7 @@
 |  1498  |  Number of Subsequences That Satisfy the Given Sum Condition  |  ✅  |  Typescript  |
 |  1502  |  Can Make Arithmetic Progression From Sequence  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
+|  1569  |  Number of Ways to Reorder Array to Get Same BST  |  ✅  |  Typescript  |
 |  1572  |  Matrix Diagonal Sum  |  ✅  |  Typescript  |
 |  1574  |  Minimum Cost to Cut a Stick  |  ✅  |  Typescript  |
 |  1577  |  Minimum Number of Vertices to Reach All Nodes  |  ✅  |  Typescript  |
