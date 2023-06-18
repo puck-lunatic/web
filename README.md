@@ -378,6 +378,7 @@
 |  2218  |  Maximum Value of K Coins From Piles  |  ✅  |  Typescript  |
 |  2300  |  Successful Pairs of Spells and Potions  |  ✅  |  Typescript  |
 |  2316  |  Count Unreachable Pairs of Nodes in an Undirected Graph  |  ✅  |  Typescript  |
+|  2328  |  Number of Increasing Paths in a Grid  |  ✅  |  Typescript  |
 |  2336  |  Smallest Number in Infinite Set  |  ✅  |  Typescript  |
 |  2348  |  Number of Zero-Filled Subarrays  |  ✅  |  Typescript  |
 |  2352  |  Equal Row and Column Pairs  |  ✅  |  Typescript  |
