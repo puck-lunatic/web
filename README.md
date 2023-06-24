@@ -276,6 +276,7 @@
 |  947  |  Most Stones Removed with Same Row or Column  |  ✅  |  Typescript  |
 |  953  |  Verifying an Alien Dictionary  |  ✅  |  Rust  |
 |  954  |  Array of Doubled Pairs  |  ✅  |  Rust  |
+|  956  |  Tallest Billboard  |  ✅  |  Typescript  |
 |  958  |  Check Completeness of a Binary Tree  |  ✅  |  Typescript  |
 |  968  |  Binary Tree Cameras  |  ✅  |  Rust  |
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
