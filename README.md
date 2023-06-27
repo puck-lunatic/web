@@ -141,6 +141,7 @@
 |  350  |  Intersection of Two Arrays II  |  ✅  |  Rust  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
 |  363  |  Max Sum of Rectangle No Larger Than K  |  ✅  |  Rust  |
+|  373  |  Find K Pairs with Smallest Sums  |  ✅  |  Typescript  |
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  377  |  Combination Sum IV  |  ✅  |  Rust  |
 |  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
