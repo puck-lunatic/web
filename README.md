@@ -344,6 +344,7 @@
 |  1491  |  Average Salary Excluding the Minimum and Maximum Salary  |  ✅  |  Rust, Typescript  |
 |  1498  |  Number of Subsequences That Satisfy the Given Sum Condition  |  ✅  |  Typescript  |
 |  1502  |  Can Make Arithmetic Progression From Sequence  |  ✅  |  Typescript  |
+|  1514  |  Path with Maximum Probability  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
 |  1569  |  Number of Ways to Reorder Array to Get Same BST  |  ✅  |  Typescript  |
 |  1572  |  Matrix Diagonal Sum  |  ✅  |  Typescript  |
