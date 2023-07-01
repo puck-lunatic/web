@@ -386,6 +386,7 @@
 |  2215  |  Find the Difference of Two Arrays  |  ✅  |  Typescript  |
 |  2218  |  Maximum Value of K Coins From Piles  |  ✅  |  Typescript  |
 |  2300  |  Successful Pairs of Spells and Potions  |  ✅  |  Typescript  |
+|  2305  |  Fair Distribution of Cookies  |  ✅  |  Typescript  |
 |  2316  |  Count Unreachable Pairs of Nodes in an Undirected Graph  |  ✅  |  Typescript  |
 |  2328  |  Number of Increasing Paths in a Grid  |  ✅  |  Typescript  |
 |  2336  |  Smallest Number in Infinite Set  |  ✅  |  Typescript  |
