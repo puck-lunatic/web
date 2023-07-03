@@ -254,6 +254,7 @@
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
 |  844  |  Backspace String Compare  |  ✅  |  Typescript  |
 |  848  |  Shifting Letters  |  ✅  |  Rust  |
+|  859  |  Buddy Strings  |  ✅  |  Typescript  |
 |  864  |  Shifting Letters  |  ✅  |  Typescript  |
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
 |  875  |  Koko Eating Bananas  |  ✅  |  Typescript  |
