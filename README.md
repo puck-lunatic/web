@@ -381,6 +381,7 @@
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
 |  1964  |  Find the Longest Valid Obstacle Course at Each Position  |  ✅  |  Typescript  |
 |  1970  |  Last Day Where You Can Still Cross  |  ✅  |  Typescript  |
+|  2024  |  Maximize the Confusion of an Exam  |  ✅  |  Typescript  |
 |  2090  |  K Radius Subarray Averages  |  ✅  |  Typescript  |
 |  2101  |  Detonate the Maximum Bombs  |  ✅  |  Typescript  |
 |  2130  |  Maximum Twin Sum of a Linked List  |  ✅  |  Typescript  |
