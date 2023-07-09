@@ -390,6 +390,7 @@
 |  2187  |  Minimum Time to Complete Trips  |  ✅  |  Typescript  |
 |  2215  |  Find the Difference of Two Arrays  |  ✅  |  Typescript  |
 |  2218  |  Maximum Value of K Coins From Piles  |  ✅  |  Typescript  |
+|  2272  |  Substring With Largest Variance  |  ✅  |  Typescript  |
 |  2300  |  Successful Pairs of Spells and Potions  |  ✅  |  Typescript  |
 |  2305  |  Fair Distribution of Cookies  |  ✅  |  Typescript  |
 |  2316  |  Count Unreachable Pairs of Nodes in an Undirected Graph  |  ✅  |  Typescript  |
