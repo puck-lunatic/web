@@ -73,6 +73,7 @@
 |  108  |  Convert Sorted Array to Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  109  |  Convert Sorted List to Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  110  |  Balanced Binary Tree  |  ✅  |  Typescript  |
+|  111  |  Minimum Depth of Binary Tree  |  ✅  |  Typescript  |
 |  113  |  Path Sum II  |  ✅  |  Rust  |
 |  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
 |  118  |  Pascal's Triangle  |  ✅  |  Rust  |
