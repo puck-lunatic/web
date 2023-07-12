@@ -244,6 +244,7 @@
 |  791  |  Custom Sort String  |  ✅  |  Rust  |
 |  792  |  Number of Matching Subsequences  |  ✅  |  Rust  |
 |  795  |  Number of Subarrays with Bounded Maximum  |  ✅  |  Rust  |
+|  802  |  Find Eventual Safe States  |  ✅  |  Typescript  |
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
 |  814  |  Binary Tree Pruning  |  ✅  |  Rust  |
 |  815  |  Bus Routes  |  ✅  |  Typescript  |
