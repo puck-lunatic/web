@@ -104,7 +104,8 @@
 |  202  |  Happy Number  |  ✅  |  Typescript  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
-|  206  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
+|  206  |  Reverse Linked List  |  ✅  |  Rust, Typescript  |
+|  207  |  Course Schedule  |  ✅  |  Rust, Typescript  |
 |  208  |  Implement Trie (Prefix Tree)  |  ✅  |  Typescript  |
 |  209  |  Minimum Size Subarray Sum  |  ✅  |  Typescript  |
 |  211  |  Design Add and Search Words Data Structure  |  ✅  |  Typescript  |
