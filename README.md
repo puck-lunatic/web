@@ -311,6 +311,7 @@
 |  1189  |  Maximum Number of Balloons  |  ✅  |  Rust  |
 |  1192  |  Critical Connections in a Network  |  ✅  |  Rust  |
 |  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
+|  1218  |  Longest Arithmetic Subsequence of Given Difference  |  ✅  |  Typescript  |
 |  1220  |  Count Vowels Permutation  |  ✅  |  Rust  |
 |  1221  |  Split a String in Balanced Strings  |  ✅  |  Rust  |
 |  1232  |  Check If It Is a Straight Line  |  ✅  |  Typescript  |
