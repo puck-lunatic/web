@@ -88,6 +88,7 @@
 |  137  |  Single Number II  |  ✅  |  Typescript  |
 |  142  |  Linked List Cycle II  |  ✅  |  Typescript  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
+|  146  |  LRU Cache  |  ✅  |  Rust  |
 |  148  |  Sort List  |  ✅  |  Typescript  |
 |  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
 |  151  |  Min Stack  |  ✅  |  Typescript  |
