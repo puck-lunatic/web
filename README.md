@@ -161,6 +161,7 @@
 |  424  |  Longest Repeating Character Replacement  |  ✅  |  Typescript  |
 |  427  |  Construct Quad Tree  |  ✅  |  Typescript  |
 |  429  |  N-ary Tree Level Order Traversal  |  ✅  |  Typescript  |
+|  435  |  Non-overlapping Intervals  |  ✅  |  Typescript  |
 |  437  |  Path Sum III  |  ✅  |  Typescript  |
 |  438  |  Find All Anagrams in a String  |  ✅  |  Typescript  |
 |  443  |  String Compression  |  ✅  |  Typescript  |
