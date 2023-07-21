@@ -217,6 +217,7 @@
 |  662  |  Maximum Width of Binary Tree  |  ✅  |  Typescript  |
 |  665  |  Non-decreasing Array  |  ✅  |  Rust  |
 |  667  |  Beautiful Arrangement II  |  ✅  |  Rust  |
+|  673  |  Number of Longest Increasing Subsequence  |  ✅  |  Typescript  |
 |  677  |  Map Sum Pairs  |  ✅  |  Rust  |
 |  684  |  Redundant Connection  |  ✅  |  Rust  |
 |  692  |  Top K Frequent Words  |  ✅  |  Typescript  |
