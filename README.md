@@ -220,6 +220,7 @@
 |  673  |  Number of Longest Increasing Subsequence  |  ✅  |  Typescript  |
 |  677  |  Map Sum Pairs  |  ✅  |  Rust  |
 |  684  |  Redundant Connection  |  ✅  |  Rust  |
+|  688  |  Knight Probability in Chessboard  |  ✅  |  Typescript  |
 |  692  |  Top K Frequent Words  |  ✅  |  Typescript  |
 |  695  |  Max Area of Island  |  ✅  |  Rust  |
 |  696  |  Count Binary Substrings  |  ✅  |  Rust  |
