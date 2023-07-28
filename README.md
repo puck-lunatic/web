@@ -173,6 +173,7 @@
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
 |  485  |  Max Consecutive Ones  |  ✅  |  Rust  |
+|  486  |  Predict the Winner  |  ✅  |  Typescript  |
 |  502  |  IPO  |  ✅  |  Typescript  |
 |  509  |  Fibonacci Number  |  ✅  |  Rust, Typescript  |
 |  516  |  Longest Palindromic Subsequence  |  ✅  |  Typescript  |
