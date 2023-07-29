@@ -253,6 +253,7 @@
 |  795  |  Number of Subarrays with Bounded Maximum  |  ✅  |  Rust  |
 |  802  |  Find Eventual Safe States  |  ✅  |  Typescript  |
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
+|  808  |  Soup Servings  |  ✅  |  Typescript  |
 |  814  |  Binary Tree Pruning  |  ✅  |  Rust  |
 |  815  |  Bus Routes  |  ✅  |  Typescript  |
 |  816  |  Ambiguous Coordinates  |  ✅  |  Rust  |
