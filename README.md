@@ -216,6 +216,7 @@
 |  653  |  Two Sum IV - Input is a BST  |  ✅  |  Rust  |
 |  658  |  Find K Closest Elements  |  ✅  |  Rust  |
 |  662  |  Maximum Width of Binary Tree  |  ✅  |  Typescript  |
+|  664  |  Strange Printer  |  ✅  |  Typescript  |
 |  665  |  Non-decreasing Array  |  ✅  |  Rust  |
 |  667  |  Beautiful Arrangement II  |  ✅  |  Rust  |
 |  673  |  Number of Longest Increasing Subsequence  |  ✅  |  Typescript  |
