@@ -232,6 +232,7 @@
 |  704  |  Binary Search  |  ✅  |  Typescript  |
 |  705  |  Design HashSet  |  ✅  |  Typescript  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
+|  712  |  Minimum ASCII Delete Sum for Two Strings  |  ✅  |  Typescript  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust, Typescript  |
 |  718  |  Maximum Length of Repeated Subarray  |  ✅  |  Rust  |
 |  724  |  Find Pivot Index  |  ✅  |  Typescript  |
