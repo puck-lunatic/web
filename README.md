@@ -55,6 +55,7 @@
 |  74  |  Search a 2D Matrix  |  ✅  |  Rust  |
 |  75  |  Sort Colors  |  ✅  |  Typescript  |
 |  76  |  Minimum Window Substring  |  ✅  |  Typescript  |
+|  77  |  Combinations  |  ✅  |  Typescript  |
 |  87  |  Scramble String  |  ✅  |  Typescript  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
 |  90  |  Subsets II  |  ✅  |  Rust  |
