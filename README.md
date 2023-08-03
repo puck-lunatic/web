@@ -17,7 +17,7 @@
 |  14  |  Longest Common Prefix  |  ✅  |  Javascript, Typescript  |
 |  15  |  3Sum  |  ✅  |  Rust  |
 |  16  |  3Sum Closest  |  ✅  |  Javascript, Rust, Typescript  |
-|  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust  |
+|  17  |  Letter Combinations of a Phone Number  |  ✅  |  Rust, Typescript  |
 |  18  |  4Sum  |  ✅  |  Rust  |
 |  19  |  Remove Nth Node From End of List  |  ✅  |  Rust, Typescript  |
 |  20  |  Valid Parentheses  |  ✅  |  Rust, Typescript  |
