@@ -87,6 +87,7 @@
 |  135  |  Candy  |  ✅  |  Rust  |
 |  136  |  Single Number  |  ✅  |  Rust  |
 |  137  |  Single Number II  |  ✅  |  Typescript  |
+|  139  |  Word Break  |  ✅  |  Typescript  |
 |  142  |  Linked List Cycle II  |  ✅  |  Typescript  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  146  |  LRU Cache  |  ✅  |  Rust  |
