@@ -61,7 +61,7 @@
 |  90  |  Subsets II  |  ✅  |  Rust  |
 |  91  |  Decode Ways  |  ✅  |  Rust  |
 |  92  |  Reverse Linked List II  |  ✅  |  Rust  |
-|  95  |  Unique Binary Search Trees II  |  ✅  |  Rust  |
+|  95  |  Unique Binary Search Trees II  |  ✅  |  Rust, Typescript  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust  |
 |  98  |  Validate Binary Search Tree  |  ✅  |  Typescript  |
