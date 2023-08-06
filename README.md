@@ -284,6 +284,7 @@
 |  912  |  Sort an Array  |  ✅  |  Typescript  |
 |  915  |  Partition Array into Disjoint Intervals  |  ✅  |  Rust  |
 |  917  |  Reverse Only Letters  |  ✅  |  Rust  |
+|  920  |  Number of Music Playlists  |  ✅  |  Typescript  |
 |  926  |  Flip String to Monotone Increasing  |  ✅  |  Rust  |
 |  927  |  Three Equal Parts  |  ✅  |  Rust  |
 |  929  |  Unique Email Addresses  |  ✅  |  Rust  |
