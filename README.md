@@ -52,7 +52,7 @@
 |  71  |  Simplify Path  |  ✅  |  Typescript  |
 |  72  |  Edit Distance  |  ✅  |  Rust, Typescript  |
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
-|  74  |  Search a 2D Matrix  |  ✅  |  Rust  |
+|  74  |  Search a 2D Matrix  |  ✅  |  Rust, Typescript  |
 |  75  |  Sort Colors  |  ✅  |  Typescript  |
 |  76  |  Minimum Window Substring  |  ✅  |  Typescript  |
 |  77  |  Combinations  |  ✅  |  Typescript  |
