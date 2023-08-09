@@ -428,3 +428,4 @@
 |  2492  |  Minimum Score of a Path Between Two Cities  |  ✅  |  Typescript  |
 |  2542  |  Maximum Subsequence Score  |  ✅  |  Typescript  |
 |  2551  |  Put Marbles in Bags  |  ✅  |  Typescript  |
+|  2616  |  Minimize the Maximum Difference of Pairs  |  ✅  |  Typescript  |
