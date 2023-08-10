@@ -56,6 +56,7 @@
 |  75  |  Sort Colors  |  ✅  |  Typescript  |
 |  76  |  Minimum Window Substring  |  ✅  |  Typescript  |
 |  77  |  Combinations  |  ✅  |  Typescript  |
+|  81  |  Search in Rotated Sorted Array II  |  ✅  |  Rust, Typescript  |
 |  87  |  Scramble String  |  ✅  |  Typescript  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
 |  90  |  Subsets II  |  ✅  |  Rust  |
