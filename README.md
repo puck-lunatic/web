@@ -45,7 +45,7 @@
 |  57  |  Insert Interval  |  ✅  |  Typescript  |
 |  59  |  Spiral Matrix II  |  ✅  |  Typescript  |
 |  62  |  Unique Paths  |  ✅  |  Rust, Typescript  |
-|  63  |  Unique Paths II  |  ✅  |  Rust  |
+|  63  |  Unique Paths II  |  ✅  |  Rust, Typescript  |
 |  64  |  Minimum Path Sum  |  ✅  |  Rust, Typescript  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  70  |  Climbing Stairs  |  ✅  |  Rust, Typescript  |
