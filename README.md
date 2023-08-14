@@ -112,8 +112,9 @@
 |  207  |  Course Schedule  |  ✅  |  Rust, Typescript  |
 |  208  |  Implement Trie (Prefix Tree)  |  ✅  |  Typescript  |
 |  209  |  Minimum Size Subarray Sum  |  ✅  |  Typescript  |
+|  210  |  Course Schedule II  |  ✅  |  Typescript  |
 |  211  |  Design Add and Search Words Data Structure  |  ✅  |  Typescript  |
-|  215  |  Course Schedule II  |  ✅  |  Typescript  |
+|  215  |  Kth Largest Element in an Array  |  ✅  |  Typescript  |
 |  226  |  Invert Binary Tree  |  ✅  |  Typescript  |
 |  227  |  Basic Calculator II  |  ✅  |  Typescript  |
 |  228  |  Summary Ranges  |  ✅  |  Typescript  |
