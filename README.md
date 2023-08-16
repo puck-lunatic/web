@@ -125,6 +125,7 @@
 |  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  236  |  Lowest Common Ancestor of a Binary Tree  |  ✅  |  Rust  |
 |  238  |  Product of Array Except Self  |  ✅  |  Rust  |
+|  239  |  Sliding Window Maximum  |  ✅  |  Typescript  |
 |  240  |  Search a 2D Matrix II  |  ✅  |  Typescript  |
 |  258  |  Add Digits  |  ✅  |  Rust  |
 |  268  |  Missing Number  |  ✅  |  Rust  |
