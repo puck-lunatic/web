@@ -382,6 +382,7 @@
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1601  |  Maximum Number of Achievable Transfer Requests  |  ✅  |  Typescript  |
 |  1603  |  Design Parking System  |  ✅  |  Typescript  |
+|  1615  |  Maximal Network Rank  |  ✅  |  Typescript  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1639  |  Number of Ways to Form a Target String Given a Dictionary  |  ✅  |  Typescript  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
