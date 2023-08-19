@@ -367,6 +367,7 @@
 |  1466  |  Reorder Routes to Make All Paths Lead to the City Zero  |  ✅  |  Typescript  |
 |  1472  |  Design Browser History  |  ✅  |  Typescript  |
 |  1480  |  Running Sum of 1d Array  |  ✅  |  Rust, Typescript  |
+|  1489  |  Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree  |  ✅  |  Typescript  |
 |  1491  |  Average Salary Excluding the Minimum and Maximum Salary  |  ✅  |  Rust, Typescript  |
 |  1493  |  Longest Subarray of 1's After Deleting One Element  |  ✅  |  Typescript  |
 |  1498  |  Number of Subsequences That Satisfy the Given Sum Condition  |  ✅  |  Typescript  |
