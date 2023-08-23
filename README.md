@@ -254,6 +254,7 @@
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust, Typescript  |
 |  752  |  Open the Lock  |  ✅  |  Rust  |
 |  764  |  Largest Plus Sign  |  ✅  |  Rust  |
+|  767  |  Reorganize String  |  ✅  |  Typescript  |
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
 |  778  |  Swim in Rising Water  |  ✅  |  Rust  |
 |  783  |  Minimum Distance Between BST Nodes  |  ✅  |  Typescript  |
