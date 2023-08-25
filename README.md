@@ -66,7 +66,7 @@
 |  92  |  Reverse Linked List II  |  ✅  |  Rust  |
 |  95  |  Unique Binary Search Trees II  |  ✅  |  Rust, Typescript  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
-|  97  |  Interleaving String  |  ✅  |  Rust  |
+|  97  |  Interleaving String  |  ✅  |  Rust, Typescript  |
 |  98  |  Validate Binary Search Tree  |  ✅  |  Typescript  |
 |  100  |  Same Tree  |  ✅  |  Typescript  |
 |  101  |  Symmetric Tree  |  ✅  |  Typescript  |
