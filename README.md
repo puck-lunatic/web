@@ -118,6 +118,7 @@
 |  210  |  Course Schedule II  |  ✅  |  Typescript  |
 |  211  |  Design Add and Search Words Data Structure  |  ✅  |  Typescript  |
 |  215  |  Kth Largest Element in an Array  |  ✅  |  Typescript  |
+|  225  |  Implement Stack using Queues  |  ✅  |  Typescript  |
 |  226  |  Invert Binary Tree  |  ✅  |  Typescript  |
 |  227  |  Basic Calculator II  |  ✅  |  Typescript  |
 |  228  |  Summary Ranges  |  ✅  |  Typescript  |
