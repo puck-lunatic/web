@@ -350,6 +350,7 @@
 |  1312  |  Minimum Insertion Steps to Make a String Palindrome  |  ✅  |  Typescript  |
 |  1318  |  Minimum Flips to Make a OR b Equal to c  |  ✅  |  Typescript  |
 |  1319  |  Number of Operations to Make Network Connected  |  ✅  |  Typescript  |
+|  1326  |  Minimum Number of Taps to Open to Water a Garden  |  ✅  |  Typescript  |
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
 |  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
 |  1338  |  Reduce Array Size to The Half  |  ✅  |  Rust  |
