@@ -149,6 +149,7 @@
 |  331  |  Verify Preorder Serialization of a Binary Tree  |  ✅  |  Rust  |
 |  332  |  Coin Change  |  ✅  |  Rust, Typescript  |
 |  336  |  Palindrome Pairs  |  ✅  |  Rust  |
+|  338  |  Counting Bits  |  ✅  |  Typescript  |
 |  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
 |  347  |  Top K Frequent Elements  |  ✅  |  Typescript  |
 |  350  |  Intersection of Two Arrays II  |  ✅  |  Rust  |
