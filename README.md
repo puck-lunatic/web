@@ -90,6 +90,7 @@
 |  135  |  Candy  |  ✅  |  Rust  |
 |  136  |  Single Number  |  ✅  |  Rust  |
 |  137  |  Single Number II  |  ✅  |  Typescript  |
+|  138  |  Copy List with Random Pointer  |  ✅  |  Typescript  |
 |  139  |  Word Break  |  ✅  |  Typescript  |
 |  141  |  Linked List Cycle  |  ✅  |  Typescript  |
 |  142  |  Linked List Cycle II  |  ✅  |  Typescript  |
