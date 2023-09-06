@@ -252,7 +252,7 @@
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust, Typescript  |
 |  718  |  Maximum Length of Repeated Subarray  |  ✅  |  Rust  |
 |  724  |  Find Pivot Index  |  ✅  |  Typescript  |
-|  725  |  Split Linked List in Parts  |  ✅  |  Rust  |
+|  725  |  Split Linked List in Parts  |  ✅  |  Rust, Typescript  |
 |  729  |  My Calendar I  |  ✅  |  Rust  |
 |  733  |  Flood Fill  |  ✅  |  Typescript  |
 |  735  |  Asteroid Collision  |  ✅  |  Typescript, Rust  |
