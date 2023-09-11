@@ -348,6 +348,7 @@
 |  1254  |  Number of Closed Islands  |  ✅  |  Typescript  |
 |  1268  |  Search Suggestions System  |  ✅  |  Rust  |
 |  1275  |  Find Winner on a Tic Tac Toe Game  |  ✅  |  Rust  |
+|  1282  |  Group the People Given the Group Size They Belong To  |  ✅  |  Typescript  |
 |  1293  |  Shortest Path in a Grid with Obstacles Elimination  |  ✅  |  Rust  |
 |  1302  |  Deepest Leaves Sum  |  ✅  |  Rust  |
 |  1312  |  Minimum Insertion Steps to Make a String Palindrome  |  ✅  |  Typescript  |
