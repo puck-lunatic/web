@@ -356,7 +356,7 @@
 |  1319  |  Number of Operations to Make Network Connected  |  ✅  |  Typescript  |
 |  1326  |  Minimum Number of Taps to Open to Water a Garden  |  ✅  |  Typescript  |
 |  1332  |  Remove Palindromic Subsequences  |  ✅  |  Rust  |
-|  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust  |
+|  1337  |  The K Weakest Rows in a Matrix  |  ✅  |  Rust, Typescript  |
 |  1338  |  Reduce Array Size to The Half  |  ✅  |  Rust  |
 |  1339  |  Maximum Product of Splitted Binary Tree  |  ✅  |  Rust  |
 |  1345  |  Jump Game IV  |  ✅  |  Rust, Typescript  |
