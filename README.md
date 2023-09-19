@@ -136,6 +136,7 @@
 |  268  |  Missing Number  |  ✅  |  Rust  |
 |  278  |  First Bad Version  |  ✅  |  Typescript  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
+|  287  |  Find the Duplicate Number  |  ✅  |  Typescript  |
 |  295  |  Find Median from Data Stream  |  ✅  |  Rust  |
 |  299  |  Bulls and Cows  |  ✅  |  Typescript  |
 |  300  |  Longest Increasing Subsequence  |  ✅  |  Rust  |
