@@ -403,6 +403,7 @@
 |  1639  |  Number of Ways to Form a Target String Given a Dictionary  |  ✅  |  Typescript  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
 |  1647  |  Minimum Deletions to Make Character Frequencies Unique  |  ✅  |  Typescript  |
+|  1658  |  Minimum Operations to Reduce X to Zero  |  ✅  |  Typescript  |
 |  1675  |  Minimize Deviation in Array  |  ✅  |  Typescript  |
 |  1689  |  Partitioning Into Minimum Number Of Deci-Binary Numbers  |  ✅  |  Rust  |
 |  1690  |  Stone Game VII  |  ✅  |  Rust  |
