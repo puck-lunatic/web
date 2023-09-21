@@ -7,7 +7,7 @@
 |  1  |  Two Sum  |  ✅  |  Java, Rust, Typescript  |
 |  2  |  Add Two Numbers  |  ✅  |  Javascript  |
 |  3  |  Longest Substring Without Repeating Characters  |  ✅  |  Typescript  |
-|  4  |  Median of Two Sorted Arrays  |  ✅  |  Rust  |
+|  4  |  Median of Two Sorted Arrays  |  ✅  |  Rust, Typescript  |
 |  5  |  Longest Palindromic Substring  |  ✅  |  Typescript  |
 |  7  |  Reverse Integer  |  ✅  |  Javascript  |
 |  9  |  Palindrome Number  |  ✅  |  Javascript  |
