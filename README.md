@@ -327,7 +327,7 @@
 |  1035  |  Uncrossed Lines  |  ✅  |  Typescript  |
 |  1046  |  Last Stone Weight  |  ✅  |  Typescript  |
 |  1047  |  Remove All Adjacent Duplicates In String  |  ✅  |  Rust  |
-|  1048  |  Longest String Chain  |  ✅  |  Rust  |
+|  1048  |  Longest String Chain  |  ✅  |  Rust, Typescript  |
 |  1091  |  Shortest Path in Binary Matrix  |  ✅  |  Typescript  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
 |  1125  |  Smallest Sufficient Team  |  ✅  |  Typescript  |
