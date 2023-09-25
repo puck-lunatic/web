@@ -164,6 +164,7 @@
 |  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
 |  382  |  Linked List Random Node  |  ✅  |  Typescript  |
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
+|  389  |  Find the Difference  |  ✅  |  Typescript  |
 |  392  |  Is Subsequence  |  ✅  |  Rust, Typescript  |
 |  394  |  Decode String  |  ✅  |  Typescript  |
 |  399  |  Evaluate Division  |  ✅  |  Typescript  |
