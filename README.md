@@ -144,6 +144,7 @@
 |  304  |  Range Sum Query 2D - Immutable  |  ✅  |  Rust  |
 |  307  |  Range Sum Query - Mutable  |  ✅  |  Rust  |
 |  315  |  Count of Smaller Numbers After Self  |  ✅  |  Rust  |
+|  316  |  Remove Duplicate Letters  |  ✅  |  Typescript  |
 |  318  |  Maximum Product of Word Lengths  |  ✅  |  Rust  |
 |  319  |  Bulb Switcher  |  ✅  |  Typescript  |
 |  326  |  Power of Three  |  ✅  |  Rust  |
