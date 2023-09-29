@@ -300,6 +300,7 @@
 |  881  |  Boats to Save People  |  ✅  |  Typescript  |
 |  890  |  Find and Replace Pattern  |  ✅  |  Rust  |
 |  893  |  Groups of Special-Equivalent Strings  |  ✅  |  Typescript  |
+|  896  |  Monotonic Array  |  ✅  |  Typescript  |
 |  905  |  Sort Array By Parity  |  ✅  |  Typescript  |
 |  906  |  Super Palindromes  |  ✅  |  Rust  |
 |  912  |  Sort an Array  |  ✅  |  Typescript  |
