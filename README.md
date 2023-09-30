@@ -183,6 +183,7 @@
 |  443  |  String Compression  |  ✅  |  Typescript  |
 |  445  |  Add Two Numbers II  |  ✅  |  Typescript  |
 |  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Typescript  |
+|  456  |  132 Pattern  |  ✅  |  Typescript  |
 |  459  |  Repeated Substring Pattern  |  ✅  |  Rust, Typescript  |
 |  461  |  Hamming Distance  |  ✅  |  Rust  |
 |  462  |  Minimum Moves to Equal Array Elements II  |  ✅  |  Rust  |
