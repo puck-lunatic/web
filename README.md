@@ -207,6 +207,7 @@
 |  546  |  Remove Boxes  |  ✅  |  Rust  |
 |  547  |  Number of Provinces  |  ✅  |  Rust, Typescript  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
+|  557  |  Reverse Words in a String III  |  ✅  |  Typescript  |
 |  561  |  Array Partition I  |  ✅  |  Rust  |
 |  565  |  Array Nesting  |  ✅  |  Rust  |
 |  566  |  Reshape the Matrix  |  ✅  |  Rust  |
