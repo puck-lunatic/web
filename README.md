@@ -156,6 +156,7 @@
 |  336  |  Palindrome Pairs  |  ✅  |  Rust  |
 |  338  |  Counting Bits  |  ✅  |  Typescript  |
 |  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
+|  343  |  Integer Break  |  ✅  |  Typescript  |
 |  347  |  Top K Frequent Elements  |  ✅  |  Typescript  |
 |  350  |  Intersection of Two Arrays II  |  ✅  |  Rust  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
