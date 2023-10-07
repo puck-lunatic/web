@@ -383,6 +383,7 @@
 |  1402  |  Reducing Dishes  |  ✅  |  Typescript  |
 |  1406  |  Stone Game III  |  ✅  |  Typescript  |
 |  1416  |  Restore The Array  |  ✅  |  Typescript  |
+|  1420  |  Build Array Where You Can Find The Maximum Exactly K Comparisons  |  ✅  |  Typescript  |
 |  1423  |  Maximum Points You Can Obtain from Cards  |  ✅  |  Rust  |
 |  1431  |  Kids With the Greatest Number of Candies  |  ✅  |  Typescript  |
 |  1444  |  Number of Ways of Cutting a Pizza  |  ✅  |  Typescript  |
