@@ -341,6 +341,7 @@
 |  1047  |  Remove All Adjacent Duplicates In String  |  ✅  |  Rust  |
 |  1048  |  Longest String Chain  |  ✅  |  Rust, Typescript  |
 |  1091  |  Shortest Path in Binary Matrix  |  ✅  |  Typescript  |
+|  1095  |  Find in Mountain Array  |  ✅  |  Typescript  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
 |  1125  |  Smallest Sufficient Team  |  ✅  |  Typescript  |
 |  1137  |  N-th Tribonacci Number  |  ✅  |  Rust  |
