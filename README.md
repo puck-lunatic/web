@@ -82,6 +82,7 @@
 |  113  |  Path Sum II  |  ✅  |  Rust  |
 |  114  |  Flatten Binary Tree to Linked List  |  ✅  |  Rust  |
 |  118  |  Pascal's Triangle  |  ✅  |  Rust, Typescript  |
+|  119  |  Pascal's Triangle II  |  ✅  |  Typescript  |
 |  120  |  Triangle  |  ✅  |  Rust  |
 |  121  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust, Typescript, Dart  |
 |  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
