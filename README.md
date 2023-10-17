@@ -379,6 +379,7 @@
 |  1351  |  Count Negative Numbers in a Sorted Matrix  |  ✅  |  Typescript  |
 |  1354  |  Construct Target Array With Multiple Sums  |  ✅  |  Rust  |
 |  1359  |  Count All Valid Pickup and Delivery Options  |  ✅  |  Typescript  |
+|  1361  |  Validate Binary Tree Nodes  |  ✅  |  Typescript  |
 |  1372  |  Longest ZigZag Path in a Binary Tree  |  ✅  |  Typescript  |
 |  1376  |  Time Needed to Inform All Employees  |  ✅  |  Typescript  |
 |  1383  |  Maximum Performance of a Team  |  ✅  |  Rust  |
