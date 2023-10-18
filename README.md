@@ -446,6 +446,7 @@
 |  2009  |  Minimum Number of Operations to Make Array Continuous  |  ✅  |  Typescript  |
 |  2024  |  Maximize the Confusion of an Exam  |  ✅  |  Typescript  |
 |  2038  |  Remove Colored Pieces if Both Neighbors are the Same Color  |  ✅  |  Typescript  |
+|  2050  |  Parallel Courses III  |  ✅  |  Typescript  |
 |  2090  |  K Radius Subarray Averages  |  ✅  |  Typescript  |
 |  2101  |  Detonate the Maximum Bombs  |  ✅  |  Typescript  |
 |  2130  |  Maximum Twin Sum of a Linked List  |  ✅  |  Typescript  |
