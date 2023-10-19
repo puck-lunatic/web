@@ -293,7 +293,7 @@
 |  838  |  Push Dominoes  |  ✅  |  Rust  |
 |  839  |  Similar String Groups  |  ✅  |  Typescript  |
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
-|  844  |  Backspace String Compare  |  ✅  |  Typescript  |
+|  844  |  Backspace String Compare  |  ✅  |  Typescript, Rust  |
 |  848  |  Shifting Letters  |  ✅  |  Rust  |
 |  859  |  Buddy Strings  |  ✅  |  Typescript  |
 |  863  |  All Nodes Distance K in Binary Tree  |  ✅  |  Typescript  |
