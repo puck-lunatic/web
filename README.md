@@ -157,7 +157,7 @@
 |  332  |  Coin Change  |  ✅  |  Rust, Typescript  |
 |  336  |  Palindrome Pairs  |  ✅  |  Rust  |
 |  338  |  Counting Bits  |  ✅  |  Typescript  |
-|  341  |  Flatten Nested List Iterator  |  ✅  |  Rust  |
+|  341  |  Flatten Nested List Iterator  |  ✅  |  Rust, Typescript  |
 |  343  |  Integer Break  |  ✅  |  Typescript  |
 |  347  |  Top K Frequent Elements  |  ✅  |  Typescript  |
 |  350  |  Intersection of Two Arrays II  |  ✅  |  Rust  |
