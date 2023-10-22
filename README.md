@@ -438,6 +438,7 @@
 |  1751  |  Maximum Number of Events That Can Be Attended II  |  ✅  |  Typescript  |
 |  1768  |  Merge Strings Alternately  |  ✅  |  Typescript  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
+|  1793  |  Maximum Score of a Good Subarray  |  ✅  |  Typescript  |
 |  1799  |  Maximize Score After N Operations  |  ✅  |  Typescript  |
 |  1802  |  Maximum Value at a Given Index in a Bounded Array  |  ✅  |  Typescript  |
 |  1822  |  Sign of the Product of an Array  |  ✅  |  Typescript  |
