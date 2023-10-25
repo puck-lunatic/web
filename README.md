@@ -276,6 +276,7 @@
 |  767  |  Reorganize String  |  ✅  |  Typescript  |
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
 |  778  |  Swim in Rising Water  |  ✅  |  Rust  |
+|  779  |  K-th Symbol in Grammar  |  ✅  |  Typescript  |
 |  783  |  Minimum Distance Between BST Nodes  |  ✅  |  Typescript  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
 |  785  |  Is Graph Bipartite?  |  ✅  |  Typescript  |
