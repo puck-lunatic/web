@@ -291,7 +291,7 @@
 |  815  |  Bus Routes  |  ✅  |  Typescript  |
 |  816  |  Ambiguous Coordinates  |  ✅  |  Rust  |
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
-|  823  |  Binary Trees With Factors  |  ✅  |  Rust  |
+|  823  |  Binary Trees With Factors  |  ✅  |  Rust, Typescript  |
 |  837  |  New 21 Game  |  ✅  |  Typescript  |
 |  838  |  Push Dominoes  |  ✅  |  Rust  |
 |  839  |  Similar String Groups  |  ✅  |  Typescript  |
