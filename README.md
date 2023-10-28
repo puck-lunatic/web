@@ -359,7 +359,7 @@
 |  1203  |  Sort Items by Groups Respecting Dependencies  |  ✅  |  Typescript  |
 |  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
 |  1218  |  Longest Arithmetic Subsequence of Given Difference  |  ✅  |  Typescript  |
-|  1220  |  Count Vowels Permutation  |  ✅  |  Rust  |
+|  1220  |  Count Vowels Permutation  |  ✅  |  Rust, Typescript  |
 |  1221  |  Split a String in Balanced Strings  |  ✅  |  Rust  |
 |  1232  |  Check If It Is a Straight Line  |  ✅  |  Typescript  |
 |  1239  |  Maximum Length of a Concatenated String with Unique Characters  |  ✅  |  Rust  |
