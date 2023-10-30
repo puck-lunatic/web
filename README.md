@@ -382,6 +382,7 @@
 |  1345  |  Jump Game IV  |  ✅  |  Rust, Typescript  |
 |  1351  |  Count Negative Numbers in a Sorted Matrix  |  ✅  |  Typescript  |
 |  1354  |  Construct Target Array With Multiple Sums  |  ✅  |  Rust  |
+|  1356  |  Sort Integers by The Number of 1 Bits  |  ✅  |  Typescript  |
 |  1359  |  Count All Valid Pickup and Delivery Options  |  ✅  |  Typescript  |
 |  1361  |  Validate Binary Tree Nodes  |  ✅  |  Typescript  |
 |  1372  |  Longest ZigZag Path in a Binary Tree  |  ✅  |  Typescript  |
