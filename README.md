@@ -289,7 +289,7 @@
 |  807  |  Max Increase to Keep City Skyline  |  ✅  |  Rust  |
 |  808  |  Soup Servings  |  ✅  |  Typescript  |
 |  814  |  Binary Tree Pruning  |  ✅  |  Rust  |
-|  815  |  Bus Routes  |  ✅  |  Typescript  |
+|  815  |  Bus Routes  |  ✅  |  Rust, Typescript  |
 |  816  |  Ambiguous Coordinates  |  ✅  |  Rust  |
 |  820  |  Short Encoding of Words  |  ✅  |  Rust  |
 |  823  |  Binary Trees With Factors  |  ✅  |  Rust, Typescript  |
