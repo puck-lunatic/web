@@ -489,4 +489,5 @@
 |  2551  |  Put Marbles in Bags  |  ✅  |  Typescript  |
 |  2616  |  Minimize the Maximum Difference of Pairs  |  ✅  |  Typescript  |
 |  2707  |  Extra Characters in a String  |  ✅  |  Typescript  |
+|  2785  |  Sort Vowels in a String  |  ✅  |  Typescript  |
 |  2849  |  Determine if a Cell Is Reachable at a Given Time  |  ✅  |  Typescript  |
