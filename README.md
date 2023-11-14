@@ -449,6 +449,7 @@
 |  1802  |  Maximum Value at a Given Index in a Bounded Array  |  ✅  |  Typescript  |
 |  1822  |  Sign of the Product of an Array  |  ✅  |  Typescript  |
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
+|  1930  |  Unique Length-3 Palindromic Subsequences  |  ✅  |  Typescript  |
 |  1964  |  Find the Longest Valid Obstacle Course at Each Position  |  ✅  |  Typescript  |
 |  1970  |  Last Day Where You Can Still Cross  |  ✅  |  Typescript  |
 |  2009  |  Minimum Number of Operations to Make Array Continuous  |  ✅  |  Typescript  |
