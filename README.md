@@ -450,6 +450,7 @@
 |  1822  |  Sign of the Product of an Array  |  ✅  |  Typescript  |
 |  1846  |  Maximum Element After Decreasing and Rearranging  |  ✅  |  Typescript  |
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
+|  1877  |  Minimize Maximum Pair Sum in Array  |  ✅  |  Typescript  |
 |  1930  |  Unique Length-3 Palindromic Subsequences  |  ✅  |  Typescript  |
 |  1964  |  Find the Longest Valid Obstacle Course at Each Position  |  ✅  |  Typescript  |
 |  1970  |  Last Day Where You Can Still Cross  |  ✅  |  Typescript  |
