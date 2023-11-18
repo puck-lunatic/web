@@ -448,6 +448,7 @@
 |  1799  |  Maximize Score After N Operations  |  ✅  |  Typescript  |
 |  1802  |  Maximum Value at a Given Index in a Bounded Array  |  ✅  |  Typescript  |
 |  1822  |  Sign of the Product of an Array  |  ✅  |  Typescript  |
+|  1838  |  Frequency of the Most Frequent Element  |  ✅  |  Typescript  |
 |  1846  |  Maximum Element After Decreasing and Rearranging  |  ✅  |  Typescript  |
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
 |  1877  |  Minimize Maximum Pair Sum in Array  |  ✅  |  Typescript  |
