@@ -482,6 +482,7 @@
 |  2366  |  Minimum Replacements to Sort the Array  |  ✅  |  Typescript  |
 |  2369  |  Check if There is a Valid Partition For The Array  |  ✅  |  Typescript  |
 |  2390  |  Removing Stars From a String  |  ✅  |  Typescript  |
+|  2391  |  Minimum Amount of Time to Collect Garbage  |  ✅  |  Typescript  |
 |  2405  |  Optimal Partition of String  |  ✅  |  Typescript  |
 |  2433  |  Find The Original Array of Prefix Xor  |  ✅  |  Typescript  |
 |  2439  |  Minimize Maximum of Array  |  ✅  |  Typescript  |
