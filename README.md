@@ -447,6 +447,7 @@
 |  1793  |  Maximum Score of a Good Subarray  |  ✅  |  Typescript  |
 |  1799  |  Maximize Score After N Operations  |  ✅  |  Typescript  |
 |  1802  |  Maximum Value at a Given Index in a Bounded Array  |  ✅  |  Typescript  |
+|  1814  |  Count Nice Pairs in an Array  |  ✅  |  Typescript  |
 |  1822  |  Sign of the Product of an Array  |  ✅  |  Typescript  |
 |  1838  |  Frequency of the Most Frequent Element  |  ✅  |  Typescript  |
 |  1846  |  Maximum Element After Decreasing and Rearranging  |  ✅  |  Typescript  |
