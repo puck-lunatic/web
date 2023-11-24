@@ -415,6 +415,7 @@
 |  1512  |  Number of Good Pairs  |  ✅  |  Typescript  |
 |  1514  |  Path with Maximum Probability  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
+|  1561  |  Maximum Number of Coins You Can Ge  |  ✅  |  Typescript  |
 |  1569  |  Number of Ways to Reorder Array to Get Same BST  |  ✅  |  Typescript  |
 |  1572  |  Matrix Diagonal Sum  |  ✅  |  Typescript  |
 |  1574  |  Minimum Cost to Cut a Stick  |  ✅  |  Typescript  |
