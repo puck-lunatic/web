@@ -443,6 +443,7 @@
 |  1706  |  Where Will the Ball Fall  |  ✅  |  Typescript  |
 |  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust, Typescript  |
+|  1727  |  Largest Submatrix With Rearrangements  |  ✅  |  Typescript  |
 |  1732  |  Find the Highest Altitude  |  ✅  |  Rust, Typescript  |
 |  1743  |  Restore the Array From Adjacent Pairs  |  ✅  |  Typescript  |
 |  1751  |  Maximum Number of Events That Can Be Attended II  |  ✅  |  Typescript  |
