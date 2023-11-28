@@ -473,6 +473,7 @@
 |  2130  |  Maximum Twin Sum of a Linked List  |  ✅  |  Typescript  |
 |  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
 |  2140  |  Solving Questions With Brainpower  |  ✅  |  Typescript  |
+|  2147  |  Number of Ways to Divide a Long Corridor  |  ✅  |  Typescript  |
 |  2187  |  Minimum Time to Complete Trips  |  ✅  |  Typescript  |
 |  2215  |  Find the Difference of Two Arrays  |  ✅  |  Typescript  |
 |  2218  |  Maximum Value of K Coins From Piles  |  ✅  |  Typescript  |
