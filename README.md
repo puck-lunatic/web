@@ -109,6 +109,7 @@
 |  168  |  Excel Sheet Column Title  |  ✅  |  Typescript  |
 |  173  |  Binary Search Tree Iterator  |  ✅  |  Typescript  |
 |  174  |  Dungeon Game  |  ✅  |  Rust  |
+|  191  |  Number of 1 Bits  |  ✅  |  Typescript  |
 |  198  |  House Robber  |  ✅  |  Typescript  |
 |  199  |  Binary Tree Right Side View  |  ✅  |  Typescript  |
 |  200  |  Number of Islands  |  ✅  |  Typescript  |
