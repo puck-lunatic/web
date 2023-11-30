@@ -427,6 +427,7 @@
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1601  |  Maximum Number of Achievable Transfer Requests  |  ✅  |  Typescript  |
 |  1603  |  Design Parking System  |  ✅  |  Typescript  |
+|  1611  |  Minimum One Bit Operations to Make Integers Zero  |  ✅  |  Typescript  |
 |  1615  |  Maximal Network Rank  |  ✅  |  Typescript  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1630  |  Arithmetic Subarrays  |  ✅  |  Typescript  |
