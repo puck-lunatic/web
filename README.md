@@ -435,6 +435,7 @@
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
 |  1647  |  Minimum Deletions to Make Character Frequencies Unique  |  ✅  |  Typescript  |
 |  1658  |  Minimum Operations to Reduce X to Zero  |  ✅  |  Typescript  |
+|  1662  |  Check If Two String Arrays are Equivalent  |  ✅  |  Typescript  |
 |  1675  |  Minimize Deviation in Array  |  ✅  |  Typescript  |
 |  1685  |  Sum of Absolute Differences in a Sorted Array  |  ✅  |  Typescript  |
 |  1689  |  Partitioning Into Minimum Number Of Deci-Binary Numbers  |  ✅  |  Rust  |
