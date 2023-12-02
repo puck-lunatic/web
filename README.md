@@ -355,6 +355,7 @@
 |  1140  |  Stone Game II  |  ✅  |  Typescript  |
 |  1143  |  Longest Common Subsequence  |  ✅  |  Rust  |
 |  1146  |  Snapshot Array  |  ✅  |  Typescript  |
+|  1160  |  Find Words That Can Be Formed by Characters  |  ✅  |  Typescript  |
 |  1161  |  Maximum Level Sum of a Binary Tree  |  ✅  |  Typescript  |
 |  1187  |  Make Array Strictly Increasing  |  ✅  |  Typescript  |
 |  1189  |  Maximum Number of Balloons  |  ✅  |  Rust  |
