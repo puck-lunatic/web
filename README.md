@@ -368,6 +368,7 @@
 |  1232  |  Check If It Is a Straight Line  |  ✅  |  Typescript  |
 |  1239  |  Maximum Length of a Concatenated String with Unique Characters  |  ✅  |  Rust  |
 |  1254  |  Number of Closed Islands  |  ✅  |  Typescript  |
+|  1266  |  Minimum Time Visiting All Points  |  ✅  |  Typescript  |
 |  1268  |  Search Suggestions System  |  ✅  |  Rust  |
 |  1269  |  Number of Ways to Stay in the Same Place After Some Steps  |  ✅  |  Typescript  |
 |  1275  |  Find Winner on a Tic Tac Toe Game  |  ✅  |  Rust  |
