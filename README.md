@@ -482,6 +482,7 @@
 |  2215  |  Find the Difference of Two Arrays  |  ✅  |  Typescript  |
 |  2218  |  Maximum Value of K Coins From Piles  |  ✅  |  Typescript  |
 |  2251  |  Number of Flowers in Full Bloom  |  ✅  |  Typescript  |
+|  2264  |  Largest 3-Same-Digit Number in String  |  ✅  |  Typescript  |
 |  2272  |  Substring With Largest Variance  |  ✅  |  Typescript  |
 |  2300  |  Successful Pairs of Spells and Potions  |  ✅  |  Typescript  |
 |  2305  |  Fair Distribution of Cookies  |  ✅  |  Typescript  |
