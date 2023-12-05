@@ -440,6 +440,7 @@
 |  1662  |  Check If Two String Arrays are Equivalent  |  ✅  |  Typescript  |
 |  1675  |  Minimize Deviation in Array  |  ✅  |  Typescript  |
 |  1685  |  Sum of Absolute Differences in a Sorted Array  |  ✅  |  Typescript  |
+|  1688  |  Count of Matches in Tournament  |  ✅  |  Typescript  |
 |  1689  |  Partitioning Into Minimum Number Of Deci-Binary Numbers  |  ✅  |  Rust  |
 |  1690  |  Stone Game VII  |  ✅  |  Rust  |
 |  1695  |  Maximum Erasure Value  |  ✅  |  Rust  |
