@@ -449,6 +449,7 @@
 |  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust  |
 |  1706  |  Where Will the Ball Fall  |  ✅  |  Typescript  |
 |  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
+|  1716  |  Calculate Money in Leetcode Bank  |  ✅  |  Typescript  |
 |  1721  |  Swapping Nodes in a Linked List  |  ✅  |  Rust, Typescript  |
 |  1727  |  Largest Submatrix With Rearrangements  |  ✅  |  Typescript  |
 |  1732  |  Find the Highest Altitude  |  ✅  |  Rust, Typescript  |
