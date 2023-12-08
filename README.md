@@ -228,6 +228,7 @@
 |  595  |  Big Countries  |  ✅  |  SQL  |
 |  598  |  Range Addition II  |  ✅  |  Rust  |
 |  605  |  Can Place Flowers  |  ✅  |  Typescript  |
+|  606  |  Construct String from Binary Tree  |  ✅  |  Typescript  |
 |  609  |  Find Duplicate File in System  |  ✅  |  Rust  |
 |  611  |  Valid Triangle Number  |  ✅  |  Rust  |
 |  621  |  Task Scheduler  |  ✅  |  Typescript  |
