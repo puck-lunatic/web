@@ -305,6 +305,7 @@
 |  859  |  Buddy Strings  |  ✅  |  Typescript  |
 |  863  |  All Nodes Distance K in Binary Tree  |  ✅  |  Typescript  |
 |  864  |  Shifting Letters  |  ✅  |  Typescript  |
+|  867  |  Transpose Matrix  |  ✅  |  Typescript  |
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
 |  875  |  Koko Eating Bananas  |  ✅  |  Typescript  |
 |  876  |  Middle of the Linked List  |  ✅  |  Rust, Typescript  |
