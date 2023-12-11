@@ -376,6 +376,7 @@
 |  1269  |  Number of Ways to Stay in the Same Place After Some Steps  |  ✅  |  Typescript  |
 |  1275  |  Find Winner on a Tic Tac Toe Game  |  ✅  |  Rust  |
 |  1282  |  Group the People Given the Group Size They Belong To  |  ✅  |  Typescript  |
+|  1287  |  Element Appearing More Than 25% In Sorted Array  |  ✅  |  Typescript  |
 |  1293  |  Shortest Path in a Grid with Obstacles Elimination  |  ✅  |  Rust  |
 |  1302  |  Deepest Leaves Sum  |  ✅  |  Rust  |
 |  1312  |  Minimum Insertion Steps to Make a String Palindrome  |  ✅  |  Typescript  |
