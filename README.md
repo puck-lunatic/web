@@ -411,6 +411,7 @@
 |  1456  |  Maximum Number of Vowels in a Substring of Given Length  |  ✅  |  Typescript  |
 |  1458  |  Max Dot Product of Two Subsequences  |  ✅  |  Typescript  |
 |  1461  |  Check If a String Contains All Binary Codes of Size K  |  ✅  |  Rust  |
+|  1464  |  Maximum Product of Two Elements in an Array  |  ✅  |  Typescript  |
 |  1465  |  Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts  |  ✅  |  Rust  |
 |  1466  |  Reorder Routes to Make All Paths Lead to the City Zero  |  ✅  |  Typescript  |
 |  1472  |  Design Browser History  |  ✅  |  Typescript  |
