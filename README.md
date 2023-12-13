@@ -424,6 +424,7 @@
 |  1512  |  Number of Good Pairs  |  ✅  |  Typescript  |
 |  1514  |  Path with Maximum Probability  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
+|  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1561  |  Maximum Number of Coins You Can Ge  |  ✅  |  Typescript  |
 |  1569  |  Number of Ways to Reorder Array to Get Same BST  |  ✅  |  Typescript  |
 |  1572  |  Matrix Diagonal Sum  |  ✅  |  Typescript  |
@@ -431,7 +432,7 @@
 |  1575  |  Count All Possible Routes  |  ✅  |  Typescript  |
 |  1577  |  Minimum Number of Vertices to Reach All Nodes  |  ✅  |  Typescript  |
 |  1579  |  Remove Max Number of Edges to Keep Graph Fully Traversable  |  ✅  |  Typescript  |
-|  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
+|  1582  |  Special Positions in a Binary Matrix  |  ✅  |  Typescript  |
 |  1601  |  Maximum Number of Achievable Transfer Requests  |  ✅  |  Typescript  |
 |  1603  |  Design Parking System  |  ✅  |  Typescript  |
 |  1611  |  Minimum One Bit Operations to Make Integers Zero  |  ✅  |  Typescript  |
