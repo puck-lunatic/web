@@ -406,6 +406,7 @@
 |  1424  |  Diagonal Traverse II  |  ✅  |  Typescript  |
 |  1425  |  Constrained Subsequence Sum  |  ✅  |  Typescript  |
 |  1431  |  Kids With the Greatest Number of Candies  |  ✅  |  Typescript  |
+|  1436  |  Destination City  |  ✅  |  Typescript  |
 |  1444  |  Number of Ways of Cutting a Pizza  |  ✅  |  Typescript  |
 |  1448  |  Count Good Nodes in Binary Tree  |  ✅  |  Rust  |
 |  1456  |  Maximum Number of Vowels in a Substring of Given Length  |  ✅  |  Typescript  |
