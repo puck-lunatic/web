@@ -503,6 +503,7 @@
 |  2336  |  Smallest Number in Infinite Set  |  ✅  |  Typescript  |
 |  2348  |  Number of Zero-Filled Subarrays  |  ✅  |  Typescript  |
 |  2352  |  Equal Row and Column Pairs  |  ✅  |  Typescript  |
+|  2353  |  Design a Food Rating System  |  ✅  |  Typescript  |
 |  2360  |  Longest Cycle in a Graph  |  ✅  |  Typescript  |
 |  2366  |  Minimum Replacements to Sort the Array  |  ✅  |  Typescript  |
 |  2369  |  Check if There is a Valid Partition For The Array  |  ✅  |  Typescript  |
