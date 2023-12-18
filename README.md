@@ -476,6 +476,7 @@
 |  1877  |  Minimize Maximum Pair Sum in Array  |  ✅  |  Typescript  |
 |  1887  |  Reduction Operations to Make the Array Elements Equal  |  ✅  |  Typescript  |
 |  1903  |  Largest Odd Number in String  |  ✅  |  Typescript  |
+|  1913  |  Maximum Product Difference Between Two Pairs  |  ✅  |  Typescript  |
 |  1930  |  Unique Length-3 Palindromic Subsequences  |  ✅  |  Typescript  |
 |  1964  |  Find the Longest Valid Obstacle Course at Each Position  |  ✅  |  Typescript  |
 |  1970  |  Last Day Where You Can Still Cross  |  ✅  |  Typescript  |
