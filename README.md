@@ -247,6 +247,7 @@
 |  652  |  Find Duplicate Subtrees  |  ✅  |  Typescript  |
 |  653  |  Two Sum IV - Input is a BST  |  ✅  |  Rust  |
 |  658  |  Find K Closest Elements  |  ✅  |  Rust  |
+|  661  |  Image Smoother  |  ✅  |  Typescript  |
 |  662  |  Maximum Width of Binary Tree  |  ✅  |  Typescript  |
 |  664  |  Strange Printer  |  ✅  |  Typescript  |
 |  665  |  Non-decreasing Array  |  ✅  |  Rust  |
