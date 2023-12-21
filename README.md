@@ -442,6 +442,7 @@
 |  1615  |  Maximal Network Rank  |  ✅  |  Typescript  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1630  |  Arithmetic Subarrays  |  ✅  |  Typescript  |
+|  1637  |  Widest Vertical Area Between Two Points Containing No Points  |  ✅  |  Typescript  |
 |  1639  |  Number of Ways to Form a Target String Given a Dictionary  |  ✅  |  Typescript  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
 |  1647  |  Minimum Deletions to Make Character Frequencies Unique  |  ✅  |  Typescript  |
