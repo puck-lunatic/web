@@ -404,6 +404,7 @@
 |  1406  |  Stone Game III  |  ✅  |  Typescript  |
 |  1416  |  Restore The Array  |  ✅  |  Typescript  |
 |  1420  |  Build Array Where You Can Find The Maximum Exactly K Comparisons  |  ✅  |  Typescript  |
+|  1422  |  Maximum Score After Splitting a String  |  ✅  |  Typescript  |
 |  1423  |  Maximum Points You Can Obtain from Cards  |  ✅  |  Rust  |
 |  1424  |  Diagonal Traverse II  |  ✅  |  Typescript  |
 |  1425  |  Constrained Subsequence Sum  |  ✅  |  Typescript  |
