@@ -423,6 +423,7 @@
 |  1489  |  Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree  |  ✅  |  Typescript  |
 |  1491  |  Average Salary Excluding the Minimum and Maximum Salary  |  ✅  |  Rust, Typescript  |
 |  1493  |  Longest Subarray of 1's After Deleting One Element  |  ✅  |  Typescript  |
+|  1496  |  Path Crossing  |  ✅  |  Typescript  |
 |  1498  |  Number of Subsequences That Satisfy the Given Sum Condition  |  ✅  |  Typescript  |
 |  1502  |  Can Make Arithmetic Progression From Sequence  |  ✅  |  Typescript  |
 |  1512  |  Number of Good Pairs  |  ✅  |  Typescript  |
