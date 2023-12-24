@@ -467,6 +467,7 @@
 |  1732  |  Find the Highest Altitude  |  ✅  |  Rust, Typescript  |
 |  1743  |  Restore the Array From Adjacent Pairs  |  ✅  |  Typescript  |
 |  1751  |  Maximum Number of Events That Can Be Attended II  |  ✅  |  Typescript  |
+|  1758  |  Minimum Changes To Make Alternating Binary String  |  ✅  |  Typescript  |
 |  1768  |  Merge Strings Alternately  |  ✅  |  Typescript  |
 |  1773  |  Count Items Matching a Rule  |  ✅  |  Rust  |
 |  1793  |  Maximum Score of a Good Subarray  |  ✅  |  Typescript  |
