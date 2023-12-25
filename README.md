@@ -63,7 +63,7 @@
 |  87  |  Scramble String  |  ✅  |  Typescript  |
 |  89  |  Gray Code  |  ✅  |  Rust  |
 |  90  |  Subsets II  |  ✅  |  Rust  |
-|  91  |  Decode Ways  |  ✅  |  Rust  |
+|  91  |  Decode Ways  |  ✅  |  Rust, Typescript  |
 |  92  |  Reverse Linked List II  |  ✅  |  Rust, Typescript  |
 |  94  |  Binary Tree Inorder Traversal  |  ✅  |  Typescript  |
 |  95  |  Unique Binary Search Trees II  |  ✅  |  Rust, Typescript  |
