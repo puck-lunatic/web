@@ -437,6 +437,7 @@
 |  1574  |  Minimum Cost to Cut a Stick  |  ✅  |  Typescript  |
 |  1575  |  Count All Possible Routes  |  ✅  |  Typescript  |
 |  1577  |  Minimum Number of Vertices to Reach All Nodes  |  ✅  |  Typescript  |
+|  1578  |  Minimum Time to Make Rope Colorful  |  ✅  |  Typescript  |
 |  1579  |  Remove Max Number of Edges to Keep Graph Fully Traversable  |  ✅  |  Typescript  |
 |  1582  |  Special Positions in a Binary Matrix  |  ✅  |  Typescript  |
 |  1601  |  Maximum Number of Achievable Transfer Requests  |  ✅  |  Typescript  |
