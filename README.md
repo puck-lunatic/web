@@ -429,6 +429,7 @@
 |  1502  |  Can Make Arithmetic Progression From Sequence  |  ✅  |  Typescript  |
 |  1512  |  Number of Good Pairs  |  ✅  |  Typescript  |
 |  1514  |  Path with Maximum Probability  |  ✅  |  Typescript  |
+|  1531  |  String Compression II  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1561  |  Maximum Number of Coins You Can Ge  |  ✅  |  Typescript  |
