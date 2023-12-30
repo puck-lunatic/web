@@ -484,6 +484,7 @@
 |  1857  |  Largest Color Value in a Directed Graph  |  ✅  |  Typescript  |
 |  1877  |  Minimize Maximum Pair Sum in Array  |  ✅  |  Typescript  |
 |  1887  |  Reduction Operations to Make the Array Elements Equal  |  ✅  |  Typescript  |
+|  1897  |  Redistribute Characters to Make All Strings Equal  |  ✅  |  Typescript  |
 |  1903  |  Largest Odd Number in String  |  ✅  |  Typescript  |
 |  1913  |  Maximum Product Difference Between Two Pairs  |  ✅  |  Typescript  |
 |  1930  |  Unique Length-3 Palindromic Subsequences  |  ✅  |  Typescript  |
