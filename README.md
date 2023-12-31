@@ -446,6 +446,7 @@
 |  1603  |  Design Parking System  |  ✅  |  Typescript  |
 |  1611  |  Minimum One Bit Operations to Make Integers Zero  |  ✅  |  Typescript  |
 |  1615  |  Maximal Network Rank  |  ✅  |  Typescript  |
+|  1624  |  Largest Substring Between Two Equal Characters  |  ✅  |  Typescript  |
 |  1629  |  Slowest Key  |  ✅  |  Rust  |
 |  1630  |  Arithmetic Subarrays  |  ✅  |  Typescript  |
 |  1637  |  Widest Vertical Area Between Two Points Containing No Points  |  ✅  |  Typescript  |
