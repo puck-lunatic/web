@@ -191,6 +191,7 @@
 |  443  |  String Compression  |  ✅  |  Typescript  |
 |  445  |  Add Two Numbers II  |  ✅  |  Typescript  |
 |  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Typescript  |
+|  455  |  Assign Cookies  |  ✅  |  Typescript  |
 |  456  |  132 Pattern  |  ✅  |  Typescript  |
 |  458  |  Poor Pigs  |  ✅  |  Typescript  |
 |  459  |  Repeated Substring Pattern  |  ✅  |  Rust, Typescript  |
