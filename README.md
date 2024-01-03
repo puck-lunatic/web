@@ -499,6 +499,7 @@
 |  2050  |  Parallel Courses III  |  ✅  |  Typescript  |
 |  2090  |  K Radius Subarray Averages  |  ✅  |  Typescript  |
 |  2101  |  Detonate the Maximum Bombs  |  ✅  |  Typescript  |
+|  2125  |  Number of Laser Beams in a Bank  |  ✅  |  Typescript  |
 |  2130  |  Maximum Twin Sum of a Linked List  |  ✅  |  Typescript  |
 |  2131  |  Longest Palindrome by Concatenating Two Letter Words  |  ✅  |  Typescript  |
 |  2140  |  Solving Questions With Brainpower  |  ✅  |  Typescript  |
