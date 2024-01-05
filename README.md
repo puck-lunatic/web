@@ -143,7 +143,7 @@
 |  278  |  First Bad Version  |  ✅  |  Typescript  |
 |  279  |  Perfect Squares  |  ✅  |  Rust  |
 |  287  |  Find the Duplicate Number  |  ✅  |  Typescript  |
-|  295  |  Find Median from Data Stream  |  ✅  |  Rust  |
+|  295  |  Find Median from Data Stream  |  ✅  |  Rust, Typescript  |
 |  299  |  Bulls and Cows  |  ✅  |  Typescript  |
 |  300  |  Longest Increasing Subsequence  |  ✅  |  Rust  |
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
