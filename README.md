@@ -190,7 +190,7 @@
 |  438  |  Find All Anagrams in a String  |  ✅  |  Typescript  |
 |  443  |  String Compression  |  ✅  |  Typescript  |
 |  445  |  Add Two Numbers II  |  ✅  |  Typescript  |
-|  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Typescript  |
+|  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Rust, Typescript  |
 |  455  |  Assign Cookies  |  ✅  |  Typescript  |
 |  456  |  132 Pattern  |  ✅  |  Typescript  |
 |  458  |  Poor Pigs  |  ✅  |  Typescript  |
