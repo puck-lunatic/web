@@ -332,6 +332,7 @@
 |  934  |  Shortest Bridge  |  ✅  |  Typescript  |
 |  935  |  Knight Dialer  |  ✅  |  Typescript  |
 |  936  |  Stamping The Sequence  |  ✅  |  Rust  |
+|  938  |  Range Sum of BST  |  ✅  |  Typescript  |
 |  943  |  Find the Shortest Superstring  |  ✅  |  Java  |
 |  946  |  Validate Stack Sequences  |  ✅  |  Typescript  |
 |  947  |  Most Stones Removed with Same Row or Column  |  ✅  |  Typescript  |
