@@ -310,6 +310,7 @@
 |  864  |  Shifting Letters  |  ✅  |  Typescript  |
 |  867  |  Transpose Matrix  |  ✅  |  Typescript  |
 |  871  |  Minimum Number of Refueling Stops  |  ✅  |  Rust  |
+|  872  |  Leaf-Similar Trees  |  ✅  |  Typescript  |
 |  875  |  Koko Eating Bananas  |  ✅  |  Typescript  |
 |  876  |  Middle of the Linked List  |  ✅  |  Rust, Typescript  |
 |  877  |  Stone Game  |  ✅  |  Rust  |
