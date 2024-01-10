@@ -524,6 +524,7 @@
 |  2360  |  Longest Cycle in a Graph  |  ✅  |  Typescript  |
 |  2366  |  Minimum Replacements to Sort the Array  |  ✅  |  Typescript  |
 |  2369  |  Check if There is a Valid Partition For The Array  |  ✅  |  Typescript  |
+|  2385  |  Amount of Time for Binary Tree to Be Infected  |  ✅  |  Typescript  |
 |  2390  |  Removing Stars From a String  |  ✅  |  Typescript  |
 |  2391  |  Minimum Amount of Time to Collect Garbage  |  ✅  |  Typescript  |
 |  2405  |  Optimal Partition of String  |  ✅  |  Typescript  |
