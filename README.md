@@ -350,6 +350,7 @@
 |  1004  |  Max Consecutive Ones III  |  ✅  |  Rust  |
 |  1011  |  Capacity To Ship Packages Within D Days  |  ✅  |  Typescript  |
 |  1020  |  Number of Enclaves  |  ✅  |  Typescript  |
+|  1026  |  Maximum Difference Between Node and Ancestor  |  ✅  |  Typescript  |
 |  1027  |  Longest Arithmetic Subsequence  |  ✅  |  Typescript  |
 |  1035  |  Uncrossed Lines  |  ✅  |  Typescript  |
 |  1046  |  Last Stone Weight  |  ✅  |  Typescript  |
