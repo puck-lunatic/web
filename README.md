@@ -397,6 +397,7 @@
 |  1338  |  Reduce Array Size to The Half  |  ✅  |  Rust  |
 |  1339  |  Maximum Product of Splitted Binary Tree  |  ✅  |  Rust  |
 |  1345  |  Jump Game IV  |  ✅  |  Rust, Typescript  |
+|  1347  |  Minimum Number of Steps to Make Two Strings Anagram  |  ✅  |  Typescript  |
 |  1351  |  Count Negative Numbers in a Sorted Matrix  |  ✅  |  Typescript  |
 |  1354  |  Construct Target Array With Multiple Sums  |  ✅  |  Rust  |
 |  1356  |  Sort Integers by The Number of 1 Bits  |  ✅  |  Typescript  |
