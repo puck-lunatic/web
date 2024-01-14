@@ -459,6 +459,7 @@
 |  1639  |  Number of Ways to Form a Target String Given a Dictionary  |  ✅  |  Typescript  |
 |  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
 |  1647  |  Minimum Deletions to Make Character Frequencies Unique  |  ✅  |  Typescript  |
+|  1657  |  Determine if Two Strings Are Close  |  ✅  |  Typescript  |
 |  1658  |  Minimum Operations to Reduce X to Zero  |  ✅  |  Typescript  |
 |  1662  |  Check If Two String Arrays are Equivalent  |  ✅  |  Typescript  |
 |  1675  |  Minimize Deviation in Array  |  ✅  |  Typescript  |
