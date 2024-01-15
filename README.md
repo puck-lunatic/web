@@ -513,6 +513,7 @@
 |  2187  |  Minimum Time to Complete Trips  |  ✅  |  Typescript  |
 |  2215  |  Find the Difference of Two Arrays  |  ✅  |  Typescript  |
 |  2218  |  Maximum Value of K Coins From Piles  |  ✅  |  Typescript  |
+|  2225  |  Find Players With Zero or One Losses  |  ✅  |  Typescript  |
 |  2251  |  Number of Flowers in Full Bloom  |  ✅  |  Typescript  |
 |  2264  |  Largest 3-Same-Digit Number in String  |  ✅  |  Typescript  |
 |  2272  |  Substring With Largest Variance  |  ✅  |  Typescript  |
