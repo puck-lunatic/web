@@ -171,6 +171,7 @@
 |  376  |  Wiggle Subsequence  |  ✅  |  Rust  |
 |  377  |  Combination Sum IV  |  ✅  |  Rust, Typescript  |
 |  378  |  Kth Smallest Element in a Sorted Matrix  |  ✅  |  Rust  |
+|  380  |  Insert Delete GetRandom O(1)  |  ✅  |  Typescript  |
 |  382  |  Linked List Random Node  |  ✅  |  Typescript  |
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
 |  389  |  Find the Difference  |  ✅  |  Typescript  |
