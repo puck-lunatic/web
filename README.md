@@ -50,7 +50,7 @@
 |  64  |  Minimum Path Sum  |  ✅  |  Rust, Typescript  |
 |  65  |  Valid Number  |  ✅  |  Rust  |
 |  68  |  Text Justification  |  ✅  |  Typescript  |
-|  70  |  Climbing Stairs  |  ✅  |  Rust, Typescript  |
+|  70  |  Climbing Stairs  |  ✅  |  Rust, Typescript, Javascript  |
 |  71  |  Simplify Path  |  ✅  |  Typescript  |
 |  72  |  Edit Distance  |  ✅  |  Rust, Typescript  |
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
