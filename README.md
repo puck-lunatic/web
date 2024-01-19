@@ -330,6 +330,7 @@
 |  926  |  Flip String to Monotone Increasing  |  ✅  |  Rust  |
 |  927  |  Three Equal Parts  |  ✅  |  Rust  |
 |  929  |  Unique Email Addresses  |  ✅  |  Rust  |
+|  931  |  Minimum Falling Path Sum  |  ✅  |  Rust  |
 |  932  |  Beautiful Array  |  ✅  |  Rust  |
 |  934  |  Shortest Bridge  |  ✅  |  Typescript  |
 |  935  |  Knight Dialer  |  ✅  |  Typescript  |
