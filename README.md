@@ -243,7 +243,7 @@
 |  633  |  Sum of Square Numbers  |  ✅  |  Rust  |
 |  637  |  Average of Levels in Binary Tree  |  ✅  |  Rust  |
 |  639  |  Decode Ways II  |  ✅  |  Rust  |
-|  645  |  Set Mismatch  |  ✅  |  Rust  |
+|  645  |  Set Mismatch  |  ✅  |  Rust, Typescript  |
 |  646  |  Maximum Length of Pair Chain  |  ✅  |  Typescript  |
 |  649  |  Dota2 Senate  |  ✅  |  Typescript  |
 |  652  |  Find Duplicate Subtrees  |  ✅  |  Typescript  |
