@@ -365,7 +365,7 @@
 |  1125  |  Smallest Sufficient Team  |  ✅  |  Typescript  |
 |  1137  |  N-th Tribonacci Number  |  ✅  |  Rust  |
 |  1140  |  Stone Game II  |  ✅  |  Typescript  |
-|  1143  |  Longest Common Subsequence  |  ✅  |  Rust  |
+|  1143  |  Longest Common Subsequence  |  ✅  |  Rust, Typescript  |
 |  1146  |  Snapshot Array  |  ✅  |  Typescript  |
 |  1155  |  Number of Dice Rolls With Target Sum  |  ✅  |  Typescript  |
 |  1160  |  Find Words That Can Be Formed by Characters  |  ✅  |  Typescript  |
