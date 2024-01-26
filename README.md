@@ -224,7 +224,7 @@
 |  565  |  Array Nesting  |  ✅  |  Rust  |
 |  566  |  Reshape the Matrix  |  ✅  |  Rust  |
 |  575  |  Distribute Candies  |  ✅  |  Rust  |
-|  576  |  Out of Boundary Paths  |  ✅  |  Rust  |
+|  576  |  Out of Boundary Paths  |  ✅  |  Rust, Typescript  |
 |  583  |  Delete Operation for Two Strings  |  ✅  |  Rust  |
 |  581  |  Shortest Unsorted Continuous Subarray  |  ✅  |  Rust  |
 |  587  |  Erect the Fence  |  ✅  |  Rust  |
