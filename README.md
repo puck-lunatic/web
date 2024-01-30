@@ -100,7 +100,7 @@
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  146  |  LRU Cache  |  ✅  |  Rust  |
 |  148  |  Sort List  |  ✅  |  Typescript  |
-|  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust  |
+|  150  |  Evaluate Reverse Polish Notation  |  ✅  |  Rust, Typescript  |
 |  151  |  Min Stack  |  ✅  |  Typescript  |
 |  152  |  Maximum Product Subarray  |  ✅  |  Typescript  |
 |  153  |  Find Minimum in Rotated Sorted Array  |  ✅  |  Rust  |
