@@ -276,6 +276,7 @@
 |  729  |  My Calendar I  |  ✅  |  Rust  |
 |  733  |  Flood Fill  |  ✅  |  Typescript  |
 |  735  |  Asteroid Collision  |  ✅  |  Typescript, Rust  |
+|  739  |  Daily Temperatures  |  ✅  |  Typescript  |
 |  744  |  744. Find Smallest Letter Greater Than Target  |  ✅  |  Typescript  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust, Typescript, Dart  |
