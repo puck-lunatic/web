@@ -357,6 +357,7 @@
 |  1026  |  Maximum Difference Between Node and Ancestor  |  ✅  |  Typescript  |
 |  1027  |  Longest Arithmetic Subsequence  |  ✅  |  Typescript  |
 |  1035  |  Uncrossed Lines  |  ✅  |  Typescript  |
+|  1043  |  Partition Array for Maximum Sum  |  ✅  |  Typescript  |
 |  1046  |  Last Stone Weight  |  ✅  |  Typescript  |
 |  1047  |  Remove All Adjacent Duplicates In String  |  ✅  |  Rust  |
 |  1048  |  Longest String Chain  |  ✅  |  Rust, Typescript  |
