@@ -56,7 +56,7 @@
 |  73  |  Set Matrix Zeroes  |  ✅  |  Rust  |
 |  74  |  Search a 2D Matrix  |  ✅  |  Rust, Typescript  |
 |  75  |  Sort Colors  |  ✅  |  Typescript  |
-|  76  |  Minimum Window Substring  |  ✅  |  Typescript  |
+|  76  |  Minimum Window Substring  |  ✅  |  Typescript, Javascript  |
 |  77  |  Combinations  |  ✅  |  Typescript  |
 |  81  |  Search in Rotated Sorted Array II  |  ✅  |  Rust, Typescript  |
 |  86  |  Partition List  |  ✅  |  Rust, Typescript  |
