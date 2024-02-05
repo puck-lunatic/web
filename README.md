@@ -174,6 +174,7 @@
 |  380  |  Insert Delete GetRandom O(1)  |  ✅  |  Typescript  |
 |  382  |  Linked List Random Node  |  ✅  |  Typescript  |
 |  384  |  Shuffle an Array  |  ✅  |  Rust  |
+|  387  |  First Unique Character in a String  |  ✅  |  Typescript  |
 |  389  |  Find the Difference  |  ✅  |  Typescript  |
 |  392  |  Is Subsequence  |  ✅  |  Rust, Typescript  |
 |  394  |  Decode String  |  ✅  |  Typescript  |
