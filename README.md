@@ -38,6 +38,7 @@
 |  46  |  Permutations  |  ✅  |  Rust, Typescript  |
 |  47  |  Permutations II |  ✅  |  Typescript  |
 |  48  |  Rotate Image  |  ✅  |  Rust  |
+|  49  |  Group Anagrams  |  ✅  |  Typescript  |
 |  51  |  N-Queens  |  ✅  |  Rust  |
 |  52  |  N-Queens II  |  ✅  |  Rust  |
 |  54  |  Spiral Matrix  |  ✅  |  Rust, Typescript  |
