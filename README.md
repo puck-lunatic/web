@@ -142,7 +142,7 @@
 |  258  |  Add Digits  |  ✅  |  Rust  |
 |  268  |  Missing Number  |  ✅  |  Rust  |
 |  278  |  First Bad Version  |  ✅  |  Typescript  |
-|  279  |  Perfect Squares  |  ✅  |  Rust  |
+|  279  |  Perfect Squares  |  ✅  |  Rust, Typescript  |
 |  287  |  Find the Duplicate Number  |  ✅  |  Typescript  |
 |  295  |  Find Median from Data Stream  |  ✅  |  Rust, Typescript  |
 |  299  |  Bulls and Cows  |  ✅  |  Typescript  |
