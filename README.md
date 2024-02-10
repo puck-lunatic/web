@@ -249,6 +249,7 @@
 |  639  |  Decode Ways II  |  ✅  |  Rust  |
 |  645  |  Set Mismatch  |  ✅  |  Rust, Typescript  |
 |  646  |  Maximum Length of Pair Chain  |  ✅  |  Typescript  |
+|  647  |  Palindromic Substrings  |  ✅  |  Typescript  |
 |  649  |  Dota2 Senate  |  ✅  |  Typescript  |
 |  652  |  Find Duplicate Subtrees  |  ✅  |  Typescript  |
 |  653  |  Two Sum IV - Input is a BST  |  ✅  |  Rust  |
