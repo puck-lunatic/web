@@ -109,6 +109,7 @@
 |  162  |  Find Peak Element  |  ✅  |  Javascript  |
 |  164  |  Maximum Gap  |  ✅  |  Rust  |
 |  168  |  Excel Sheet Column Title  |  ✅  |  Typescript  |
+|  169  |  Majority Element  |  ✅  |  Typescript  |
 |  173  |  Binary Search Tree Iterator  |  ✅  |  Typescript  |
 |  174  |  Dungeon Game  |  ✅  |  Rust  |
 |  191  |  Number of 1 Bits  |  ✅  |  Typescript  |
