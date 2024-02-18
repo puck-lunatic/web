@@ -474,7 +474,7 @@
 |  1630  |  Arithmetic Subarrays  |  ✅  |  Typescript  |
 |  1637  |  Widest Vertical Area Between Two Points Containing No Points  |  ✅  |  Typescript  |
 |  1639  |  Number of Ways to Form a Target String Given a Dictionary  |  ✅  |  Typescript  |
-|  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust  |
+|  1642  |  Furthest Building You Can Reach  |  ✅  |  Rust, Typescript  |
 |  1647  |  Minimum Deletions to Make Character Frequencies Unique  |  ✅  |  Typescript  |
 |  1657  |  Determine if Two Strings Are Close  |  ✅  |  Typescript  |
 |  1658  |  Minimum Operations to Reduce X to Zero  |  ✅  |  Typescript  |
@@ -550,6 +550,7 @@
 |  2385  |  Amount of Time for Binary Tree to Be Infected  |  ✅  |  Typescript  |
 |  2390  |  Removing Stars From a String  |  ✅  |  Typescript  |
 |  2391  |  Minimum Amount of Time to Collect Garbage  |  ✅  |  Typescript  |
+|  2402  |  Meeting Rooms III  |  ✅  |  Typescript  |
 |  2405  |  Optimal Partition of String  |  ✅  |  Typescript  |
 |  2433  |  Find The Original Array of Prefix Xor  |  ✅  |  Typescript  |
 |  2439  |  Minimize Maximum of Array  |  ✅  |  Typescript  |

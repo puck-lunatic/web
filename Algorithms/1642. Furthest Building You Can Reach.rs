@@ -6,7 +6,6 @@ impl Solution {
         let n = heights.len();
         let mut ladders = ladders;
         let mut bricks = bricks;
-        
         let mut replacement: BinaryHeap<Reverse<i32>> = BinaryHeap::new();
         for i in 1..n {
             if heights[i - 1] < heights[i] {
