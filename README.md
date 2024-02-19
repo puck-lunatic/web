@@ -132,6 +132,7 @@
 |  228  |  Summary Ranges  |  ✅  |  Typescript  |
 |  229  |  Majority Element II  |  ✅  |  Typescript  |
 |  230  |  Kth Smallest Element in a BST  |  ✅  |  Typescript  |
+|  231  |  Power of Two  |  ✅  |  Typescript  |
 |  232  |  Implement Queue using Stacks  |  ✅  |  Rust, Typescript  |
 |  234  |  Palindrome Linked List  |  ✅  |  Rust, Typescript  |
 |  235  |  Lowest Common Ancestor of a Binary Search Tree  |  ✅  |  Rust, Typescript  |
