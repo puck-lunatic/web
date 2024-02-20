@@ -142,7 +142,7 @@
 |  240  |  Search a 2D Matrix II  |  ✅  |  Typescript  |
 |  242  |  Valid Anagram  |  ✅  |  Typescript  |
 |  258  |  Add Digits  |  ✅  |  Rust  |
-|  268  |  Missing Number  |  ✅  |  Rust  |
+|  268  |  Missing Number  |  ✅  |  Rust, Typescript  |
 |  278  |  First Bad Version  |  ✅  |  Typescript  |
 |  279  |  Perfect Squares  |  ✅  |  Rust, Typescript  |
 |  287  |  Find the Duplicate Number  |  ✅  |  Typescript  |
