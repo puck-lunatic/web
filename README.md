@@ -116,6 +116,7 @@
 |  198  |  House Robber  |  ✅  |  Rust, Typescript  |
 |  199  |  Binary Tree Right Side View  |  ✅  |  Typescript  |
 |  200  |  Number of Islands  |  ✅  |  Typescript  |
+|  201  |  Bitwise AND of Numbers Range  |  ✅  |  Typescript  |
 |  202  |  Happy Number  |  ✅  |  Typescript  |
 |  204  |  Count Primes  |  ✅  |  Rust  |
 |  205  |  Isomorphic Strings  |  ✅  |  Rust, Typescript  |
