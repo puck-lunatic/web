@@ -359,6 +359,7 @@
 |  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
 |  983  |  Minimum Cost For Tickets  |  ✅  |  Typescript  |
 |  994  |  Rotting Oranges  |  ✅  |  Typescript  |
+|  997  |  Find the Town Judge  |  ✅  |  Typescript  |
 |  1004  |  Max Consecutive Ones III  |  ✅  |  Rust  |
 |  1011  |  Capacity To Ship Packages Within D Days  |  ✅  |  Typescript  |
 |  1020  |  Number of Enclaves  |  ✅  |  Typescript  |
