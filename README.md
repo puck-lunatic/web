@@ -297,6 +297,7 @@
 |  783  |  Minimum Distance Between BST Nodes  |  ✅  |  Typescript  |
 |  784  |  Letter Case Permutation  |  ✅  |  Rust  |
 |  785  |  Is Graph Bipartite?  |  ✅  |  Typescript  |
+|  787  |  Cheapest Flights Within K Stops  |  ✅  |  Typescript  |
 |  791  |  Custom Sort String  |  ✅  |  Rust  |
 |  792  |  Number of Matching Subsequences  |  ✅  |  Rust  |
 |  795  |  Number of Subarrays with Bounded Maximum  |  ✅  |  Rust  |
