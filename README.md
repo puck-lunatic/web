@@ -572,6 +572,7 @@
 |  2616  |  Minimize the Maximum Difference of Pairs  |  ✅  |  Typescript  |
 |  2706  |  Buy Two Chocolates  |  ✅  |  Typescript  |
 |  2707  |  Extra Characters in a String  |  ✅  |  Typescript  |
+|  2709  |  Greatest Common Divisor Traversal  |  ✅  |  Typescript  |
 |  2785  |  Sort Vowels in a String  |  ✅  |  Typescript  |
 |  2849  |  Determine if a Cell Is Reachable at a Given Time  |  ✅  |  Typescript  |
 |  2870  |  Minimum Number of Operations to Make Array Empty  |  ✅  |  Typescript  |
