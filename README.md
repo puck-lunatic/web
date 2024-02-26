@@ -70,7 +70,7 @@
 |  95  |  Unique Binary Search Trees II  |  ✅  |  Rust, Typescript  |
 |  96  |  Unique Binary Search Trees  |  ✅  |  Rust  |
 |  97  |  Interleaving String  |  ✅  |  Rust, Typescript  |
-|  98  |  Validate Binary Search Tree  |  ✅  |  Typescript  |
+|  98  |  Validate Binary Search Tree  |  ✅  |  Rust, Typescript  |
 |  100  |  Same Tree  |  ✅  |  Typescript  |
 |  101  |  Symmetric Tree  |  ✅  |  Typescript  |
 |  102  |  Binary Tree Level Order Traversal  |  ✅  |  Rust, Typescript  |
