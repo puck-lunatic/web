@@ -222,7 +222,7 @@
 |  537  |  Complex Number Multiplication  |  ✅  |  Rust  |
 |  540  |  Single Element in a Sorted Array  |  ✅  |  Typescript  |
 |  542  |  01 Matrix  |  ✅  |  Rust, Typescript  |
-|  543  |  Diameter of Binary Tree  |  ✅  |  Typescript  |
+|  543  |  Diameter of Binary Tree  |  ✅  |  Rust, Typescript  |
 |  546  |  Remove Boxes  |  ✅  |  Rust  |
 |  547  |  Number of Provinces  |  ✅  |  Rust, Typescript  |
 |  554  |  Brick Wall  |  ✅  |  Rust  |
