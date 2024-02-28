@@ -212,6 +212,7 @@
 |  486  |  Predict the Winner  |  ✅  |  Typescript  |
 |  502  |  IPO  |  ✅  |  Typescript  |
 |  509  |  Fibonacci Number  |  ✅  |  Rust, Typescript  |
+|  513  |  Find Bottom Left Tree Value  |  ✅  |  Typescript  |
 |  515  |  Find Largest Value in Each Tree Row  |  ✅  |  Typescript  |
 |  516  |  Longest Palindromic Subsequence  |  ✅  |  Typescript  |
 |  518  |  Coin Change II  |  ✅  |  Typescript  |
