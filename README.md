@@ -472,6 +472,7 @@
 |  1582  |  Special Positions in a Binary Matrix  |  ✅  |  Typescript  |
 |  1601  |  Maximum Number of Achievable Transfer Requests  |  ✅  |  Typescript  |
 |  1603  |  Design Parking System  |  ✅  |  Typescript  |
+|  1609  |  Even Odd Tree  |  ✅  |  Typescript  |
 |  1611  |  Minimum One Bit Operations to Make Integers Zero  |  ✅  |  Typescript  |
 |  1615  |  Maximal Network Rank  |  ✅  |  Typescript  |
 |  1624  |  Largest Substring Between Two Equal Characters  |  ✅  |  Typescript  |
