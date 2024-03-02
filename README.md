@@ -358,6 +358,7 @@
 |  968  |  Binary Tree Cameras  |  ✅  |  Rust  |
 |  970  |  Powerful Integers.rs  |  ✅  |  Rust  |
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
+|  977  |  Squares of a Sorted Array  |  ✅  |  Typescript  |
 |  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
 |  983  |  Minimum Cost For Tickets  |  ✅  |  Typescript  |
 |  994  |  Rotting Oranges  |  ✅  |  Typescript  |
