@@ -168,6 +168,7 @@
 |  342  |  Power of Four  |  ✅  |  Typescript  |
 |  343  |  Integer Break  |  ✅  |  Typescript  |
 |  347  |  Top K Frequent Elements  |  ✅  |  Typescript  |
+|  349  |  Intersection of Two Arrays  |  ✅  |  Typescript  |
 |  350  |  Intersection of Two Arrays II  |  ✅  |  Rust  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
 |  363  |  Max Sum of Rectangle No Larger Than K  |  ✅  |  Rust  |
