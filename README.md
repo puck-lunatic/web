@@ -387,6 +387,7 @@
 |  1155  |  Number of Dice Rolls With Target Sum  |  ✅  |  Typescript  |
 |  1160  |  Find Words That Can Be Formed by Characters  |  ✅  |  Typescript  |
 |  1161  |  Maximum Level Sum of a Binary Tree  |  ✅  |  Typescript  |
+|  1171  |  Remove Zero Sum Consecutive Nodes from Linked List  |  ✅  |  Typescript  |
 |  1187  |  Make Array Strictly Increasing  |  ✅  |  Typescript  |
 |  1189  |  Maximum Number of Balloons  |  ✅  |  Rust  |
 |  1192  |  Critical Connections in a Network  |  ✅  |  Rust  |
