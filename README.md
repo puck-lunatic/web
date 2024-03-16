@@ -219,6 +219,7 @@
 |  518  |  Coin Change II  |  ✅  |  Typescript  |
 |  522  |  Longest Uncommon Subsequence II  |  ✅  |  Rust  |
 |  524  |  Longest Word in Dictionary through Deleting  |  ✅  |  Rust  |
+|  525  |  Contiguous Array  |  ✅  |  Typescript  |
 |  530  |  Minimum Absolute Difference in BST  |  ✅  |  Typescript  |
 |  535  |  Encode and Decode TinyURL  |  ✅  |  Rust  |
 |  537  |  Complex Number Multiplication  |  ✅  |  Rust  |
