@@ -200,6 +200,7 @@
 |  445  |  Add Two Numbers II  |  ✅  |  Typescript  |
 |  446  |  Arithmetic Slices II - Subsequence  |  ✅  |  Rust, Typescript  |
 |  451  |  Sort Characters By Frequency  |  ✅  |  Typescript  |
+|  452  |  Minimum Number of Arrows to Burst Balloons  |  ✅  |  Typescript  |
 |  455  |  Assign Cookies  |  ✅  |  Typescript  |
 |  456  |  132 Pattern  |  ✅  |  Typescript  |
 |  458  |  Poor Pigs  |  ✅  |  Typescript  |
