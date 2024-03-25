@@ -98,6 +98,7 @@
 |  139  |  Word Break  |  ✅  |  Typescript  |
 |  141  |  Linked List Cycle  |  ✅  |  Typescript  |
 |  142  |  Linked List Cycle II  |  ✅  |  Typescript  |
+|  143  |  Reorder List  |  ✅  |  Typescript  |
 |  144  |  Binary Tree Preorder Traversal  |  ✅  |  Rust  |
 |  146  |  LRU Cache  |  ✅  |  Rust  |
 |  148  |  Sort List  |  ✅  |  Typescript  |
