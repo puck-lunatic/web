@@ -34,6 +34,7 @@
 |  35  |  Search Insert Position  |  ✅  |  Rust, Typescript  |
 |  36  |  Valid Sudoku  |  ✅  |  Rust  |
 |  39  |  Combination Sum  |  ✅  |  Rust, Typescript  |
+|  41  |  First Missing Positive  |  ✅  |  Typescript  |
 |  45  |  Jump Game II  |  ✅  |  Rust  |
 |  46  |  Permutations  |  ✅  |  Rust, Typescript  |
 |  47  |  Permutations II |  ✅  |  Typescript  |
