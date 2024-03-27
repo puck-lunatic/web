@@ -284,6 +284,7 @@
 |  706  |  Design HashMap  |  ✅  |  Typescript  |
 |  709  |  To Lower Case  |  ✅  |  Rust  |
 |  712  |  Minimum ASCII Delete Sum for Two Strings  |  ✅  |  Typescript  |
+|  713  |  Subarray Product Less Than K  |  ✅  |  Typescript  |
 |  714  |  Best Time to Buy and Sell Stock with Transaction Fee  |  ✅  |  Rust, Typescript  |
 |  718  |  Maximum Length of Repeated Subarray  |  ✅  |  Rust  |
 |  724  |  Find Pivot Index  |  ✅  |  Typescript  |
