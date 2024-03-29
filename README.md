@@ -595,6 +595,7 @@
 |  2864  |  Maximum Odd Binary Number  |  ✅  |  Typescript  |
 |  2870  |  Minimum Number of Operations to Make Array Empty  |  ✅  |  Typescript  |
 |  2958  |  Length of Longest Subarray With at Most K Frequency  |  ✅  |  Typescript  |
+|  2962  |  Count Subarrays Where Max Element Appears at Least K Times  |  ✅  |  Typescript  |
 |  2966  |  Divide Array Into Arrays With Max Difference  |  ✅  |  Typescript  |
 |  2971  |  Find Polygon With the Largest Perimeter  |  ✅  |  Typescript  |
 |  3005  |  Count Elements With Maximum Frequency  |  ✅  |  Typescript  |
