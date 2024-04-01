@@ -46,6 +46,7 @@
 |  55  |  Jump Game  |  ✅  |  Rust  |
 |  56  |  Merge Intervals  |  ✅  |  Typescript  |
 |  57  |  Insert Interval  |  ✅  |  Typescript  |
+|  58  |  Length of Last Word  |  ✅  |  Typescript  |
 |  59  |  Spiral Matrix II  |  ✅  |  Typescript  |
 |  62  |  Unique Paths  |  ✅  |  Rust, Typescript, Dart  |
 |  63  |  Unique Paths II  |  ✅  |  Rust, Typescript  |
