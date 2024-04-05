@@ -474,6 +474,7 @@
 |  1514  |  Path with Maximum Probability  |  ✅  |  Typescript  |
 |  1531  |  String Compression II  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
+|  1544  |  Make The String Great  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1561  |  Maximum Number of Coins You Can Ge  |  ✅  |  Typescript  |
 |  1569  |  Number of Ways to Reorder Array to Get Same BST  |  ✅  |  Typescript  |
