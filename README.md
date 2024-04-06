@@ -410,6 +410,7 @@
 |  1232  |  Check If It Is a Straight Line  |  ✅  |  Typescript  |
 |  1235  |  Maximum Profit in Job Scheduling  |  ✅  |  Typescript  |
 |  1239  |  Maximum Length of a Concatenated String with Unique Characters  |  ✅  |  Rust, Typescript  |
+|  1249  |  Minimum Remove to Make Valid Parentheses  |  ✅  |  Typescript  |
 |  1254  |  Number of Closed Islands  |  ✅  |  Typescript  |
 |  1266  |  Minimum Time Visiting All Points  |  ✅  |  Typescript  |
 |  1268  |  Search Suggestions System  |  ✅  |  Rust  |
