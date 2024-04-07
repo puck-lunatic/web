@@ -273,6 +273,7 @@
 |  667  |  Beautiful Arrangement II  |  ✅  |  Rust  |
 |  673  |  Number of Longest Increasing Subsequence  |  ✅  |  Typescript  |
 |  677  |  Map Sum Pairs  |  ✅  |  Rust  |
+|  678  |  Valid Parenthesis String  |  ✅  |  Typescript  |
 |  684  |  Redundant Connection  |  ✅  |  Rust  |
 |  688  |  Knight Probability in Chessboard  |  ✅  |  Typescript  |
 |  692  |  Top K Frequent Words  |  ✅  |  Typescript  |
