@@ -512,6 +512,7 @@
 |  1695  |  Maximum Erasure Value  |  ✅  |  Rust  |
 |  1696  |  Jump Game VI  |  ✅  |  Rust  |
 |  1697  |  Checking Existence of Edge Length Limited Paths  |  ✅  |  Typescript  |
+|  1700  |  Number of Students Unable to Eat Lunch  |  ✅  |  Typescript  |
 |  1704  |  Determine if String Halves Are Alike  |  ✅  |  Rust, Typescript  |
 |  1706  |  Where Will the Ball Fall  |  ✅  |  Typescript  |
 |  1710  |  Maximum Units on a Truck  |  ✅  |  Rust  |
