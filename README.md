@@ -547,6 +547,7 @@
 |  2024  |  Maximize the Confusion of an Exam  |  ✅  |  Typescript  |
 |  2038  |  Remove Colored Pieces if Both Neighbors are the Same Color  |  ✅  |  Typescript  |
 |  2050  |  Parallel Courses III  |  ✅  |  Typescript  |
+|  2073  |  Time Needed to Buy Tickets  |  ✅  |  Typescript  |
 |  2090  |  K Radius Subarray Averages  |  ✅  |  Typescript  |
 |  2092  |  Find All People With Secret  |  ✅  |  Typescript  |
 |  2101  |  Detonate the Maximum Bombs  |  ✅  |  Typescript  |
