@@ -189,6 +189,7 @@
 |  392  |  Is Subsequence  |  ✅  |  Rust, Typescript  |
 |  394  |  Decode String  |  ✅  |  Typescript  |
 |  399  |  Evaluate Division  |  ✅  |  Typescript  |
+|  402  |  Remove K Digits  |  ✅  |  Typescript  |
 |  403  |  Frog Jump  |  ✅  |  Typescript  |
 |  409  |  Longest Palindrome  |  ✅  |  Typescript  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
