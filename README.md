@@ -192,6 +192,7 @@
 |  399  |  Evaluate Division  |  ✅  |  Typescript  |
 |  402  |  Remove K Digits  |  ✅  |  Typescript  |
 |  403  |  Frog Jump  |  ✅  |  Typescript  |
+|  404  |  Sum of Left Leaves  |  ✅  |  Typescript  |
 |  409  |  Longest Palindrome  |  ✅  |  Typescript  |
 |  415  |  Add Strings  |  ✅  |  Rust  |
 |  416  |  Partition Equal Subset Sum  |  ✅  |  Typescript  |
