@@ -256,7 +256,7 @@
 |  611  |  Valid Triangle Number  |  ✅  |  Rust  |
 |  621  |  Task Scheduler  |  ✅  |  Typescript  |
 |  622  |  Design Circular Queue  |  ✅  |  Rust  |
-|  623  |  Add One Row to Tree  |  ✅  |  Rust  |
+|  623  |  Add One Row to Tree  |  ✅  |  Rust, Typescript  |
 |  629  |  K Inverse Pairs Array  |  ✅  |  Rust  |
 |  630  |  Course Schedule III  |  ✅  |  Rust  |
 |  633  |  Sum of Square Numbers  |  ✅  |  Rust  |
