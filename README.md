@@ -377,6 +377,7 @@
 |  977  |  Squares of a Sorted Array  |  ✅  |  Typescript  |
 |  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
 |  983  |  Minimum Cost For Tickets  |  ✅  |  Typescript  |
+|  988  |  Smallest String Starting From Leaf  |  ✅  |  Typescript  |
 |  992  |  Subarrays with K Different Integers  |  ✅  |  Typescript  |
 |  994  |  Rotting Oranges  |  ✅  |  Typescript  |
 |  997  |  Find the Town Judge  |  ✅  |  Typescript  |
