@@ -215,6 +215,7 @@
 |  459  |  Repeated Substring Pattern  |  ✅  |  Rust, Typescript  |
 |  461  |  Hamming Distance  |  ✅  |  Rust  |
 |  462  |  Minimum Moves to Equal Array Elements II  |  ✅  |  Rust  |
+|  463  |  Island Perimeter  |  ✅  |  Typescript  |
 |  473  |  Matchsticks to Square  |  ✅  |  Rust  |
 |  474  |  Ones and Zeroes  |  ✅  |  Rust  |
 |  478  |  Generate Random Point in a Circle  |  ✅  |  Rust  |
