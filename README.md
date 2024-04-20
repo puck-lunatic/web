@@ -549,6 +549,7 @@
 |  1964  |  Find the Longest Valid Obstacle Course at Each Position  |  ✅  |  Typescript  |
 |  1970  |  Last Day Where You Can Still Cross  |  ✅  |  Typescript  |
 |  1980  |  Find Unique Binary String  |  ✅  |  Typescript  |
+|  1992  |  Find All Groups of Farmland  |  ✅  |  Typescript  |
 |  2009  |  Minimum Number of Operations to Make Array Continuous  |  ✅  |  Typescript  |
 |  2024  |  Maximize the Confusion of an Exam  |  ✅  |  Typescript  |
 |  2038  |  Remove Colored Pieces if Both Neighbors are the Same Color  |  ✅  |  Typescript  |
