@@ -548,6 +548,7 @@
 |  1930  |  Unique Length-3 Palindromic Subsequences  |  ✅  |  Typescript  |
 |  1964  |  Find the Longest Valid Obstacle Course at Each Position  |  ✅  |  Typescript  |
 |  1970  |  Last Day Where You Can Still Cross  |  ✅  |  Typescript  |
+|  1971  |  Find if Path Exists in Graph  |  ✅  |  Rust  |
 |  1980  |  Find Unique Binary String  |  ✅  |  Typescript  |
 |  1992  |  Find All Groups of Farmland  |  ✅  |  Typescript  |
 |  2009  |  Minimum Number of Operations to Make Array Continuous  |  ✅  |  Typescript  |
