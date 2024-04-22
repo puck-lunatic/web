@@ -303,7 +303,7 @@
 |  744  |  744. Find Smallest Letter Greater Than Target  |  ✅  |  Typescript  |
 |  745  |  Prefix and Suffix Search  |  ✅  |  Rust  |
 |  746  |  Min Cost Climbing Stairs  |  ✅  |  Rust, Typescript, Dart  |
-|  752  |  Open the Lock  |  ✅  |  Rust  |
+|  752  |  Open the Lock  |  ✅  |  Rust, Typescript  |
 |  764  |  Largest Plus Sign  |  ✅  |  Rust  |
 |  767  |  Reorganize String  |  ✅  |  Typescript  |
 |  775  |  Global and Local Inversions  |  ✅  |  Rust  |
