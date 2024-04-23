@@ -158,6 +158,7 @@
 |  303  |  Range Sum Query - Immutable  |  ✅  |  Rust  |
 |  304  |  Range Sum Query 2D - Immutable  |  ✅  |  Rust  |
 |  307  |  Range Sum Query - Mutable  |  ✅  |  Rust  |
+|  310  |  Minimum Height Trees  |  ✅  |  Typescript  |
 |  315  |  Count of Smaller Numbers After Self  |  ✅  |  Rust  |
 |  316  |  Remove Duplicate Letters  |  ✅  |  Typescript  |
 |  318  |  Maximum Product of Word Lengths  |  ✅  |  Rust  |
