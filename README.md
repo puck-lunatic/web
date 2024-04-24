@@ -398,7 +398,7 @@
 |  1095  |  Find in Mountain Array  |  ✅  |  Typescript  |
 |  1108  |  Defanging an IP Address  |  ✅  |  Rust  |
 |  1125  |  Smallest Sufficient Team  |  ✅  |  Typescript  |
-|  1137  |  N-th Tribonacci Number  |  ✅  |  Rust  |
+|  1137  |  N-th Tribonacci Number  |  ✅  |  Rust, Typescript  |
 |  1140  |  Stone Game II  |  ✅  |  Typescript  |
 |  1143  |  Longest Common Subsequence  |  ✅  |  Rust, Typescript  |
 |  1146  |  Snapshot Array  |  ✅  |  Typescript  |
