@@ -223,6 +223,7 @@
 |  485  |  Max Consecutive Ones  |  ✅  |  Rust  |
 |  486  |  Predict the Winner  |  ✅  |  Typescript  |
 |  502  |  IPO  |  ✅  |  Typescript  |
+|  506  |  Relative Ranks  |  ✅  |  Typescript  |
 |  509  |  Fibonacci Number  |  ✅  |  Rust, Typescript  |
 |  513  |  Find Bottom Left Tree Value  |  ✅  |  Typescript  |
 |  515  |  Find Largest Value in Each Tree Row  |  ✅  |  Typescript  |
