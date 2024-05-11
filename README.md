@@ -334,6 +334,7 @@
 |  841  |  Keys and Rooms  |  ✅  |  Rust  |
 |  844  |  Backspace String Compare  |  ✅  |  Typescript, Rust  |
 |  848  |  Shifting Letters  |  ✅  |  Rust  |
+|  857  |  Minimum Cost to Hire K Workers  |  ✅  |  Typescript  |
 |  859  |  Buddy Strings  |  ✅  |  Typescript  |
 |  863  |  All Nodes Distance K in Binary Tree  |  ✅  |  Typescript  |
 |  864  |  Shifting Letters  |  ✅  |  Typescript  |
