@@ -589,6 +589,7 @@
 |  2366  |  Minimum Replacements to Sort the Array  |  ✅  |  Typescript  |
 |  2369  |  Check if There is a Valid Partition For The Array  |  ✅  |  Typescript  |
 |  2370  |  Longest Ideal Subsequence  |  ✅  |  Typescript  |
+|  2373  |  Largest Local Values in a Matrix  |  ✅  |  Typescript  |
 |  2385  |  Amount of Time for Binary Tree to Be Infected  |  ✅  |  Typescript  |
 |  2390  |  Removing Stars From a String  |  ✅  |  Typescript  |
 |  2391  |  Minimum Amount of Time to Collect Garbage  |  ✅  |  Typescript  |
