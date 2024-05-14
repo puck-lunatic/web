@@ -416,6 +416,7 @@
 |  1207  |  Unique Number of Occurrences  |  ✅  |  Typescript  |
 |  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
 |  1218  |  Longest Arithmetic Subsequence of Given Difference  |  ✅  |  Typescript  |
+|  1219  |  Path with Maximum Gold  |  ✅  |  Typescript  |
 |  1220  |  Count Vowels Permutation  |  ✅  |  Rust, Typescript  |
 |  1221  |  Split a String in Balanced Strings  |  ✅  |  Rust  |
 |  1232  |  Check If It Is a Straight Line  |  ✅  |  Typescript  |
