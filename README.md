@@ -616,6 +616,7 @@
 |  2707  |  Extra Characters in a String  |  ✅  |  Typescript  |
 |  2709  |  Greatest Common Divisor Traversal  |  ✅  |  Typescript  |
 |  2785  |  Sort Vowels in a String  |  ✅  |  Typescript  |
+|  2812  |  Find the Safest Path in a Grid  |  ✅  |  Typescript  |
 |  2816  |  Double a Number Represented as a Linked List  |  ✅  |  Typescript  |
 |  2849  |  Determine if a Cell Is Reachable at a Given Time  |  ✅  |  Typescript  |
 |  2864  |  Maximum Odd Binary Number  |  ✅  |  Typescript  |
