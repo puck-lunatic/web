@@ -582,6 +582,7 @@
 |  2305  |  Fair Distribution of Cookies  |  ✅  |  Typescript  |
 |  2316  |  Count Unreachable Pairs of Nodes in an Undirected Graph  |  ✅  |  Typescript  |
 |  2328  |  Number of Increasing Paths in a Grid  |  ✅  |  Typescript  |
+|  2331  |  Evaluate Boolean Binary Tree  |  ✅  |  Typescript  |
 |  2336  |  Smallest Number in Infinite Set  |  ✅  |  Typescript  |
 |  2348  |  Number of Zero-Filled Subarrays  |  ✅  |  Typescript  |
 |  2352  |  Equal Row and Column Pairs  |  ✅  |  Typescript  |
