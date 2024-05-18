@@ -381,6 +381,7 @@
 |  971  |  Flip Binary Tree To Match Preorder Traversal  |  ✅  |  Rust  |
 |  977  |  Squares of a Sorted Array  |  ✅  |  Typescript  |
 |  978  |  Longest Turbulent Subarray  |  ✅  |  Rust  |
+|  979  |  Distribute Coins in Binary Tree  |  ✅  |  Typescript  |
 |  983  |  Minimum Cost For Tickets  |  ✅  |  Typescript  |
 |  988  |  Smallest String Starting From Leaf  |  ✅  |  Typescript  |
 |  992  |  Subarrays with K Different Integers  |  ✅  |  Typescript  |
