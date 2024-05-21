@@ -62,6 +62,7 @@
 |  75  |  Sort Colors  |  ✅  |  Typescript  |
 |  76  |  Minimum Window Substring  |  ✅  |  Typescript, Javascript  |
 |  77  |  Combinations  |  ✅  |  Typescript  |
+|  78  |  Subsets  |  ✅  |  Rust  |
 |  79  |  Word Search  |  ✅  |  Typescript  |
 |  81  |  Search in Rotated Sorted Array II  |  ✅  |  Rust, Typescript  |
 |  86  |  Partition List  |  ✅  |  Rust, Typescript  |
