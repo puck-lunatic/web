@@ -94,7 +94,7 @@
 |  121  |  Best Time to Buy and Sell Stock  |  ✅  |  Rust, Typescript, Dart  |
 |  128  |  Longest Consecutive Sequence  |  ✅  |  Rust  |
 |  129  |  Sum Root to Leaf Numbers  |  ✅  |  Typescript  |
-|  131  |  Palindrome Partitioning  |  ✅  |  Rust  |
+|  131  |  Palindrome Partitioning  |  ✅  |  Rust, Typescript  |
 |  133  |  Clone Graph  |  ✅  |  Typescript  |
 |  135  |  Candy  |  ✅  |  Rust, Typescript  |
 |  136  |  Single Number  |  ✅  |  Rust  |
