@@ -101,6 +101,7 @@
 |  137  |  Single Number II  |  ✅  |  Typescript  |
 |  138  |  Copy List with Random Pointer  |  ✅  |  Typescript  |
 |  139  |  Word Break  |  ✅  |  Typescript  |
+|  140  |  Word Break II  |  ✅  |  Typescript  |
 |  141  |  Linked List Cycle  |  ✅  |  Typescript  |
 |  142  |  Linked List Cycle II  |  ✅  |  Typescript  |
 |  143  |  Reorder List  |  ✅  |  Typescript  |
