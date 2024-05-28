@@ -417,6 +417,7 @@
 |  1192  |  Critical Connections in a Network  |  ✅  |  Rust  |
 |  1203  |  Sort Items by Groups Respecting Dependencies  |  ✅  |  Typescript  |
 |  1207  |  Unique Number of Occurrences  |  ✅  |  Typescript  |
+|  1208  |  Get Equal Substrings Within Budget  |  ✅  |  Typescript  |
 |  1209  |  Remove All Adjacent Duplicates in String II  |  ✅  |  Rust  |
 |  1218  |  Longest Arithmetic Subsequence of Given Difference  |  ✅  |  Typescript  |
 |  1219  |  Path with Maximum Gold  |  ✅  |  Typescript  |
