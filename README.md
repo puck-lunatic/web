@@ -460,6 +460,7 @@
 |  1395  |  Count Number of Teams  |  ✅  |  Rust  |
 |  1396  |  Design Underground System  |  ✅  |  Rust, Typescript  |
 |  1402  |  Reducing Dishes  |  ✅  |  Typescript  |
+|  1404  |  Number of Steps to Reduce a Number in Binary Representation to One  |  ✅  |  Typescript  |
 |  1406  |  Stone Game III  |  ✅  |  Typescript  |
 |  1416  |  Restore The Array  |  ✅  |  Typescript  |
 |  1420  |  Build Array Where You Can Find The Maximum Exactly K Comparisons  |  ✅  |  Typescript  |
