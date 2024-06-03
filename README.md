@@ -612,6 +612,7 @@
 |  2482  |  Difference Between Ones and Zeros in Row and Column  |  ✅  |  Typescript  |
 |  2483  |  Minimum Penalty for a Shop  |  ✅  |  Typescript  |
 |  2485  |  Find the Pivot Integer  |  ✅  |  Typescript  |
+|  2486  |   Append Characters to String to Make Subsequence  |  ✅  |  Typescript  |
 |  2487  |  Remove Nodes From Linked List  |  ✅  |  Typescript  |
 |  2492  |  Minimum Score of a Path Between Two Cities  |  ✅  |  Typescript  |
 |  2540  |  Minimum Common Value  |  ✅  |  Typescript  |
