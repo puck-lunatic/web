@@ -566,6 +566,7 @@
 |  1992  |  Find All Groups of Farmland  |  ✅  |  Typescript  |
 |  2009  |  Minimum Number of Operations to Make Array Continuous  |  ✅  |  Typescript  |
 |  2024  |  Maximize the Confusion of an Exam  |  ✅  |  Typescript  |
+|  2037  |  Minimum Number of Moves to Seat Everyone  |  ✅  |  Typescript  |
 |  2038  |  Remove Colored Pieces if Both Neighbors are the Same Color  |  ✅  |  Typescript  |
 |  2050  |  Parallel Courses III  |  ✅  |  Typescript  |
 |  2073  |  Time Needed to Buy Tickets  |  ✅  |  Typescript  |
