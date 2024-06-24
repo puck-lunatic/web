@@ -390,6 +390,7 @@
 |  988  |  Smallest String Starting From Leaf  |  ✅  |  Typescript  |
 |  992  |  Subarrays with K Different Integers  |  ✅  |  Typescript  |
 |  994  |  Rotting Oranges  |  ✅  |  Typescript  |
+|  995  |  Minimum Number of K Consecutive Bit Flips  |  ✅  |  Typescript  |
 |  997  |  Find the Town Judge  |  ✅  |  Typescript  |
 |  1004  |  Max Consecutive Ones III  |  ✅  |  Rust  |
 |  1011  |  Capacity To Ship Packages Within D Days  |  ✅  |  Typescript  |
@@ -498,6 +499,7 @@
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
 |  1544  |  Make The String Great  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
+|  1552  |  Magnetic Force Between Two Balls  |  ✅  |  Typescript  |
 |  1561  |  Maximum Number of Coins You Can Ge  |  ✅  |  Typescript  |
 |  1569  |  Number of Ways to Reorder Array to Get Same BST  |  ✅  |  Typescript  |
 |  1572  |  Matrix Diagonal Sum  |  ✅  |  Typescript  |
