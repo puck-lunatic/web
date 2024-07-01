@@ -498,6 +498,7 @@
 |  1531  |  String Compression II  |  ✅  |  Typescript  |
 |  1539  |  Kth Missing Positive Number  |  ✅  |  Typescript  |
 |  1544  |  Make The String Great  |  ✅  |  Typescript  |
+|  1550  |  Three Consecutive Odds  |  ✅  |  Typescript  |
 |  1551  |  Minimum Operations to Make Array Equal  |  ✅  |  Rust  |
 |  1552  |  Magnetic Force Between Two Balls  |  ✅  |  Typescript  |
 |  1561  |  Maximum Number of Coins You Can Ge  |  ✅  |  Typescript  |
