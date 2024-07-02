@@ -177,7 +177,7 @@
 |  343  |  Integer Break  |  ✅  |  Typescript  |
 |  347  |  Top K Frequent Elements  |  ✅  |  Typescript  |
 |  349  |  Intersection of Two Arrays  |  ✅  |  Typescript  |
-|  350  |  Intersection of Two Arrays II  |  ✅  |  Rust  |
+|  350  |  Intersection of Two Arrays II  |  ✅  |  Rust, Typescript  |
 |  354  |  Russian Doll Envelopes  |  ✅  |  Rust  |
 |  363  |  Max Sum of Rectangle No Larger Than K  |  ✅  |  Rust  |
 |  368  |  Largest Divisible Subset  |  ✅  |  Typescript  |
